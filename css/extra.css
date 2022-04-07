@@ -7,21 +7,13 @@
 }
 
 body {
-
+  background: #fcfcfc;
 }
 
 .md-content__inner {
   max-width: 40rem;
+  margin-bottom: 6rem;
 }
-
-.md-content__inner p img {
-  display: block;
-  border-radius: .25rem;
-  margin: 0 auto;
-  max-width: 94%;
-  height: auto;
-}
-
 
 /*font-family: 'Barlow', sans-serif;
 font-family: 'Barlow Condensed', sans-serif;
@@ -113,8 +105,18 @@ figcaption {
 
 figure {
   box-shadow: var(--md-shadow-z1);
-  margin: 1.5rem 0 3rem 0 !important;
+  max-width: 94% !important;
+  margin: 2.5rem auto 3rem auto !important;
+  display: block;
+  border-radius: .25rem;
+  
+  height: auto;
 }
+
+.md-content__inner p {
+  margin-top:  -1rem;
+}
+
 
 figcaption {
   border-top: 1px solid var(--md-default-fg-color--lightest);
