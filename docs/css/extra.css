@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:wght@400;700&display=swap');
+
+/* Set a off-white for the body bg on default light theme */
+
+body[data-md-color-scheme="default"] {
+  background: #fcfcfc;
+}
+
+/*move the header flush left against logo div*/
+.md-header__title {
+  margin-left: 0 !important;
+}
+
+/* Constrain the width of the main body area */
+.md-content__inner {
+  max-width: 30rem;
+  margin-bottom: 6rem;
+}
+
+/*Typography*/
+.md-header__topic {
+ font-family: 'Barlow Condensed', sans-serif; 
+ font-weight: 700;
+}
+
+.md-nav__list {
+  font-family: 'Barlow', sans-serif; 
+}
+
+h1, h2, h3 {
+ font-family: 'Barlow Condensed', sans-serif; 
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 700 !important;
+}
+
+h4, h5, h6, p {
+  font-family: 'Barlow', sans-serif;  
+}
+  
+h3, h4 {
+  font-weight: 700 !important;
+  color:  var(--md-default-fg-color--light);
+}
+
+.md-content__inner a {
+  color: var(--md-accent-fg-color);
+  transition-duration: 100ms;
+}
+
+.md-content__inner a:hover {
+  text-decoration: underline;
+}
+
+.md-content__inner ul, 
+.md-content__inner ol {
+  font-family: 'Barlow', sans-serif; 
+  line-height: 1.2;
+  padding-left: 1.5rem;
+}
+
+.admonition-title {
+  font-family:  'Space Mono', monospace;
+  font-weight: 700;
+}
+
+.admonition p {
+  font-family:  'Space Mono', monospace;
+}
+
+/*Resize task list icons*/
+
+.md-typeset .task-list-indicator:before {
+  width: 1.1em;
+  height: 1.1em;
+  top: .1em;
+}
+
+/*figures*/
+
+figure {
+  box-shadow: var(--md-shadow-z1);
+  max-width: 94% !important;
+  margin: 2.5rem auto 3rem auto !important;
+  display: block;
+  border-radius: .25rem;
+  height: auto;
+}
+
+
+figcaption {
+  font-family:  'Space Mono', monospace;
+  font-style: italic;
+  font-size: .5rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  padding-top: .5rem;
+}

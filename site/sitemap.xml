@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2022-04-05</lastmod>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/</loc>
+         <lastmod>2022-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/warhorn-for-organizers/</loc>
+         <lastmod>2022-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/warhorn/</loc>
+         <lastmod>2022-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

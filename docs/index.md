@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# The Unofficial Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is Doug's collection of unoffocial docs. None of these guides are officiually endorsed by Paizo or the OPF, but some were collected from VOs. 
 
-## Commands
+## Table of Contents
+- [How to org Play](org-play.md)
+- [Warhorn for Players](warhorn.md)
+- [Warhorn for Organizers](warhorn.md)
+- [How to Paizo Play by Post](warhorn.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### On Deck
+- GM Guide: Splitting and creating Chronicles
+- Using VTTs (players & GMs)
+- Using Roll20 (players & GMs)
+- Using Foundry (players & GMs)
+- Using Google slides (players & GMs)
+- Using FGU (players & GMs)
+- Warhorn for Con Organizers 
+- Using RPG Chronicles
+- [Auto Versioning](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/) on v 1.0

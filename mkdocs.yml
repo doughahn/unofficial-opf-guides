@@ -1,2 +1,74 @@
-site_name: My Docs
-name: material
+site_name: Unofficial Paizo Guides
+site_url: https://doughahn.github.io/unofficial-opf-guides/
+nav:
+    - Organized Play 101: org-play.md
+    - Warhorn for Players: warhorn.md
+    - Warhorn for Organizers: warhorn-for-organizers.md
+    - Paizo Play by Post: play-by-post.md
+    # - VTTs: vtts.md
+    # - Roll20: roll20.md
+    # - Foundry: foundry.md
+    # - Slides: slides.md 
+    # - Suggested-rulings: suggested-rulings.md
+    # - Class & Skill Guides: guides.md 
+theme:
+  name: 'material'
+  font:
+    - text: 'Source Sas pro'
+    - code: 'Inconsolata'
+  palette:
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - navigation.sections
+    - navigation.expand
+    - content.tabs.link
+  hide:
+    - navigation
+  logo: 
+    'https://gmdoug.sfo3.digitaloceanspaces.com/glyph.svg'
+extra:
+  version:
+    provider: mike
+repo_name: doughahn/unofficial-opf-guides
+repo_url: https://github.com/doughahn/unofficial-opf-guides
+extra_css:
+    - css/extra.css
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      toc_depth: 3
+      permalink: 6
+      permalink: ⚑
+copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'
