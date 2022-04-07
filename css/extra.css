@@ -73,6 +73,10 @@ h3, h4 {
   font-family:  'Space Mono', monospace;
 }
 
+code, .rst-content tt, .rst-content code {
+  white-space : pre-wrap !important;
+}
+
 /*Resize task list icons*/
 
 .md-typeset .task-list-indicator:before {
