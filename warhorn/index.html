@@ -1,0 +1,910 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://doughahn.github.io/unofficial-opf-guides/warhorn/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.2.4">
+    
+    
+      
+        <title>Warhorn for Players - Unofficial Paizo Guides</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.2d9f7617.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../css/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#warhorn-for-players" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Unofficial Paizo Guides" class="md-header__button md-logo" aria-label="Unofficial Paizo Guides" data-md-component="logo">
+      
+  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/P.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Unofficial Paizo Guides
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Warhorn for Players
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Unofficial Paizo Guides" class="md-nav__button md-logo" aria-label="Unofficial Paizo Guides" data-md-component="logo">
+      
+  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/P.png" alt="logo">
+
+    </a>
+    Unofficial Paizo Guides
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Warhorn for Players
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Warhorn for Players
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-set-up" class="md-nav__link">
+    Getting Set Up
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting Set Up">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#create-your-account" class="md-nav__link">
+    Create your Account
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#set-your-time-zone" class="md-nav__link">
+    Set Your Time Zone
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-your-organized-play-info" class="md-nav__link">
+    Add your Organized Play Info
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-your-organized-play-characters" class="md-nav__link">
+    Add your Organized Play Characters
+  </a>
+  
+    <nav class="md-nav" aria-label="Add your Organized Play Characters">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#editing-characters" class="md-nav__link">
+    Editing Characters
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#finding-events-reserving-seats" class="md-nav__link">
+    Finding Events &amp; Reserving Seats
+  </a>
+  
+    <nav class="md-nav" aria-label="Finding Events &amp; Reserving Seats">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#finding-events" class="md-nav__link">
+    Finding Events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#registering-for-the-event" class="md-nav__link">
+    Registering for the Event
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reserving-your-seat" class="md-nav__link">
+    Reserving your Seat
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plan-play" class="md-nav__link">
+    Plan &amp; Play
+  </a>
+  
+    <nav class="md-nav" aria-label="Plan &amp; Play">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-dashboard" class="md-nav__link">
+    The Dashboard
+  </a>
+  
+    <nav class="md-nav" aria-label="The Dashboard">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-to-the-events-youre-registered-for" class="md-nav__link">
+    Getting to the Events You're Registered For
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#following-an-event" class="md-nav__link">
+    Following an Event
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#customize-the-news-feed" class="md-nav__link">
+    Customize the news Feed
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calendars-agendas" class="md-nav__link">
+    Calendars &amp; Agendas
+  </a>
+  
+    <nav class="md-nav" aria-label="Calendars &amp; Agendas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#agenda" class="md-nav__link">
+    Agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calendar" class="md-nav__link">
+    Calendar
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#email-notifications" class="md-nav__link">
+    Email Notifications
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#game-session-information" class="md-nav__link">
+    Game Session Information
+  </a>
+  
+    <nav class="md-nav" aria-label="Game Session Information">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#time-date-location" class="md-nav__link">
+    Time, Date, Location
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sidebar" class="md-nav__link">
+    Sidebar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#about-tab" class="md-nav__link">
+    About Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#discussion-tab" class="md-nav__link">
+    Discussion Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#activity-tab" class="md-nav__link">
+    Activity Tab
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#best-practices" class="md-nav__link">
+    Best practices
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warhorn-for-organizers/" class="md-nav__link">
+        Warhorn for Organizers
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../org-play.md" class="md-nav__link">
+        Organized Play
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pbp.md" class="md-nav__link">
+        PbP
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vtts.md" class="md-nav__link">
+        VTTs
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../roll20.md" class="md-nav__link">
+        Roll20
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../foundry.md" class="md-nav__link">
+        Foundry
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../slides.md" class="md-nav__link">
+        Slides
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../suggested-rulings.md" class="md-nav__link">
+        Suggested-rulings
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guides.md" class="md-nav__link">
+        Class & Skill Guides
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="warhorn-for-players">Warhorn for Players<a class="headerlink" href="#warhorn-for-players" title="Permanent link">&para;</a></h1>
+<p><em>Authors: Joel Hager &amp; Doug Hahn (edits)</em></p>
+<p><a href="http://warhorn.net/">Warhorn</a> is a web service that manages gaming events. It is commonly used in the Paizo Organized play environment, where players can follow events and reserve seats at public games. </p>
+<p>For many events, players are asked to reserve their seats on Warhorn ahead of time. This allows the organizer and GM to know how many people are attending the event, and what levels the player characters are. </p>
+<h2 id="getting-set-up">Getting Set Up<a class="headerlink" href="#getting-set-up" title="Permanent link">&para;</a></h2>
+<h3 id="create-your-account">Create your Account<a class="headerlink" href="#create-your-account" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Go to <a href="http://warhorn.net/">warhorn.net</a> and click the big blue button that says <code>Sign up Now.</code> You can sign up using an email address and password, or choose Facebook integration. You will also choose a user name at this point.</p>
+<div class="admonition attention">
+<p class="admonition-title">Attention</p>
+<p>Make sure you use an active email address; important communications like canceled events and changes are often sent via email through Warhorn and can be customized in your Settings.</p>
+</div>
+<p>You will need to confirm your email address. </p>
+<h3 id="set-your-time-zone">Set Your Time Zone<a class="headerlink" href="#set-your-time-zone" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Warhorn is used globally, so setting your time zone is critical. To do this, follow these steps:</p>
+<ol>
+<li>Log in</li>
+<li>Click your profile icon in the top right corner</li>
+<li>Click Settings</li>
+<li>Under <code>Account Settings</code>, below <code>Email</code> and <code>Name</code>, locate the <code>Time Zone</code> dropdown</li>
+<li>Select your time zone</li>
+<li>Click <code>Save Changes</code></li>
+</ol>
+<figure>
+<p><img alt="Warhorn Time Zone" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-timeZone2.jpg" /></p>
+<figcaption>Account Settings: Email, Name, and Time Zone</figcaption>
+</figure>
+<h3 id="add-your-organized-play-info">Add your Organized Play Info<a class="headerlink" href="#add-your-organized-play-info" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Adding your Organized Play ID is a convenience for the organizer, as they often need your info to report games. </p>
+<ol>
+<li>Log in</li>
+<li>Click your profile icon in the top right corner</li>
+<li>Click Settings</li>
+<li>Click <code>Memberships</code> below the "Organized Play" heading in the sidebar</li>
+<li>Enter your Organized Play member number</li>
+<li>Click <code>Save</code></li>
+</ol>
+<figure>
+<p><img alt="Saving your Organized Play ID" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-memberships3.jpg" /></p>
+<figcaption>Saving your Organized Play Membership ID</figcaption>
+</figure>
+<h3 id="add-your-organized-play-characters">Add your Organized Play Characters<a class="headerlink" href="#add-your-organized-play-characters" title="Permanent link">&para;</a></h3>
+<hr />
+<ol>
+<li>Log in</li>
+<li>Click your profile icon in the top right corner</li>
+<li>Click <code>Settings</code></li>
+<li>Click <code>Characters</code> below the "Organized Play" heading in the sidebar</li>
+<li>Click <code>Add Your First Character</code></li>
+<li>Type the campaign name for the character is participating in<ul>
+<li>Type "Pathfinder" for Pathfinder or "Starfinder" for Starfinder</li>
+<li>Click the campaign to select it (If you are playing Pathfinder, make sure to choose the correct edition) </li>
+</ul>
+</li>
+<li>Enter the PC Name</li>
+<li>Enter the Paizo Organized Play number for the character. <ul>
+<li>For Pathfinder 2nd edition, this is your Organized Play member number followed by a dash, followed by the character number (starting at <code>-2001</code>)</li>
+<li>For Starfinder, this is your Organized Play member number followed by a dash, followed by the character number (starting at <code>-701</code>)</li>
+</ul>
+</li>
+<li>Enter any notes that might be helpful to fellow players or the GM</li>
+<li>Click <code>Save</code></li>
+</ol>
+<figure>
+<p><img alt="Adding a Character" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-CreateCharacter.jpg" /></p>
+<figcaption>Adding a new character.</figcaption>
+</figure>
+<h4 id="editing-characters">Editing Characters<a class="headerlink" href="#editing-characters" title="Permanent link">&para;</a></h4>
+<p>Now that you've added a class, it's time to add a class and level for the character. You should now see the character appear when you click on <strong>Characters</strong> in the sidebar in Settings. You can add class and levels to it how.</p>
+<ol>
+<li>Click on the character's name</li>
+<li>On the right side of the "Classes" heading, click the <code>+</code> button</li>
+<li>Select the Class</li>
+<li>Enter the character's level</li>
+<li>If you have multiple classes, repeat by clicking on the <code>+</code> button again</li>
+<li>Click <code>Save</code></li>
+</ol>
+<figure>
+<p><img alt="Adding a Character Class" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-addClass.jpg" /></p>
+<figcaption>Adding a new class to an existing character</figcaption>
+</figure>
+<h2 id="finding-events-reserving-seats">Finding Events &amp; Reserving Seats<a class="headerlink" href="#finding-events-reserving-seats" title="Permanent link">&para;</a></h2>
+<p>Warhorn is a global collection of events; simply having an account doesn't give you access to all of the listed events. You have to register for the events you want to participate in. Note that each event might have its own rules, designed to enhance the experience for that particular community. </p>
+<h3 id="finding-events">Finding Events<a class="headerlink" href="#finding-events" title="Permanent link">&para;</a></h3>
+<hr />
+<p>On the main Warhorn page, there are four options to search for an event:</p>
+<ul>
+<li><code>Games</code> will list games happening today that still have room for signups.   </li>
+<li><code>Events</code> lists upcoming conventions.  </li>
+<li><code>Organized Play</code> takes you to a list of organizations running organized play. Clicking an organization will take you to a page with information about the campaign, including the number of upcoming games listed on Warhorn. </li>
+<li><code>Game Systems</code> lists all the game systems currently being run on Warhorn; this is a good way to find smaller indie games being organized, such as Call of Cthulu. </li>
+</ul>
+<figure>
+<p><img alt="Game Listings on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-gameListings.jpg" /></p>
+<figcaption>Game listings as they appear on Warhorn</figcaption>
+</figure>
+<p>By clicking on the search icon in the sidebar you can filter each search by system, virtual tabletop, language, city, and more. </p>
+<figure>
+<p><img alt="A Warhorn search" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-search2.jpg" /></p>
+<figcaption>A search for Pathfinder games run on the Foundry VTT</figcaption>
+</figure>
+<p>Many players try to find events in their local area or drill down to events that often host games on their VTT of choice. It's all about preference. </p>
+<h3 id="registering-for-the-event">Registering for the Event<a class="headerlink" href="#registering-for-the-event" title="Permanent link">&para;</a></h3>
+<hr />
+<p>If you find a game that you want to play, you can click on it. Once you get to the specific session, the Details section will show whether there are openings for GMs, Players, or both (or if there is a wait list available). The listing will also contain information about the adventure being organized, as well as any pertinent notes the organizer has included. </p>
+<figure>
+<p><img alt="Game Listings on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-search2.jpg" /></p>
+<figcaption>A search for Pathfinder games run on the Foundry VTT</figcaption>
+</figure>
+<p>At that point, you can register for the event. Once you are cleared (sometimes this happens automatically, and other times it can take a few days) you can sign up to either GM or play.</p>
+<figure>
+<p><img alt="An event listing on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-eventInfo.jpg" /></p>
+<figcaption>An event listing on Warhorn. The Register button is circled.</figcaption>
+</figure>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Make sure to read about the event on its home page to ensure you understand the signup process and other rules. </p>
+</div>
+<h3 id="reserving-your-seat">Reserving your Seat<a class="headerlink" href="#reserving-your-seat" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Once you are registered and cleared, you can then reserve your seat at the event. Click on the event, scroll down to where it says <code>Players</code>, and click <code>Sign up to Play</code>. </p>
+<figure>
+<p><img alt="Signing up for a Game on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-gameSignup.jpg" /></p>
+<figcaption>Signing up for a game at an event where you are registered and cleared. The signup button is circled.</figcaption>
+</figure>
+<p>A window will open up with a variety of options, Here, you can select a PC you have saved, or enter some basic info about your character. Generally, this additional information is optional. However, it can help the organizer to enter all the information you can.</p>
+<figure>
+<p><img alt="Adding character information on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-characterOptions.jpg" /></p>
+<figcaption>Adding character information on Warhorn</figcaption>
+</figure>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Always enter a character level at a minimum so the GM can do a better job prepping the adventure.</p>
+</div>
+<h2 id="plan-play">Plan &amp; Play<a class="headerlink" href="#plan-play" title="Permanent link">&para;</a></h2>
+<p>After you've found and registered for events you enjoy, you can start using Warhorn for many of your gaming needs. </p>
+<h3 id="the-dashboard">The Dashboard<a class="headerlink" href="#the-dashboard" title="Permanent link">&para;</a></h3>
+<hr />
+<p>The home page of Warhorn features a dashboard with "News." This section only populates after you have registered for — and been cleared for — an event. This section isn't news; it's a feed of event information and changes. You can customize it to your liking.</p>
+<h4 id="getting-to-the-events-youre-registered-for">Getting to the Events You're Registered For<a class="headerlink" href="#getting-to-the-events-youre-registered-for" title="Permanent link">&para;</a></h4>
+<p>To find the event you registered for, from the Warhorn home page:</p>
+<ol>
+<li>Click on <code>Events</code></li>
+<li>Click on <code>Registered</code></li>
+<li>Click on the event you wish to view. </li>
+</ol>
+<p>You can also use the "Following" filter to access a list of events you're <a href="#following-an-event">following</a>. </p>
+<h4 id="following-an-event">Following an Event<a class="headerlink" href="#following-an-event" title="Permanent link">&para;</a></h4>
+<p>Warhorn classifies the events you are registered for as "Following" and "Registered." "Following" an event places it at the forefront of the website's UI, placing it into your news feed, and more. Often, players will register for events but attend them infrequently. Following an event is an excellent way to flag events that you attend regularly. </p>
+<p>To follow an event you're registered for:</p>
+<ol>
+<li>Navigate to the Warhorn Home Page</li>
+<li>Click on <code>Events</code></li>
+<li>Click on <code>Registered</code></li>
+<li>Hover your mouse over the event name</li>
+<li>Click <code>Follow</code></li>
+</ol>
+<h4 id="customize-the-news-feed">Customize the news Feed<a class="headerlink" href="#customize-the-news-feed" title="Permanent link">&para;</a></h4>
+<p>By default, everything is turned on in the news feed. Some users prefer fewer items. You can toggle the news feed to show the following items:</p>
+<p><strong>Events You're Following</strong>  </p>
+<ul>
+<li>Event created</li>
+<li>Dates changed</li>
+<li>Location changed</li>
+<li>Session listed</li>
+</ul>
+<p><strong>Sessions you're signed up for</strong></p>
+<ul>
+<li>Message posted</li>
+<li>Session canceled</li>
+<li>Scenario changed</li>
+<li>Waitlist disabled</li>
+<li>Waitlist enabled</li>
+</ul>
+<p>Many players turn off everything but the critical information they need for their news feed. </p>
+<h3 id="calendars-agendas">Calendars &amp; Agendas<a class="headerlink" href="#calendars-agendas" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Every event has its own calendar and agenda. These are one of the most common ways regular players sign up for games. </p>
+<h4 id="agenda">Agenda<a class="headerlink" href="#agenda" title="Permanent link">&para;</a></h4>
+<p>To navigate to the Agenda:</p>
+<ol>
+<li>Go to the event's home page </li>
+<li>Click on <code>Schedule</code> </li>
+<li>Click <code>Upcoming Games</code> </li>
+</ol>
+<p>Here, you can find a listing of all the upcoming games along with a variety of filters such as "Only games with open seats" or filters by venue or VTT. Click on a game to reserve your seat. </p>
+<figure>
+<p><img alt="Agenda View on Warhorn with filters" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-agendaView.jpg" /></p>
+<figcaption>An agenda view, filtering for games with open seats at a specific venues</figcaption>
+</figure>
+<h4 id="calendar">Calendar<a class="headerlink" href="#calendar" title="Permanent link">&para;</a></h4>
+<p>Some events have the Calendar view enabled. To navigate to the Calendar:</p>
+<ol>
+<li>Go to the event's home page </li>
+<li>Click on <code>Schedule</code> </li>
+<li>Click on the current month</li>
+</ol>
+<p>As with the Agenda view, you can filter in a variety of ways, including VTT, available seats, location, and more. Click on a game to reserve your seat. You can click to right/left arrows along the top of the calendar to move forward by months — a great strategy for planning your gaming well in advance. </p>
+<figure>
+<p><img alt="Calendar View on Warhorn" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-calendar.jpg" /></p>
+<figcaption>Calendar view, filtering for games with open seats at a specific venues</figcaption>
+</figure>
+<h3 id="email-notifications">Email Notifications<a class="headerlink" href="#email-notifications" title="Permanent link">&para;</a></h3>
+<hr />
+<p>You can customize how Warhorn sends you email notifications. it is a good idea to have some alerts set up at an address you monitor in case events are canceled or change at the last minute, as GMs will often post this information in the Discussion tab.</p>
+<p>To set up your notifications:</p>
+<ol>
+<li>Click your profile icon in the top right</li>
+<li>Click <code>Notifications</code></li>
+<li>Select the drop down for <code>Games you're signed up for</code></li>
+<li>Toggle the notifications to your liking</li>
+</ol>
+<p>It's recommended that <code>Changes</code> at least is toggled on.</p>
+<h3 id="game-session-information">Game Session Information<a class="headerlink" href="#game-session-information" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Warhorn lists events of all kinds; as such, it's important to be aware of all the different pieces of information out there. There are several kinds of information a listing can have. </p>
+<figure>
+<p><img alt="An event listing flagging important game information" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-sessionOverview2.jpg" /></p>
+<figcaption>A Warhorn listing for a game. Flagged are important areas: the game location (online), the game's tags (which VTT it's hosted on), player classes/roles, and important links (Discord info &amp; Sign-in info)</figcaption>
+</figure>
+<h4 id="time-date-location">Time, Date, Location<a class="headerlink" href="#time-date-location" title="Permanent link">&para;</a></h4>
+<p>Pay attention to the top of the listing, where the game's location is posted. Many events run hybrid sessions, meaning some tables may be online and others will be at a physical location. </p>
+<figure>
+<p><img alt="Locations for two events. One is online and the other is at a physical location" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-onlineNotOnline.jpg" /></p>
+<figcaption>Two event headings, with the locations circled. one os online; the other is at a game store.</figcaption>
+</figure>
+<h4 id="sidebar">Sidebar<a class="headerlink" href="#sidebar" title="Permanent link">&para;</a></h4>
+<p>The sidebar contains information about the venue (such as address), and will often contain links to the signup sheet, VTT, and VOIP software that will be used by the group. </p>
+<p>There is also a calendar icon above the adventure cover art. You can click on it to link the event to your calendar (Apple, Google, Office, Outlook, and Yahoo).</p>
+<h4 id="about-tab">About Tab<a class="headerlink" href="#about-tab" title="Permanent link">&para;</a></h4>
+<p>The <code>About</code> tab contains the game's details such as session length, language, seat availability, and any tags the scenario or event has (for example, <code>Online</code>, <code>Roll20</code>, and any metaplot tags dictated by the adventure and game system).</p>
+<p>Next, the Content section contains information about the system and character levels allowed. Make sure you are signing up for a game where you have a character within the level range. </p>
+<p>Next is the GM and Players section, where you can sign up to GM or play. Note that games without a GM might not happen, especially if it's the day of the event. </p>
+<p>Finally, there is the wait list section (if the organizer has allowed one, that is). Players can sign up to be wait listed, and they will be slotted in if someone drops. </p>
+<h4 id="discussion-tab">Discussion Tab<a class="headerlink" href="#discussion-tab" title="Permanent link">&para;</a></h4>
+<p>In the discussion tab, players and GMs can discuss the event and plan. Discussion tabs can be used to coordinate what characters or levels to bring and anything else the players find appropriate. Discussion posts cannot be formatted; hyperlinks will automatically work. </p>
+<h4 id="activity-tab">Activity Tab<a class="headerlink" href="#activity-tab" title="Permanent link">&para;</a></h4>
+<p>Finally, there is the Activity tab, which logs all the activities the event has, such as signups and withdrawals. </p>
+<h2 id="best-practices">Best practices<a class="headerlink" href="#best-practices" title="Permanent link">&para;</a></h2>
+<p>There are some unwritten norms many Warhorn events have; many of these events thrive based on mutual respect for one another's time and efforts. Here are some tips:</p>
+<ol>
+<li>Read the event's home page carefully; many events have special rules to serve their community's needs</li>
+<li>If you aren't sure you can make a game, don't sign up</li>
+<li>If you need to drop at the last minute, email the organizer or post in the discussion tab</li>
+<li>Do not drop games at the last minute often; strive to be known for reliability</li>
+<li>Do not no-call-no-show</li>
+<li>Always enter your class and level; if you aren't sure what to bring or play, post about it in the discussion tab</li>
+<li>Double check event locations before signing up</li>
+<li>If you cannot/will not play on a particular VTT, do not sign up for games that do not have a VTT listed</li>
+<li>Do not use the discussion tag to start flame wars about what VTT you think is best</li>
+<li>Don't be shy about waitlisting; if the organizer knows there's extra interest in a game, they can add more tables</li>
+</ol>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+      
+        
+        <a href="../warhorn-for-organizers/" class="md-footer__link md-footer__link--next" aria-label="Next: Warhorn for Organizers" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Warhorn for Organizers
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["toc.follow", "toc.integrate", "navigation.expand"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.bd0b6b67.min.js"}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.5413a266.min.js"></script>
+      
+    
+  </body>
+</html>
