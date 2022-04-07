@@ -50,12 +50,16 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="" data-md-color-accent="">
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="light-blue">
   
     
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -72,6 +76,12 @@
       
     </div>
     
+      <div data-md-component="outdated" hidden>
+        <aside class="md-banner md-banner--warning">
+          
+        </aside>
+      </div>
+    
     
       
 
@@ -79,7 +89,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href=".." title="Unofficial Paizo Guides" class="md-header__button md-logo" aria-label="Unofficial Paizo Guides" data-md-component="logo">
       
-  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/P.png" alt="logo">
+  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/glyph.svg" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -101,6 +111,28 @@
         </div>
       </div>
     </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue-grey" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+            </label>
+          
+        
+      </form>
     
     
     
@@ -138,6 +170,18 @@
 </div>
     
     
+      <div class="md-header__source">
+        <a href="https://github.com/doughahn/unofficial-opf-guides/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    doughahn/unofficial-opf-guides
+  </div>
+</a>
+      </div>
+    
   </nav>
   
 </header>
@@ -166,13 +210,40 @@
   <label class="md-nav__title" for="__drawer">
     <a href=".." title="Unofficial Paizo Guides" class="md-nav__button md-logo" aria-label="Unofficial Paizo Guides" data-md-component="logo">
       
-  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/P.png" alt="logo">
+  <img src="https://gmdoug.sfo3.digitaloceanspaces.com/glyph.svg" alt="logo">
 
     </a>
     Unofficial Paizo Guides
   </label>
   
+    <div class="md-nav__source">
+      <a href="https://github.com/doughahn/unofficial-opf-guides/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    doughahn/unofficial-opf-guides
+  </div>
+</a>
+    </div>
+  
   <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../org-play/" class="md-nav__link">
+        Organized Play 101
+      </a>
+    </li>
+  
+
     
       
       
@@ -203,6 +274,8 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           Warhorn for Organizers
@@ -219,6 +292,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -227,40 +302,33 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#warhorn-for-organizers" class="md-nav__link">
-    Warhorn for Organizers
-  </a>
-  
-    <nav class="md-nav" aria-label="Warhorn for Organizers">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#creating-an-event" class="md-nav__link">
     Creating an Event
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#event-dashboard" class="md-nav__link">
     Event Dashboard
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#set-up-roles" class="md-nav__link">
     Set up Roles
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#opening-the-event-to-the-world" class="md-nav__link">
-    Opening the Event to the World
+      
+        <li class="md-nav__item">
+  <a href="#opening-the-event" class="md-nav__link">
+    Opening the Event
   </a>
   
-</li>
+    <nav class="md-nav" aria-label="Opening the Event">
+      <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#signup-options" class="md-nav__link">
@@ -283,9 +351,56 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#manage-the-event" class="md-nav__link">
+    Manage the Event
+  </a>
+  
+    <nav class="md-nav" aria-label="Manage the Event">
+      <ul class="md-nav__list">
+        
           <li class="md-nav__item">
-  <a href="#the-manage-button" class="md-nav__link">
-    The Manage Button
+  <a href="#manage-schedule" class="md-nav__link">
+    Manage Schedule
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manage-scenarios" class="md-nav__link">
+    Manage Scenarios
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#manage-registrations" class="md-nav__link">
+    Manage Registrations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#manage-venues" class="md-nav__link">
+    Manage Venues
+  </a>
+  
+    <nav class="md-nav" aria-label="Manage Venues">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#registration-fees" class="md-nav__link">
+    Registration Fees
   </a>
   
 </li>
@@ -311,113 +426,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../org-play.md" class="md-nav__link">
-        Organized Play
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../pbp.md" class="md-nav__link">
-        PbP
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../vtts.md" class="md-nav__link">
-        VTTs
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../roll20.md" class="md-nav__link">
-        Roll20
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../foundry.md" class="md-nav__link">
-        Foundry
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../slides.md" class="md-nav__link">
-        Slides
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../suggested-rulings.md" class="md-nav__link">
-        Suggested-rulings
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../guides.md" class="md-nav__link">
-        Class & Skill Guides
+      <a href="../play-by-post/" class="md-nav__link">
+        Paizo Play by Post
       </a>
     </li>
   
@@ -435,36 +445,39 @@
             <article class="md-content__inner md-typeset">
               
                 
+<a href="https://github.com/doughahn/unofficial-opf-guides/edit/master/docs/warhorn-for-organizers.md" title="Edit this page" class="md-content__button md-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+</a>
 
 
-  <h1>Warhorn for Organizers</h1>
 
-<h2 id="warhorn-for-organizers">Warhorn for Organizers<a class="headerlink" href="#warhorn-for-organizers" title="Permanent link">&para;</a></h2>
+<h1 id="warhorn-for-organizers">Warhorn for Organizers<a class="headerlink" href="#warhorn-for-organizers" title="Permanent link">⚑</a></h1>
+<h6 id="authored-by-joel-hager"><code>Authored by Joel Hager</code><a class="headerlink" href="#authored-by-joel-hager" title="Permanent link">⚑</a></h6>
 <p>This portion of the guide assumes more familiarity with Warhorn; thus, it will contain fewer screenshots than the player's guide. </p>
-<h3 id="creating-an-event">Creating an Event<a class="headerlink" href="#creating-an-event" title="Permanent link">&para;</a></h3>
+<h2 id="creating-an-event">Creating an Event<a class="headerlink" href="#creating-an-event" title="Permanent link">⚑</a></h2>
 <p>To create an event, click on <code>Submit an Event.</code> Then, name the event. </p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p>Keep in mind that the event name will also be a hotlink on the Warhorn site to your event’s page, so make sure to name it something easily identifiable. For example, a lodge at the Ellsworth station in Antarctica might be named <em>“Ellsworth Antarctica Organized Play.”</em></p>
 </div>
-<p>Set the event as a one-time event or recurring event. </p>
+<p>Next, set the event as a one-time event or recurring event. </p>
 <ul>
 <li>By default, the <code>This is a one-time event</code> box is checked and requires a date or date range to be entered. </li>
 <li>If your event is to be recurring, uncheck the one-time event box. No dates will be required for entry at this time (this will be handled later).</li>
 </ul>
-<p>Provide an event location (blended online and in-person event setup is possible with the software and is set up during the scheduling of a session).</p>
+<p>Nest, provide an event location (blended online and in-person event setup is possible with the software and is set up during the scheduling of a session).</p>
 <ul>
 <li>If it is to be held online, put a check in the <code>This event is held online</code> box.</li>
 <li>If the event is to be an in-person event, leave the <code>This event is held online</code> box unchecked.</li>
 <li>If the event is to be a blend of in-person and online, it is your choice how to handle the <code>This event is held online</code> box, but best practice would be to make sure to add to the details of the event that it will be both.</li>
 <li>If the event is to be private, check the <code>This event is private</code> box.</li>
 </ul>
-<p>Place any additional comments in the comments box.</p>
+<p>nest, place any additional comments in the comments box.</p>
 <ul>
 <li>It may be considered best practice to make sure to include any rules your lodge has for signing up or any other rules that players should know before they decide to join.</li>
 </ul>
-<p>Select either <code>Submit your event with a donation or</code>Submit your event for free.</p>
-<h3 id="event-dashboard">Event Dashboard<a class="headerlink" href="#event-dashboard" title="Permanent link">&para;</a></h3>
+<p>Finally, select either <code>Submit your event with a donation</code> or <code>Submit your event for free</code>.</p>
+<h2 id="event-dashboard">Event Dashboard<a class="headerlink" href="#event-dashboard" title="Permanent link">⚑</a></h2>
 <p>Wait for Warhorn staff to email you to tell you your event site is live. This will give you access to the event dashboard. When you have access, you should be able to see new dropdowns on the top right of the screen:</p>
 <p><code>Tools icon</code>: Here you can manage the schedule, scenarios, registrations, venues, fees, and archive or delete your event. <br />
 <code>List icon</code>: Here you can manage the event's setup, including the Title, Contact, Dates, Location, Details, Fee Settings, Roles, Options, and Integrations. </p>
@@ -477,7 +490,7 @@
 <li>Details (This is where you can get specific about the event, and should contain enough information for players to know how your event will work.)</li>
 <li>Fee Settings (If your event requires any participation fees, whether a badge fee, a table fee, charitable donation fee, or any other fee, players and GMs alike should be made aware in advance.)</li>
 </ul>
-<h3 id="set-up-roles">Set up Roles<a class="headerlink" href="#set-up-roles" title="Permanent link">&para;</a></h3>
+<h2 id="set-up-roles">Set up Roles<a class="headerlink" href="#set-up-roles" title="Permanent link">⚑</a></h2>
 <p>Each role has predefined permissions that you can customize. They include managing the event, managing the session, and viewing [player information. Default roles are:</p>
 <ul>
 <li>Attendee</li>
@@ -489,10 +502,11 @@
 <p class="admonition-title">Tip</p>
 <p>Some hybrid events create custom roles like "In-Person Player" and "Online Player" to differentiate players who play at the local game store versus those who play online; another example might be a local and non-local player. Roles are a great way to customize your events. </p>
 </div>
-<h3 id="opening-the-event-to-the-world">Opening the Event to the World<a class="headerlink" href="#opening-the-event-to-the-world" title="Permanent link">&para;</a></h3>
+<h2 id="opening-the-event">Opening the Event<a class="headerlink" href="#opening-the-event" title="Permanent link">⚑</a></h2>
 <p>When the event is ready, put a check in the box labeled <code>Attendees can register for this event.</code> Optionally, you can also have a custom registration message sent to anyone when they register for the event. A custom message can be a good way to welcome players.</p>
 <p>The Discord connection is set to <code>Ignore</code> by default, meaning attendees are not required to have their Discord account connected to their Warhorn account, however, it is highly suggested that for online events this be changed to <code>Required</code> if your lodge uses Discord for voice chat.</p>
-<h3 id="signup-options">Signup options<a class="headerlink" href="#signup-options" title="Permanent link">&para;</a></h3>
+<h3 id="signup-options">Signup options<a class="headerlink" href="#signup-options" title="Permanent link">⚑</a></h3>
+<hr />
 <p>There are several options available to organizers. </p>
 <ul>
 <li>You can automatically clear registrants to participate (leaving this box unchecked makes it require a manual review and approval)</li>
@@ -507,13 +521,17 @@
 </ul>
 </li>
 </ul>
-<h3 id="enable-monthly-calendar-view">Enable monthly calendar view<a class="headerlink" href="#enable-monthly-calendar-view" title="Permanent link">&para;</a></h3>
+<h3 id="enable-monthly-calendar-view">Enable monthly calendar view<a class="headerlink" href="#enable-monthly-calendar-view" title="Permanent link">⚑</a></h3>
+<hr />
 <p>Enabling the monthly calendar view will allow users to look at your scheduled sessions by either an Agenda view or a Calendar view, permitting them to jump to specific dates.</p>
-<h3 id="services">Services<a class="headerlink" href="#services" title="Permanent link">&para;</a></h3>
+<h3 id="services">Services<a class="headerlink" href="#services" title="Permanent link">⚑</a></h3>
+<hr />
 <p>This specific setting is only useful if you have a Facebook page, which then adds a Facebook Like button or box to your event page.</p>
-<h3 id="the-manage-button">The Manage Button<a class="headerlink" href="#the-manage-button" title="Permanent link">&para;</a></h3>
-<p>The button immediately to the left of the Setup button is the <code>Manage</code> button. This button allows you to make changes to the schedule, scenarios, registrations, venues, and registration fees (each has its listing on the dropdown menu).  <strong>NOTE</strong> - For ongoing games, such as Organized Play games, the two that will be used most frequently will be <code>Schedule</code> and <code>Scenarios</code>.</p>
-<h4 id="manage-schedule">Manage Schedule<a class="headerlink" href="#manage-schedule" title="Permanent link">&para;</a></h4>
+<h2 id="manage-the-event">Manage the Event<a class="headerlink" href="#manage-the-event" title="Permanent link">⚑</a></h2>
+<hr />
+<p>The button immediately to the left of the Setup button is the <code>Manage</code> button. This button allows you to make changes to the schedule, scenarios, registrations, venues, and registration fees (each has its listing on the dropdown menu).  <em>Note:</em>  - For ongoing games, such as Organized Play games, the two that will be used most frequently will be <code>Schedule</code> and <code>Scenarios</code>.</p>
+<h3 id="manage-schedule">Manage Schedule<a class="headerlink" href="#manage-schedule" title="Permanent link">⚑</a></h3>
+<hr />
 <p>To add your first session, click on the Add The Next Occurrence button.</p>
 <ol>
 <li>In the new window, set the start date, start time, time zone, and session duration, and hit save. <ol>
@@ -531,8 +549,8 @@
 </li>
 <li>Click on the <code>Scenario name</code> link that will have now been created to manage the session further.<ul>
 <li><em>For Online Games</em>: If possible indicate which VTT is in use as well as where the Discord server information and invitations will be placed for online games. You can also set up session specific-permissions for each role vs. the global permissions previously mentioned.<ol>
-<li>Click on <code>Add Virtual Tabletop</code> and select the appropriate choice from the list. <strong>NOTE</strong> There is an <code>Other</code> choice, in the event the one you use is not listed.<ol>
-<li>Input the appropriate server information or link for web apps to share with players.  <strong>NOTE</strong> - For Fantasy Grounds Unity, you will also need to choose if this is a Cloud or a LAN game and provide the GM Name and the table password, if there is one.</li>
+<li>Click on <code>Add Virtual Tabletop</code> and select the appropriate choice from the list. <em>Note:</em>  There is an <code>Other</code> choice, in the event the one you use is not listed.<ol>
+<li>Input the appropriate server information or link for web apps to share with players.  <em>Note:</em>  - For Fantasy Grounds Unity, you will also need to choose if this is a Cloud or a LAN game and provide the GM Name and the table password, if there is one.</li>
 <li>Provide the name of the VTT (Mine is named “Starfinder Society Organized Play”, and users will search for me either by my GM name, the VTT name, or both)</li>
 <li>Add any notes and hit save</li>
 </ol>
@@ -554,13 +572,14 @@
 </ol>
 </li>
 </ol>
-<h4 id="manage-scenarios">Manage Scenarios<a class="headerlink" href="#manage-scenarios" title="Permanent link">&para;</a></h4>
+<h3 id="manage-scenarios">Manage Scenarios<a class="headerlink" href="#manage-scenarios" title="Permanent link">⚑</a></h3>
+<hr />
 <p>Before you can schedule games, you must first add scenarios. This is achieved in the <code>manage Scenarios</code> area.</p>
-<h5 id="add-global-scenarios">Add Global Scenarios<a class="headerlink" href="#add-global-scenarios" title="Permanent link">&para;</a></h5>
+<h4 id="add-global-scenarios">Add Global Scenarios<a class="headerlink" href="#add-global-scenarios" title="Permanent link">⚑</a></h4>
 <p>This option has access to Paizo’s database of scenarios to choose from to add to your event.</p>
 <p>Pathfinder is broken out into PF1 and PF2 as the prefixes, and either AP or Mod to select adventure paths or scenarios. Starfinder’s prefix is SF and is broken out as AP, Mod (currently only used for the Free RPG Day Skitter Adventures), or SFS #-##, with the numbers indicating the season and scenario number.</p>
 <p>To add a scenario, start typing the system's prefix, followed by the scenario number or type. You can also type in the scenario name, and it should pick it up. You will need to do this every time Paizo comes out with new scenarios, or you want to run something your event hasn't run before. </p>
-<h5 id="add-custom-scenarios">Add Custom Scenarios<a class="headerlink" href="#add-custom-scenarios" title="Permanent link">&para;</a></h5>
+<h4 id="add-custom-scenarios">Add Custom Scenarios<a class="headerlink" href="#add-custom-scenarios" title="Permanent link">⚑</a></h4>
 <ol>
 <li>Provide the scenario name</li>
 <li>Leave checked or remove the check (as required) from the box indicating if this is an Organized Play Campaign Scenario.</li>
@@ -577,14 +596,14 @@
 </ol>
 </li>
 </ol>
-<h4 id="manage-registrations">Manage Registrations<a class="headerlink" href="#manage-registrations" title="Permanent link">&para;</a></h4>
+<h2 id="manage-registrations">Manage Registrations<a class="headerlink" href="#manage-registrations" title="Permanent link">⚑</a></h2>
 <p>In this section, you can clear people to sign up for sessions (if you do not have automatic clearing turned on), unclear them (if need be), or add registrations. This section also shows you if any of the users have not paid their fee (if there is one).</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>A note on adding registrations - if the user you are attempting to add to your event already has an account on Warhorn, this will not work, as using this action creates a new Warhorn account for the user credentials you are submitting.</p>
 </div>
 <p>By clicking on an existing registered user’s name on the list, you will be able to go into their registration and add them to roles other than the default Attendee role.</p>
-<h4 id="manage-venues">Manage Venues<a class="headerlink" href="#manage-venues" title="Permanent link">&para;</a></h4>
+<h2 id="manage-venues">Manage Venues<a class="headerlink" href="#manage-venues" title="Permanent link">⚑</a></h2>
 <p>Here, you can add in-person venues, public or private, for inclusion in your event. You will need the following information to add a venue:</p>
 <ul>
 <li>Venue name</li>
@@ -596,7 +615,8 @@
 <li>Phone Number</li>
 </ul>
 <p>Be sure to review the <code>Visibility</code> area of the venue entry, as it defaults to the public, permitting anyone on the site to see the address and phone number of the venue, which you may not want if you’re also using this for your home game and put in your personal information for the venue information.</p>
-<h4 id="registration-fees">Registration Fees<a class="headerlink" href="#registration-fees" title="Permanent link">&para;</a></h4>
+<h3 id="registration-fees">Registration Fees<a class="headerlink" href="#registration-fees" title="Permanent link">⚑</a></h3>
+<hr />
 <p>To add a Base fee:</p>
 <ol>
 <li>Set a name for the fee</li>
@@ -622,6 +642,11 @@
           </div>
         </div>
         
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
       </main>
       
         <footer class="md-footer">
@@ -643,6 +668,21 @@
           </div>
         </a>
       
+      
+        
+        <a href="../play-by-post/" class="md-footer__link md-footer__link--next" aria-label="Next: Paizo Play by Post" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Paizo Play by Post
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
       
     </nav>
   
@@ -670,7 +710,7 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": ["toc.follow", "toc.integrate", "navigation.expand"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.bd0b6b67.min.js"}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.top", "toc.follow", "toc.integrate", "navigation.sections", "navigation.expand", "content.tabs.link"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.bd0b6b67.min.js", "version": {"provider": "mike"}}</script>
     
     
       <script src="../assets/javascripts/bundle.5413a266.min.js"></script>

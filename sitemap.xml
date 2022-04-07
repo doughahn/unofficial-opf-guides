@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/org-play/</loc>
+         <lastmod>2022-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/play-by-post/</loc>
+         <lastmod>2022-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://doughahn.github.io/unofficial-opf-guides/warhorn-for-organizers/</loc>
          <lastmod>2022-04-07</lastmod>
          <changefreq>daily</changefreq>
