@@ -113,7 +113,7 @@ figure {
   height: auto;
 }
 
-.md-content__inner p {
+.md-content__inner p img {
   margin-top:  -1rem;
 }
 
