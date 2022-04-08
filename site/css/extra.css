@@ -1,21 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
 
 /* Set a off-white for the body bg on default light theme */
-
 body[data-md-color-scheme="default"] {
   background: #fcfcfc;
 }
 
-/* Constrain the width of the main body area */
+/*move the header flush left against logo div*/
+.md-header__title {
+  margin-left: 0 !important;
+}
+
+/* Constrain the width of the main body area and give the footer some breating room */
 .md-content__inner {
   max-width: 30rem;
   margin-bottom: 6rem;
 }
 
+/*===============*/
 /*Typography*/
+/*===============*/
 .md-header__topic {
- font-family: 'Barlow Condensed', sans-serif; 
- font-weight: 700;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-style: italic;
 }
 
 .md-nav__list {
@@ -26,30 +33,22 @@ h1, h2, h3 {
  font-family: 'Barlow Condensed', sans-serif; 
 }
 
-h1 {
-  font-weight: 700;
-}
-
-h2 {
-  font-weight: 700 !important;
-}
-
 h4, h5, h6, p {
   font-family: 'Barlow', sans-serif;  
 }
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+}
   
-h3, h4 {
-  font-weight: 700 !important;
+.md-typeset h3, 
+.md-typeset h4 {
+  font-weight: 700;
   color:  var(--md-default-fg-color--light);
 }
 
-.md-content__inner ul, 
-.md-content__inner ol {
-  font-family: 'Barlow', sans-serif; 
-  font-size: .7rem;
-  line-height: 1.2;
-  padding-left: 1.5rem;
-}
+/*Body text links*/
 
 .md-content__inner a {
   color: var(--md-accent-fg-color);
@@ -60,11 +59,23 @@ h3, h4 {
   text-decoration: underline;
 }
 
-figcaption {
-  font-family:  'Space Mono', monospace;
-  font-style: italic;
-  font-size: .5rem;
+/*lists */
+.md-content__inner ul, 
+.md-content__inner ol {
+  font-family: 'Barlow', sans-serif; 
+  line-height: 1.2;
+  padding-left: 1.5rem;
 }
+
+/*resize tasklist check icons*/
+
+.md-typeset .task-list-indicator:before {
+  width: 1.1em;
+  height: 1.1em;
+  top: .1em;
+}
+
+/*Callouts*/
 
 .admonition-title {
   font-family:  'Space Mono', monospace;
@@ -75,102 +86,28 @@ figcaption {
   font-family:  'Space Mono', monospace;
 }
 
-.md-header__title {
-  margin-left: 0 !important;
+/*Code blocks*/
+
+.md-typeset pre >code {
+  white-space : pre-wrap;
 }
 
-figure {
+/*figures*/
+
+.md-typeset figure {
   box-shadow: var(--md-shadow-z1);
-  max-width: 94% !important;
-  margin: 2.5rem auto 3rem auto !important;
+  max-width: 94%;
+  margin: 2.5rem auto 3rem auto;
+  padding-bottom: .25rem;
   display: block;
   border-radius: .25rem;
   height: auto;
 }
 
-
-figcaption {
+.md-typeset figcaption {
+  font-family:  'Space Mono', monospace;
+  font-style: italic;
+  font-size: .5rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
   padding-top: .5rem;
 }
-
-.md-tabs__item {
-/*  font-family:  'Source Sans Pro';
-  font-weight: bold;*/
-}
-/*
-h1 {
-  font-weight: 900;
-}
-
-h2 {
-  font-weight: 800;
-}
-
-h3 {
-  font-weight: 700;
-}
-
-h4 {
-  font-family:  'Source Sans Pro';
-  font-weight: bold;
-  font-weight: 800;
-}
-
-h5, h6 {
-  font-family:  'Source Sans Pro';
-  font-weight: bold;
-  text-transform: uppercase; 
-}
-
-@media only screen and (min-width: 40rem) {
-  .md-typeset {
-    font-size: 1rem;
-  }
-}
-
-
-.md-typeset ul li {
-  margin-bottom: 0;
-}
-
-.md-container img[src*="#border"] {
-  height: auto;
-  width: auto;
-  border: 2px solid #000;
-}
-
-img[src*="#constrainWidth"] {
-  min-width: 7rem;
-  max-width: 7rem;
-}
-
-@media only screen and (min-width: 40rem) {
-  img[src*="#constrainWidth"] {
-    min-width: 10rem;
-    max-width: 10rem;
-  }
-}
-
-.itemTitle {
- font-family:  'Source Sans Pro';
- font-weight: bold;
- text-transform: uppercase; 
-}
-
-tr:nth-child(odd) {
-  background: #f4eee1;  
-}
-
-tr:nth-child(even) {
-  background: #ede3c9;  
-}
-
-thead tr {
-  background: #5c0104 !important;
-  color:  white;
-}
-
-.md-header {
-
-}*/
