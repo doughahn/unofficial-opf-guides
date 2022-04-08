@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
 
 /* Set a off-white for the body bg on default light theme */
-
 body[data-md-color-scheme="default"] {
   background: #fcfcfc;
 }
@@ -11,16 +10,19 @@ body[data-md-color-scheme="default"] {
   margin-left: 0 !important;
 }
 
-/* Constrain the width of the main body area */
+/* Constrain the width of the main body area and give the footer some breating room */
 .md-content__inner {
   max-width: 30rem;
   margin-bottom: 6rem;
 }
 
+/*===============*/
 /*Typography*/
+/*===============*/
 .md-header__topic {
- font-family: 'Barlow Condensed', sans-serif; 
- font-weight: 700;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-style: italic;
 }
 
 .md-nav__list {
@@ -31,22 +33,22 @@ h1, h2, h3 {
  font-family: 'Barlow Condensed', sans-serif; 
 }
 
-h1 {
-  font-weight: 700;
-}
-
-h2 {
-  font-weight: 700 !important;
-}
-
 h4, h5, h6, p {
   font-family: 'Barlow', sans-serif;  
 }
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+}
   
-h3, h4 {
-  font-weight: 700 !important;
+.md-typeset h3, 
+.md-typeset h4 {
+  font-weight: 700;
   color:  var(--md-default-fg-color--light);
 }
+
+/*Body text links*/
 
 .md-content__inner a {
   color: var(--md-accent-fg-color);
@@ -57,12 +59,23 @@ h3, h4 {
   text-decoration: underline;
 }
 
+/*lists */
 .md-content__inner ul, 
 .md-content__inner ol {
   font-family: 'Barlow', sans-serif; 
   line-height: 1.2;
   padding-left: 1.5rem;
 }
+
+/*resize tasklist check icons*/
+
+.md-typeset .task-list-indicator:before {
+  width: 1.1em;
+  height: 1.1em;
+  top: .1em;
+}
+
+/*Callouts*/
 
 .admonition-title {
   font-family:  'Space Mono', monospace;
@@ -73,31 +86,25 @@ h3, h4 {
   font-family:  'Space Mono', monospace;
 }
 
-code, .rst-content tt, .rst-content code {
-  white-space : pre-wrap !important;
-}
+/*Code blocks*/
 
-/*Resize task list icons*/
-
-.md-typeset .task-list-indicator:before {
-  width: 1.1em;
-  height: 1.1em;
-  top: .1em;
+.md-typeset pre >code {
+  white-space : pre-wrap;
 }
 
 /*figures*/
 
-figure {
+.md-typeset figure {
   box-shadow: var(--md-shadow-z1);
-  max-width: 94% !important;
-  margin: 2.5rem auto 3rem auto !important;
+  max-width: 94%;
+  margin: 2.5rem auto 3rem auto;
+  padding-bottom: .25rem;
   display: block;
   border-radius: .25rem;
   height: auto;
 }
 
-
-figcaption {
+.md-typeset figcaption {
   font-family:  'Space Mono', monospace;
   font-style: italic;
   font-size: .5rem;
