@@ -423,3 +423,9 @@ To get to your campaigns tab:
 
 Here, you should see all the campaigns associated with all of your characters. You can click on any campaign to go to the game. 
 
+## Further Reading & Resources
+
+- [Painlord's Advanced PbP Play](https://paizo.com/threads/rzs2qciy?Building-a-Better-Doomed-Hero-Painlords#1)
+- [Doomed Hero's Guide to PbP Gaming](https://paizo.com/threads/rzs2nr91?DHs-Guide-to-Play-By-Post-gaming)
+- [GM Numbat's Org Play PbP intro](https://docs.google.com/presentation/d/1o6rq-I_km2yJVjcqzlPJ1FyLAaX-hdzqI3jO5cKMw9I/edit#slide=id.g7160ec8a46_0_49)
+- [Pregens in BBCode](https://drive.google.com/drive/folders/0B3wrjlOOra6rLWJ3X1dqU0RJdzQ?resourcekey=0-Vp3Ry9UYjpzNxz5gTlAlaw&usp=sharing)
