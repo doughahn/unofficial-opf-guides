@@ -19,22 +19,22 @@ body[data-md-color-scheme="default"] {
 /*===============*/
 /*Typography*/
 /*===============*/
+
+/*set the default fonts*/
+:root {
+    --md-text-font:     "Barlow";
+    --md-code-font:     "Space Mono";
+    --md-header-font:   "Barlow Condensed";
+}
+
 .md-header__topic {
-  font-family: 'Space Mono', monospace;
+  font-family: var(--md-code-font);
   font-weight: 700;
   font-style: italic;
 }
 
-.md-nav__list {
-  font-family: 'Barlow', sans-serif; 
-}
-
 h1, h2, h3 {
- font-family: 'Barlow Condensed', sans-serif; 
-}
-
-h4, h5, h6, p {
-  font-family: 'Barlow', sans-serif;  
+ font-family: var(--md-header-font);
 }
 
 .md-typeset h1,
@@ -62,7 +62,6 @@ h4, h5, h6, p {
 /*lists */
 .md-content__inner ul, 
 .md-content__inner ol {
-  font-family: 'Barlow', sans-serif; 
   line-height: 1.2;
   padding-left: 1.5rem;
 }
@@ -78,12 +77,12 @@ h4, h5, h6, p {
 /*Callouts*/
 
 .admonition-title {
-  font-family:  'Space Mono', monospace;
+  font-family:  var(--md-header-font);
   font-weight: 700;
 }
 
 .admonition p {
-  font-family:  'Space Mono', monospace;
+  font-family:  var(--md-header-font);
 }
 
 /*Code blocks*/
@@ -105,7 +104,7 @@ h4, h5, h6, p {
 }
 
 .md-typeset figcaption {
-  font-family:  'Space Mono', monospace;
+  font-family:  var(--md-header-font);
   font-style: italic;
   font-size: .5rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
