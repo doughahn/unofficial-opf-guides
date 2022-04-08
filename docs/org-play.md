@@ -13,15 +13,15 @@ Organized Play is a great way for busy adults to get gaming sessions in; often, 
 - *Consistency*: Adventures are designed and run and with consistency in mind
 - *Convenience*: Busy players can pick up and play whenever their schedule permits, anywhere in the world
 - *Variety*: Players can build a large number of characters
-- *Community Standards*: Organized play adheres to community standards designed to create mutually respectful play experiences
+- *Community standards*: Organized play adheres to community standards designed to create mutually respectful play experiences
 - *Social*: Players make new friends by sharing a hobby
 
 **Drawbacks**
 
-- *More Paperwork*: As a global campaign, players need to good accounting methods and are tracked with player IDs
-- *The "Railroad"*: Adventures are pre-written to fit into a time slot, so players don't have time for lengthy story diversions
-- *Not a Private Campaign*: The GM cannot help you customize long-term character arcs
-- *Older Website*: The Paizo website can be tricky to navigate
+- *More paperwork*: As a global campaign, players need good accounting methods and are tracked and sometimes audited
+- *The "railroad"*: Adventures are pre-written to fit into a time slot, so players don't have time for lengthy story diversions
+- *Not a customized campaign*: The GM cannot facilitate long-term character arcs
+- *Older website*: The Paizo website is required to use, but can be tricky to navigate
 
 For many players, Organized play games scratch a different itch than a home campaign with friends, and they play both. 
 
@@ -166,7 +166,7 @@ This is on the [FAQ](https://paizo.com/pathfindersociety/faq) page under the hea
 
 Like Achievement Points, there are other kinds of rewards that are earned from playing or running games. If you choose to represent a faction in your game system of choice you automatically earn a special currency called "Fame" with them. You can spend this just like Achievement Points to get access to interesting character options. You can also get access to special items or character options by having a chronicle sheet that grants you access to the item. 
 
-### Buy Boons with Fame or Chrionicle Access
+### Buy Boons with Fame or Chronicle Access
 ----
 
 1. Log in at [https://paizo.com/organizedPlay/myAccount](https://paizo.com/organizedPlay/myAccount)

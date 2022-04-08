@@ -5,8 +5,8 @@ This is Doug's collection of unoffocial docs. None of these guides are officiual
 ## Table of Contents
 - [How to org Play](org-play.md)
 - [Warhorn for Players](warhorn.md)
-- [Warhorn for Organizers](warhorn.md)
-- [How to Paizo Play by Post](warhorn.md)
+- [Warhorn for Organizers](warhorn-for-organizers.md)
+- [How to Paizo Play by Post](play-by-post.md)
 
 ### On Deck
 - GM Guide: Splitting and creating Chronicles

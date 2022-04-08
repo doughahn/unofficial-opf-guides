@@ -1,6 +1,6 @@
 # Paizo Play By Post
 
-Play by post is a form of online gaming that allows the players to post in text format once ot twice a day. Many players enjoy it as a supplement to their other gaming… some even consider it the highest form of tabletop gaming! 
+Play by post is a form of online gaming that allows the players to post in text format once or twice a day. Many players enjoy it as a supplement to their other gaming… some even consider it the highest form of tabletop gaming! 
 
 **Benefits**
 
@@ -12,26 +12,26 @@ Play by post is a form of online gaming that allows the players to post in text 
 
 - Can be too slow-paced for some (tables vary)
 - Paizo uses BBCode, a deprecated and clunky syntax
-- The Paizo forms were not designed for Play-by-Post, so players sometimes need to leverage hacks and workarounds
+- The Paizo forums were not designed for Play-by-Post, so players sometimes need to leverage hacks and workarounds
 - Avatar art selection is difficult and limited
 
-Many players enjoy noth play by post and live gaming. As with every other medium, nothing here is exclusive. 
+Many players enjoy both play by post and live gaming. As with every other medium, nothing here is exclusive. 
 
 ## Creating a Play by Post Alias
 
 First, [register a character.](org-play.md#creating-a-character)
 
-This time, you should select a character image. You can go back and change it later on. Go to `Character Image` and click `Change`. There are hundreds of avatars to sort through; try to find one that matches your character's personality. Hover over the one you want anc click `Select this Avatar.`
+This time, you should select a character image. You can go back and change it later on. Go to `Character Image` and click `Change`. There are hundreds of avatars to sort through; try to find one that matches your character's personality. Hover over the one you want and click `Select this Avatar.`
 
 <figure markdown>
-![Selecting an Avarar](https://gmdoug.sfo3.digitaloceanspaces.com/pbp-selectAvatar.jpg){ loading=lazy }
+![Selecting an Avatar](https://gmdoug.sfo3.digitaloceanspaces.com/pbp-selectAvatar.jpg){ loading=lazy }
 <figcaption>Selecting an avatar. Hover over your selected image and click `Select this Avatar.`</figcaption>
 </figure>
 
 
 Last, click `Submit Changes.`
 
-You should now have an alias that you can select anywhere on the forums. Below every text box is a `Post As` dropdoqn, and you can select any aliases there.
+You should now have an alias that you can select anywhere on the forums. Below every text box is a `Post As` dropdown, and you can select any aliases there.
 
 <figure markdown>
 ![A post on the new forum alias](https://gmdoug.sfo3.digitaloceanspaces.com/pbp-avatarPost.jpg){ loading=lazy }
@@ -50,7 +50,7 @@ This is a common point of confusion on the Paizo website. An alias is not the sa
 
 As you can see, there are seemingly two ways to edit the character.  Which one is which? :thinking: 
 
-If you click on the `Character Name`, you are taken to edit the profile. This profile is what other isers see when you post using that alias on the forums, and it is the location where you will be adding character sheet information. 
+If you click on the `Character Name`, you are taken to edit the profile. This profile is what other users see when you post using that alias on the forums, and it is the location where you will be adding character sheet information. 
 
 If you click on the `Edit` button, you will be take n to the Alias. *You need to edit the Alias to change your character's avatar. Everything else can be edited on the profile.*
 
@@ -70,7 +70,7 @@ If you click on the `Edit` button, you will be take n to the Alias. *You need to
 
 ## Adding Information to your Character
 
-Play by post typically uses your Paizo character's profile for their character sheet, so filling it ourr is important. Tp do this, navigate to your character's profile:
+Play by post typically uses your Paizo character's profile for their character sheet, so filling it out is important. Tp do this, navigate to your character's profile:
 
 1. Hover over `My Account` and click `Organized play`
 1. Locate the character under `My Characters`
@@ -83,9 +83,9 @@ First, enter the character's full name in the `Full name` field.
 
 ### Adding the Slashline
 ----
-Next, you want to start filling out your character's slashline. The slashline contains important at-a-glance information that your fellow players and GM will find useful, such as hitpoints, armor, status, and spells. Since the Paizo boards don't have an offoicial slashline, players use the `Race` and `Class/Levels` text areas to input this data. With limited character space, it is often written in shorthand (e.g. "AC" for "Armor Class," "HP" for "Hit Points," etc). If you aren't sure, feel free to ask!
+Next, you want to start filling out your character's slashline. The slashline contains important at-a-glance information that your fellow players and GM will find useful, such as hitpoints, armor, status, and spells. Since the Paizo boards don't have an official slashline, players use the `Race` and `Class/Levels` text areas to input this data. With limited character space, it is often written in shorthand (e.g. "AC" for "Armor Class," "HP" for "Hit Points," etc). If you aren't sure, feel free to ask!
 
-Here are copy-pastable templates for Pathfinder Second Edition slashlines, just replace the relevant areas:
+Here are copy-paste-able templates for Pathfinder Second Edition slashlines, just replace the relevant areas:
 
 ``` py title="Slashline Template for Race Field"
 GENDER CLASS LEVEL |  [b]Perc[/b] +X (SENSES) | Speed: X' | [b]HP:[/b] X/Y | [b]AC:[/b] X (NOTES) | [b]Fort:[/b] +X [b]Ref:[/b] +X [b]Will:[/b] +X (NOTES)
@@ -118,7 +118,7 @@ In the About section, you can provide a description of your PC, as well as their
 
 ____________________ 
 [B][i]APPEARANCE[/i][/B]
-What do you look like? this doesn;t have to be a full backstory, just an interesting glimpsse and a hook.
+What do you look like? this doesn't have to be a full backstory, just an interesting glimpse and a hook.
 
 ____________________ 
 [B][i]DEFENSE[/i][/B]
@@ -221,7 +221,7 @@ ____________________
 
 [url=LINK_TO_INVENTORY_TRACKING_SHEET]ITS[/url]
 
-[url=LINK_TO_CHRONICLES_FOLDER]Chronciles & Boone[/url]
+[url=LINK_TO_CHRONICLES_FOLDER]Chronicles & Boone[/url]
 
 ____________________ 
 [b][i]LEVELING[/i][/b] 
@@ -292,7 +292,7 @@ You can combine all tags.
 
 !!! attention "Always Close Tags"
 
-    Make sure to close tags; there is a forum bug where if you leave a `[b]` tag open, it makes the entire game bold — and it cannot be undone! The oly recourse is to start a whole new game thread.
+    Make sure to close tags; there is a forum bug where if you leave a `[b]` tag open, it makes the entire game bold — and it cannot be undone! The only recourse is to start a whole new game thread.
 
 
 ## Posting Conventions
@@ -344,7 +344,7 @@ Note that the player also included the damage type in the damage roll. Including
 
 ### Reactions and Out-of-Turn Actions
 ---
-Reactions, AOOs, and oehr out-of-turn activities can be tricky in play-by-post. Pre-roll reactions where applicable so the game keeps moing, and designate their trigger, on your turn. (It might help you to make a macro for this, or save text that you can copy/paste somewhere.) For example, a fighter anticipating getting an attack of opportunity on "Bee Evil" might write:
+Reactions, AOOs, and other out-of-turn activities can be tricky in play-by-post. Pre-roll reactions where applicable so the game keeps moving, and designate their trigger, on your turn. (It might help you to make a macro for this, or save text that you can copy/paste somewhere.) For example, a fighter anticipating getting an attack of opportunity on "Bee Evil" might write:
 
 > **If Bee Evil moves through a square I threaten:**  
     `[spoiler=AOO]`  
@@ -352,7 +352,7 @@ Reactions, AOOs, and oehr out-of-turn activities can be tricky in play-by-post. 
     `[dice=Bludgeoning, Strike 1]1d6 + 2 + 1[/dice]`   
     `[/spoiler]`  
 
-It is considered good form to plave reactions in spoilers to keep the post efficient. At times, you may not want to other players to see your reaction… in which case the spoiler (and honor system) is a good plan. 
+It is considered good form to place reactions in spoilers to keep the post efficient. At times, you may not want to other players to see your reaction… in which case the spoiler (and honor system) is a good plan. 
 
 If you have multiple reactions, note your preference on which one you will take and what the triggers are. For example:
 
@@ -368,11 +368,11 @@ GMs will generally work with the player to help keep the game flowing smoothly (
 ----
 When asked to roll a save, you should always make it the first dice roll on your next post (or if necessary, rolled in the narrative order of operations). If you do not follow this rule, many GMs will instead roll for you.
 
-### Keep Out of Character on the Discussins Tab
+### Use the Discussion Thread
 ----
 Most games have a Gameplay thread, and a Discussions thread. The majority of GMs prefer to keep a narrative flowing in the Gameplay thread. It is considered polite to post your questions (or have a discussion) in the Discussions thread instead of gameplay. At times, there may be involved discussions about the rules, and this can derail a game when the back-and-forth appears in the middle of the narrative. 
 
-### Dottign In
+### Dotting In
 ----
 Often you will be asked before the game starts to “dot in." This means you post something in the campaign thread, then delete it. This links your character to the gameplay thread so the GM and others can see it in the "Players" section of the campaign, and places it in your Campaigns page.
 
@@ -380,7 +380,7 @@ After you post something like "dot!" in the gameplay thread, go ahead and delete
 
 ### Round Tokens
 ----
-Most play by post GMs use Google Slides. A standard style is to use square tokens for enemies and round tokens for PCs. To make a round token in SLides:
+Most play by post GMs use Google Slides. A standard style is to use square tokens for enemies and round tokens for PCs. To make a round token in Slides:
 
 1. Drag your artwork onto the slide
 1. Select the image
@@ -401,15 +401,15 @@ It's often a good idea to write your posts in a text editor, or copy and them be
 The Paizo forums are always recruiting games under the auspices of Organized play! 
 
 - [Pathfinder 1e: the Flaxseed Lodge](https://paizo.com/campaigns/TheFlaxseedPathfinderLodgeExploreReportCooperate/recruiting) 
-- [Pathinder 2e: the Cottonseed Lodge](https://paizo.com/campaigns/CottonseedPFSPbP2EPlaytest/recruiting&page=last)
+- [Pathfinder 2e: the Cottonseed Lodge](https://paizo.com/campaigns/CottonseedPFSPbP2EPlaytest/recruiting&page=last)
 - [Starfinder: Castamir's Flaxseed Station](https://paizo.com/campaigns/CastamirsFlaxseedStation/recruiting&page=last)
 
 ### Read the GM's Profile
 ----
-Every gm has different conventions and needs. When you join a game, click on the GM's profile and read anythign they've written. Make sure they seem like a good fit for you and that you can make any accommodations they ask for (for example, some GMs are colorblind and prefer dice split across separate lines). One of the most important considerations is how often the GM expects you to post. Do not sign up for a game if the Gm expects you to post daily, and you cannot commit to that. Find a game that fits your desired pace. 
+Every gm has different conventions and needs. When you join a game, click on the GM's profile and read anything they've written. Make sure they seem like a good fit for you and that you can make any accommodations they ask for (for example, some GMs are colorblind and prefer dice split across separate lines). One of the most important considerations is how often the GM expects you to post. Do not sign up for a game if the Gm expects you to post daily, and you cannot commit to that. Find a game that fits your desired pace. 
 
 #### Follow Instructions
-GMs will need you to sign in if it's for an Organized Play game. They often use slides to to determine marching order, character info, secret checks, and the like. Try to be timely about getting them all the info they need, and don;t be shy about asking for help. 
+GMs will need you to sign in if it's for an Organized Play game. They often use slides to to determine marching order, character info, secret checks, and the like. Try to be timely about getting them all the info they need, and don't be shy about asking for help. 
 
 ### Campaigns Tab
 ----
