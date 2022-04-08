@@ -13,9 +13,6 @@ nav:
     # - Class & Skill Guides: guides.md 
 theme:
   name: 'material'
-  font:
-    - text: 'Source Sas pro'
-    - code: 'Inconsolata'
   palette:
     # Light mode
     - media: '(prefers-color-scheme: light)'
