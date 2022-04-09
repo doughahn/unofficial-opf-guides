@@ -104,9 +104,9 @@ h1, h2, h3 {
 }
 
 .md-typeset figcaption {
-  font-family:  var(--md-header-font);
-  font-style: italic;
-  font-size: .5rem;
+  font-family: var(--md-code-font);
+  font-style:  normal;
   border-top: 1px solid var(--md-default-fg-color--lightest);
   padding-top: .5rem;
+  font-size:  .6rem;
 }
