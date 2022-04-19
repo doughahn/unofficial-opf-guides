@@ -8,14 +8,14 @@
       
       
       
-        <link rel="canonical" href="https://doughahn.github.io/unofficial-opf-guides/splitting-chronicles/">
+        <link rel="canonical" href="https://doughahn.github.io/unofficial-opf-guides/roll20-basics/">
       
       <link rel="icon" href="../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.2.4">
     
     
       
-        <title>Splitting Chronicles - Unofficial Paizo Guides</title>
+        <title>Roll20 for Players - Unofficial Paizo Guides</title>
       
     
     
@@ -69,7 +69,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#creating-splitting-chronicles" class="md-skip">
+        <a href="#roll20-for-players" class="md-skip">
           Skip to content
         </a>
       
@@ -107,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Splitting Chronicles
+              Roll20 for Players
             
           </span>
         </div>
@@ -298,113 +298,11 @@
 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Splitting Chronicles
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../splitting-chronicles/" class="md-nav__link">
         Splitting Chronicles
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#making-chronicles-with-free-software" class="md-nav__link">
-    Making Chronicles with Free Software
-  </a>
-  
-    <nav class="md-nav" aria-label="Making Chronicles with Free Software">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#extract-the-page" class="md-nav__link">
-    Extract the Page
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-base-chronicle" class="md-nav__link">
-    Create the Base Chronicle
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-chronicles" class="md-nav__link">
-    Create the Chronicles
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#share-the-chronicles" class="md-nav__link">
-    Share the Chronicles
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#making-chronicles-with-rpg-chronicles" class="md-nav__link">
-    Making Chronicles with RPG Chronicles
-  </a>
-  
-    <nav class="md-nav" aria-label="Making Chronicles with RPG Chronicles">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sending-the-information-to-the-reporter" class="md-nav__link">
-    Sending the information to the reporter
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#final-thoughts" class="md-nav__link">
-    Final Thoughts
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -436,118 +334,129 @@
             <article class="md-content__inner md-typeset">
               
                 
-<a href="https://github.com/doughahn/unofficial-opf-guides/edit/master/docs/splitting-chronicles.md" title="Edit this page" class="md-content__button md-icon">
+<a href="https://github.com/doughahn/unofficial-opf-guides/edit/master/docs/roll20-basics.md" title="Edit this page" class="md-content__button md-icon">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
 </a>
 
 
 
-<h1 id="creating-splitting-chronicles">Creating &amp; Splitting Chronicles<a class="headerlink" href="#creating-splitting-chronicles" title="Permanent link">⚑</a></h1>
-<h5 id="author-doug-hahn"><code>Author: Doug Hahn</code><a class="headerlink" href="#author-doug-hahn" title="Permanent link">⚑</a></h5>
-<p>As a GM, you have to give your players chronicles. Back in the days of true pen and paper gaming, the GM could simply print a copy of the chronicle for each player and fill it out at the table. This model no longer works in many cases, as online gaming and paperless accounting have become more prevalent. However, Paizo's scenarios are copyright protected, so you can't easily edit them! While services like <a href="http://rpgchronicles.net">RPG Chronicles</a> can build your chronicles for you, they cost money. </p>
-<h2 id="making-chronicles-with-free-software">Making Chronicles with Free Software<a class="headerlink" href="#making-chronicles-with-free-software" title="Permanent link">⚑</a></h2>
-<p>This guide will use Preview, the default PDF reader for maxOS, but it will work for <a href="https://www.foxit.com/pdf-reader/">Foxit Reader</a> on Windows as well as many other readers of choice (including expensive ones like Acrobat Pro). </p>
-<p>Whatever software you prefer the method is the same: you need to extract a single page from the PDF and edit it. To achieve this, you will use the <code>Print to PDF</code> feature that ships with common software or is built into your OS. </p>
-<h3 id="extract-the-page">Extract the Page<a class="headerlink" href="#extract-the-page" title="Permanent link">⚑</a></h3>
-<hr />
-<ol>
-<li>Click <code>File</code> =&gt; <code>Print</code></li>
-<li>Name the file, and save it in a directory that you can find<ul>
-<li>It's a good idea to create a directory for your chronicles, as you will be creating up to 7 of these things!</li>
+<h1 id="roll20-for-players">Roll20 for Players<a class="headerlink" href="#roll20-for-players" title="Permanent link">⚑</a></h1>
+<p>This guide is not intended to teach you how to become a roll20 master. It is not for people with access tot eh character vault. The goal is to show you how to quickly build character macros without a sheet. </p>
+<h2 id="benefits-of-building-your-own-macros">Benefits of Building your own macros<a class="headerlink" href="#benefits-of-building-your-own-macros" title="Permanent link">⚑</a></h2>
+<ul>
+<li>Free</li>
+<li>Maximum portability (store the data how you want, and transmute it how you want)</li>
 </ul>
-</li>
-</ol>
+<h2 id="dice-rolling">Dice Rolling<a class="headerlink" href="#dice-rolling" title="Permanent link">⚑</a></h2>
+<p>To roll dice just place double brackets around the expression. For example, <code>[[1d20]]</code>.</p>
+<p>You can pair this with simple language, to start making basic macros for things like saves. For example, <code>Fort: [[1d20+5]] (+1 vs poison effects)</code>.</p>
+<h3 id="multiple-line-dice-rolling">Multiple-line dice rolling<a class="headerlink" href="#multiple-line-dice-rolling" title="Permanent link">⚑</a></h3>
+<hr />
+<p>You can use multiple lines by prefacing your input with the <code>/me</code> command (you need a space after "me"). An attack macro might look like this:</p>
+<div class="highlight"><pre><span></span><code>/me 
+Longspear hits AC [[1d20+8]] 
+for [[1d8+4]] Piercing damage.
+</code></pre></div>
+<p>You can store this in a text document on your computer, or a spreadsheet and paste it into roll20. You don't need fancy character sheets. </p>
+<p>You can even make macros for multiple attacks:</p>
+<div class="highlight"><pre><span></span><code>/me 
+Longspear, Strike 1, hits AC [[1d20+8]] 
+for [[1d8+4]] Piercing damage.
+
+Longspear, Strike 2, hits AC [[1d20+8-5]] 
+for [[1d8+4]] Piercing damage.
+</code></pre></div>
+<h3 id="storing-macros">Storing Macros<a class="headerlink" href="#storing-macros" title="Permanent link">⚑</a></h3>
+<hr />
+<p>Many players store their macros in a text document, or an excel spreadsheet. That way they have the data whenever and wherever they want. When they level up, they can update the macros however they choose to. </p>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/chronicles-printToPDF.jpg" href="#"><img alt="Print to PDF on Preview for Mac" src="https://gmdoug.sfo3.digitaloceanspaces.com/chronicles-printToPDF.jpg" />
-  </a></p>
-<figcaption>Print to PDF as it appears on macOS. On Foxit it likely appears on the "Printer" dropdown.</figcaption>
+<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/self-storage-macros.jpg" href="#"><img alt="Self-storage macros" src="https://gmdoug.sfo3.digitaloceanspaces.com/self-storage-macros.jpg" /></a></p>
+<figcaption>A player's spreadsheet with macros. They are feeding data to the sheet, and transmuting it into various formats.</figcaption>
 </figure>
-<h3 id="create-the-base-chronicle">Create the Base Chronicle<a class="headerlink" href="#create-the-base-chronicle" title="Permanent link">⚑</a></h3>
+<h3 id="saving-macros">Saving Macros<a class="headerlink" href="#saving-macros" title="Permanent link">⚑</a></h3>
 <hr />
+<p>You can quickly build and save macros for whatever game you're in. </p>
 <ol>
-<li>Locate the typewriter or text annotation tool <ul>
-<li>On Preview, this is un <code>Tools</code> =&gt; <code>Annotate</code> =&gt; <code>Text</code></li>
-<li>on Foxit there is a <code>Typewriter</code> button on the top toolbar</li>
-</ul>
-</li>
-<li>Fill in the information that will go on all chronicles. <ul>
-<li>Event Name</li>
-<li>Date</li>
-<li>Org Play #</li>
-<li>Your name in lieu if Signature</li>
-<li>Bonus Faction</li>
-<li>Reputation earned (generally, players earn the same reputation unless one is going slow)</li>
-</ul>
-</li>
-<li>Fill in dummy text or all the customized areas<ul>
-<li>Player Name</li>
-<li>Character name </li>
-<li>Org Play ID</li>
-<li>Character #</li>
-<li>GP</li>
-<li>XP</li>
-<li>Checkboxes</li>
-</ul>
-</li>
-<li>Click <code>Save</code></li>
-<li>Copy the file as many times as you need</li>
+<li>In Roll20, click the Collections icon on the top right (the 3 dotted-list icon). </li>
+<li>Click <code>Add</code> and a new window will appear.</li>
+<li>Name the macro whatever you want — but it must be one word. For example, a Will save macro might be called <code>Will</code>.</li>
+<li>Type in your macro text (see above).</li>
+<li>Click <code>Test Macro.</code> You should see the dice roll in the chat window. </li>
+<li>Click <code>Save Changes.</code></li>
+<li>Now you will see the macro in the panel and you can use it any time by clicking into that panel, and clicking the d20 icon next to the name.</li>
 </ol>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Repeated Content</label><label for="__tabbed_1_2">Placeholder Content</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<p><figure markdown>
-  <a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/chroncile-staticContent.jpg" href="#"><img alt="Fill out all the repeated content you can" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/chroncile-staticContent.jpg" />
-  <figcaption>Fill out all the repeated content you can to avoid re-work</figcaption>
-  </figure></a></p>
+<h4 id="putting-your-macros-in-the-bar">Putting Your Macros in the Bar<a class="headerlink" href="#putting-your-macros-in-the-bar" title="Permanent link">⚑</a></h4>
+<ol>
+<li>In Roll20, click the Collections icon on the top right (the 3 dotted-list icon). </li>
+<li>Click <code>Show macro quick bar?</code>; this will activate the quick bar. </li>
+<li>Click the <code>In Bar</code> option next to whatever macros you want to see. </li>
+<li>You should now see the button on your screen.</li>
+</ol>
+<div class="admonition hint">
+<p class="admonition-title"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.75 3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75zM0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5z"/><path d="M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559z"/></svg></span> Video Example: Adding a Macro to the Bar</p>
+<p><div style='position:relative; padding-bottom:calc(52.26% + 44px)'><iframe src='https://gfycat.com/ifr/UnimportantBoringBats?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></p>
 </div>
-<div class="tabbed-block">
-<p><figure markdown>
-  <a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/chronicle-placeholderContent.jpg" href="#"><img alt="Use placeholder content so you can quickly edit later" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/chronicle-placeholderContent.jpg" />
-  <figcaption>Use placeholder content so you can quickly edit later.</figcaption>
-  </figure></a></p>
-</div>
-</div>
-</div>
-<h3 id="create-the-chronicles">Create the Chronicles<a class="headerlink" href="#create-the-chronicles" title="Permanent link">⚑</a></h3>
+<h2 id="rolling-initiative-adding-it-to-the-tracker">Rolling Initiative &amp; Adding it to the Tracker<a class="headerlink" href="#rolling-initiative-adding-it-to-the-tracker" title="Permanent link">⚑</a></h2>
+<p>You can roll initiative at the click of a button and get it automatically added to the tracker. While this isn't needed, it's a big time saver and helpful to the GM. Here is that basic macro:</p>
+<div class="highlight"><pre><span></span><code>/roll 1d20 + YOUR_MODIFIER &amp;{tracker:+}
+</code></pre></div>
+<p>But initiative can change often depending on our Exploration Activity, and if someone is scouting. So we need to put that number in a place where we can modify that value easily. </p>
+<h3 id="creating-an-editable-initiative-macro">Creating an Editable Initiative Macro<a class="headerlink" href="#creating-an-editable-initiative-macro" title="Permanent link">⚑</a></h3>
 <hr />
+<p>If you notice, your token has 3 bubbles above it when you click it. You can inject the value of this button into macros. This is useful for initiative. </p>
 <ol>
-<li>Name each file so you know what character each chronicle they belong to<ul>
-<li>On macOS you can select the item then press <code>Return</code></li>
-<li>On Windows you can select the file and press <code>F2</code></li>
-</ul>
-</li>
-<li>Edit the dummy test as appropriate</li>
-<li>Save</li>
+<li>In Roll20, click the Collections icon on the top right (the 3 dotted-list icon). </li>
+<li>Click <code>Add</code> and a new window will appear. </li>
+<li>Name the macro at the top (just call it <code>Init</code>).</li>
+<li>Add this macro: <code>/roll 1d20 + @{selected|bar2} &amp;{tracker:+}</code></li>
+<li>Click <code>Save Changes.</code></li>
+<li>Click <code>In Bar</code> where the macro now appears on the Collections Menu. </li>
+<li>You should now see an <code>Init</code> button under your name in roll20.</li>
+<li>Click on your token. Add the modifier to the rightmost bubble.</li>
+<li>Test the macro. When you click the <code>Init</code> button, it will roll initiative and add it to the tracker for you, using whatever initiative modifier you wrote in the bubble. If you need to change your exploration activity, just click on your token and change the bubble's value. </li>
 </ol>
-<div class="admonition attention">
-<p class="admonition-title">Always Save Your Work</p>
-<p>Players often find mistakes on their chronicles, forget to sign in as slow track, etc. If possible, always back up your chronicle sheet work to avoid having to do re-work! </p>
+<p>Here's a copy-paste able macro. <code>bar2</code> targets the rightmost bubble. Don't ask me why. </p>
+<div class="highlight"><pre><span></span><code>/roll 1d20 + @{selected|bar2} &amp;{tracker:+}
+</code></pre></div>
+<div class="admonition hint">
+<p class="admonition-title"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.75 3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75zM0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5z"/><path d="M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559z"/></svg></span> Adding &amp; Editing an Initiative Bar</p>
+<p><div style='position:relative; padding-bottom:calc(52.26% + 44px)'><iframe src='https://gfycat.com/ifr/BowedShrillClownanemonefish?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></p>
 </div>
-<figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/chronicle-directory.jpg" href="#"><img alt="A chronicle directory" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/chronicle-directory.jpg" />
-  </a></p>
-<figcaption>A chronicle directory on a computer; note the file names are clear and understandable.</figcaption>
-</figure>
-<h3 id="share-the-chronicles">Share the Chronicles<a class="headerlink" href="#share-the-chronicles" title="Permanent link">⚑</a></h3>
-<p>Share the chronicles in whatever way is easiest for you. Some GMs prefer uploading them to a Google Drive folder; others prefer sending them out manually via email. Whatever is easiest for you is best… it's a lot of work! </p>
-<h2 id="making-chronicles-with-rpg-chronicles">Making Chronicles with RPG Chronicles<a class="headerlink" href="#making-chronicles-with-rpg-chronicles" title="Permanent link">⚑</a></h2>
-<p><a href="https://www.rpgchronicles.net/sessions">RPG Chronicles</a> lets you sign up for free and generate chronicles; you need to own the PDF and upload a special code that's on the chronicle sheet. </p>
-<p>See the <a href="https://www.rpgchronicles.net/howitworks">how it works</a> guide on RPG Chronicles. </p>
 <div class="admonition tip">
-<p class="admonition-title">Finding the Code</p>
-<p>Make sure to close tags; there is a forum bug where if you leave a <code>[b]</code> tag open, it makes the entire game bold — and it cannot be undone! The only recourse is to start a whole new game thread.</p>
+<p class="admonition-title">Check your Bubble on New Maps</p>
+<p>You may need to edit the bubble on your default token, or add the number every time you drag a new token onto a map. It's always a good idea to double check when your GM puts you on a new map.</p>
 </div>
-<figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/chronicleCode.jpg" href="#"><img alt="Location of the Chronicle Code on the chronicle" src="https://gmdoug.sfo3.digitaloceanspaces.com/chronicleCode.jpg" /></a></p>
-<figcaption>Location of the Chronicle Code on the chronicle (the code is blurred out here); look on the bottom of the chronicle to find the code.</figcaption>
-</figure>
-<h3 id="sending-the-information-to-the-reporter">Sending the information to the reporter<a class="headerlink" href="#sending-the-information-to-the-reporter" title="Permanent link">⚑</a></h3>
+<h2 id="adding-hit-point-bars">Adding Hit Point Bars<a class="headerlink" href="#adding-hit-point-bars" title="Permanent link">⚑</a></h2>
+<p>Many teams prefer a visual indicator of teammates' hit points. You don't need a full character sheet to add a hit point bar. You can use the bubbles, like we showed above… only this time, you don't even need a macro.</p>
+<ol>
+<li>Click your token</li>
+<li>Click the cog wheel</li>
+<li>In <code>Bar 1</code> click the <code>Attribute</code> dropdown</li>
+<li>Scroll through all the options and select <code>hit_points</code> (there are tons of options, but they're alphabetical)</li>
+<li>Enter your max value (<code>X</code>)</li>
+<li>Click <code>Save Settings</code></li>
+<li>You should now see a bar above your PC that says <code>0/X</code></li>
+<li>Click the bubble</li>
+<li>Enter the HP</li>
+</ol>
+<h3 id="taking-damage-healing">Taking Damage &amp; Healing<a class="headerlink" href="#taking-damage-healing" title="Permanent link">⚑</a></h3>
 <hr />
-<p>If you're not reporting, make sure to Make sure to send the information to the designated reporter for the event. There is a <code>Save Reporting Information</code> button on the <code>Chronicles and Reporting</code> page that will copy all the info to your clipboard. </p>
-<h2 id="final-thoughts">Final Thoughts<a class="headerlink" href="#final-thoughts" title="Permanent link">⚑</a></h2>
-<p>There is often a tradeoff between convenience and ease of use; those who GM often may find services such as RPG Chronicles convenient. VOs who report many games may even find the paid version of RPG Chronicles convenient, as it offers a Google Chrome extension that does one-click reporting for you.</p>
-<p>On the other hand, many GMs get by just fine by practicing, refining their workflows, and gaining proficiency with the tools they have available. Some GMs claim they can generate PDFs by hand in just a couple of minutes.</p>
-<p>As always, there isn't one right way to do it: do whatever you can to get players chronicles quickly, with as little pain as possible. </p>
+<p>Instead of re-calculating your HP every time you take damage, you can subtract.</p>
+<ol>
+<li>Click your token</li>
+<li>Click the bubble</li>
+<li>enter a <code>-</code> symbol and the amount of damage you took</li>
+</ol>
+<p>To heal, reverse the process:</p>
+<ol>
+<li>Click your token</li>
+<li>Click the bubble</li>
+<li>enter a <code>+</code> symbol and the amount of damage you took</li>
+</ol>
+<div class="admonition hint">
+<p class="admonition-title"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.75 3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75zM0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5z"/><path d="M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559z"/></svg></span> Video Example: Adding &amp; Editing a Hit Point Bar</p>
+<p><div style='position:relative; padding-bottom:calc(52.26% + 44px)'><iframe src='https://gfycat.com/ifr/BowedShrillClownanemonefish?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></p>
+</div>
 
               
             </article>
@@ -562,41 +471,6 @@
       </main>
       
         <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
-      
-        
-        <a href="../play-by-post/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Paizo Play by Post" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Paizo Play by Post
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../vtts-overview/" class="md-footer__link md-footer__link--next" aria-label="Next: Virtual Tabletops" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Virtual Tabletops
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
