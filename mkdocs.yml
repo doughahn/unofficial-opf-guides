@@ -5,8 +5,9 @@ nav:
     - Warhorn for Players: warhorn.md
     - Warhorn for Organizers: warhorn-for-organizers.md
     - Paizo Play by Post: play-by-post.md
-    # - VTTs: vtts.md
-    # - Roll20: roll20.md
+    - Splitting Chronicles: splitting-chronicles.md
+    - Virtual Tabletops: vtts-overview.md
+    - Roll20 Basics: roll20-basics.md
     # - Foundry: foundry.md
     # - Slides: slides.md 
     # - Suggested-rulings: suggested-rulings.md
@@ -49,6 +50,10 @@ repo_name: doughahn/unofficial-opf-guides
 repo_url: https://github.com/doughahn/unofficial-opf-guides
 extra_css:
     - css/extra.css
+    - https://cdnjs.cloudflare.com/ajax/libs/featherlight/v.1.7.14/featherlight.min.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/featherlight/1.7.13/featherlight.min.js
 markdown_extensions:
   - attr_list
   - admonition
@@ -57,6 +62,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - featherlight
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tabbed:
@@ -68,4 +74,8 @@ markdown_extensions:
       toc_depth: 3
       permalink: 6
       permalink: ⚑
+plugins:
+  - search
+  - table-reader:
+      data_path: "docs/assets"
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'

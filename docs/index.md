@@ -1,4 +1,4 @@
-# The Unofficial Docs
+# The Unofficial Guides
 
 This is Doug's collection of unoffocial docs. None of these guides are officiually endorsed by Paizo or the OPF, but some were collected from VOs. 
 
@@ -9,7 +9,7 @@ This is Doug's collection of unoffocial docs. None of these guides are officiual
 - [How to Paizo Play by Post](play-by-post.md)
 
 ### On Deck
-- GM Guide: Splitting and creating Chronicles
+- Choosing VTTs (players & GMs)
 - Using VTTs (players & GMs)
 - Using Roll20 (players & GMs)
 - Using Foundry (players & GMs)

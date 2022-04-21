@@ -58,7 +58,7 @@ If you click on the `Edit` button, you will be take n to the Alias. *You need to
 
       <figure markdown>
       ![The profile should all your stats for games, except the avatar image](https://gmdoug.sfo3.digitaloceanspaces.com/pbp-characterProfileNotAlias.jpg){ loading=lazy }
-      <figcaption>The profile has character information, but does not contain the avatar image."</figcaption>
+      <figcaption>The profile has character information, but does not contain the avatar image.</figcaption>
       </figure>
 
 === "Editing the Character Alias"
@@ -384,11 +384,11 @@ Most play by post GMs use Google Slides. A standard style is to use square token
 
 1. Drag your artwork onto the slide
 1. Select the image
-1. Select the [`Image Mask` option](https://p198.p4.n0.cdn.getcloudapp.com/items/v1uNNqyw/d85dd698-0b32-4837-a9e3-ec3ba13ae0b4.png?source=viewer&v=4e8e5d63f8c9affb9f266cd177a6abfe) 
+1. Select the [`Image Mask` option](https://gmdoug.sfo3.digitaloceanspaces.com/d85dd698-0b32-4837-a9e3-ec3ba13ae0b4.png) 
 1. Select the circle shape icon
 1. Add a border to the now-masked image
 
-!!! hint "Video Example"
+!!! hint ":octicons-video-16: Video Example"
       <div style='position:relative; padding-bottom:calc(52.26% + 44px)'><iframe src='https://gfycat.com/ifr/DecimalThunderousCobra?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 
