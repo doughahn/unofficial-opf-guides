@@ -1,6 +1,6 @@
 # The Unofficial Guides
 
-This is Doug's collection of docs. None of these guides are officiually endorsed by Paizo or the OPF, but some were collected from VOs. The hope is that an open-source documentaiotn hub can have mmany contributors. 
+This is Doug's collection of docs. None of these guides are officiually endorsed by Paizo or the OPF, but some were collected from VOs. The hope is that an open-source documentation hub can have mmany contributors. 
 
 ## How to Contribute
 
