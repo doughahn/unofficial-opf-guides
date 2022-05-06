@@ -1,4 +1,4 @@
-# Roll20 for Players
+# Roll20 Free Account Macros
 
 This guide is not intended to teach you how to become a roll20 master. It is for people who want a free Roll20 experience, with a measure of portability. The goal is to show you how to quickly build character macros without even using a character sheet. Why would we do this?
 
