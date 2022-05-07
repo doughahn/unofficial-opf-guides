@@ -7,6 +7,7 @@ There is a plethora of awesome guides out there. Here are some that have made th
 Below are guides specific to VTT.
 
 ### [Flutters Guide to Branching out Online (Roll20)](https://docs.google.com/document/d/1mBGmsC5te1z6Sx2c2SFDglzAegPWFxH6znF6yH9wCpw/edit_)
+### [Roll20 macros Cheat Sheet](https://wiki.roll20.net/Pathfinder_Second_Edition_Official#Repeating_Sections)
 ### [Foundry VTT Knowledge Base](https://foundryvtt.com/kb/)
 
 ## Class / Optimization Guides 
