@@ -97,6 +97,9 @@ See the [how it works](https://www.rpgchronicles.net/howitworks) guide on RPG Ch
 ----
 If you're not reporting, make sure to Make sure to send the information to the designated reporter for the event. There is a `Save Reporting Information` button on the `Chronicles and Reporting` page that will copy all the info to your clipboard. 
 
+## A note on Accessibility
+The author tested the chronicles with text annotation on Preview.app as well as RPG Chronicles. MacOS VoiceOver picked up all the added text in both instances. However, the items on the PDF came through in the incorrect order. This seems to be an issue with the PDF structure and/or tags. There is not much a GM can do about it. As always, try to do your best and keep in mind text annotation is better than a hand-written chronicle when dealing with digital assets. 
+
 ## Final Thoughts
 
 There is often a tradeoff between convenience and ease of use; those who GM often may find services such as RPG Chronicles convenient. VOs who report many games may even find the paid version of RPG Chronicles convenient, as it offers a Google Chrome extension that does one-click reporting for you.

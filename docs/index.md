@@ -32,9 +32,11 @@ You can of course clone this repository, and run the site locally to make and te
 
 This is a great opportunity to [learn git](https://lab.github.com/githubtraining/introduction-to-github), or the [mkdocs](https://www.mkdocs.org) documentation system. 
 
-## Guides Needed
+## Backlog
+
+### Guides Wanted
 - Using Google slides (players & GMs)
 - Using FGU (players & GMs)
 - Warhorn for Con Organizers 
 - Using RPG Chronicles
-
+- Play by Discord
