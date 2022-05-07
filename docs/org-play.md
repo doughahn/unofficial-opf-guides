@@ -162,7 +162,6 @@ By running or playing lots of games, you earn a currency called "Achievement Poi
 This is on the [FAQ](https://paizo.com/pathfindersociety/faq) page under the heading `Achievement Points and Boons`
 
 ## Fame and Chronicle Rewards
-----
 
 Like Achievement Points, there are other kinds of rewards that are earned from playing or running games. If you choose to represent a faction in your game system of choice you automatically earn a special currency called "Fame" with them. You can spend this just like Achievement Points to get access to interesting character options. You can also get access to special items or character options by having a chronicle sheet that grants you access to the item. 
 
@@ -184,3 +183,30 @@ Like Achievement Points, there are other kinds of rewards that are earned from p
 !!! hint "Get a Free Wayfinder!"
 
     All Pathfinder 2e PCs get a free [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470) once they play their second game. It's a great chance to try out the Boon System for yourself! 
+
+## Creating an Event
+
+###### Author: Richard Lowe
+
+Here is a guide on how to create an event. Anyone can run and report an organized play game! 
+
+<figure markdown>
+![Creating an organized play event](https://i.imgur.com/kZd8OnW.jpeg){ loading=lazy }
+<figcaption>Creating an organized play event</figcaption>
+</figure>
+
+**Creating an Event**
+
+1. Go to [paizo.com](https://paizo.com) and log into your account
+1. Click `My Account`
+1. Select `Organized play`
+1. Select `GM/Event Coordinator` on the tab
+1. Scroll down until you see `Create new Event`
+1. Click `Create your event`
+1. Fill in whatever details you want on the next page 
+
+**Reporting an Event**
+
+1. Return to the `GM/Event Coordinator` tab
+1. Select the event under the `Events I'm Organizing` heading
+1. Click `Report` and it will open a screen for you to fill in the event's info
