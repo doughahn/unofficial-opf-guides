@@ -81,10 +81,6 @@ h1, h2, h3 {
   font-weight: 700;
 }
 
-.admonition p {
-  font-family:  var(--md-header-font);
-}
-
 /*Code blocks*/
 
 .md-typeset pre >code {

@@ -1,6 +1,6 @@
 # Foundry Basics
 
-It is worth noting that Foundry has deep documentaiotn, built by their community, [on their website](https://foundryvtt.com/kb/). This guide is ment to serve as a very brief overview to help players acclimate the the basics. 
+It is worth noting that Foundry has deep documentation, built by their community, [on their website](https://foundryvtt.com/kb/). This guide is meant to serve as a very brief overview to help players acclimate the the basics. 
 
 ## System Requirements
 
@@ -13,6 +13,18 @@ Foundry is a modern application that runs in a browser window; as such, you shou
 - A modern web browser like Chrome, Firefox, Opera, or Edge with hardware acceleration enabled. (Safari is not a supported browser at this time).
 
 — Source: [Foundry Docs](https://foundryvtt.com/article/requirements/)
+
+----
+
+## Logging In
+
+Foundry can be run in a variety of configurations. Mine is on a self-hosted server that is almost always on. 
+
+To join a game, navigate to the URL in your browser and select the user name the GM assigned to you. You probably do not need an access key (password). If you were assigned one, the GM should have told you and you would enter it here. 
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/OddCriminalKodiakbear?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+----
 
 ## Play Area Overview
 
@@ -28,14 +40,14 @@ Foundry operates within a canvas, or play area. There are three main areas you n
 
 The toolbar on the left has two columns: the leftmost column is the tool, and the rightmost column are options within that tool. 
 
-The top icon, the Token icon, is where you can select your token and move it, use Targeting, or to :ref:`Measure Distance`.
-The middle icon is the :ref:`Spell Templates` function. 
+The top icon, the Token icon, is where you can select your token and move it, use Targeting, or to `Measure Distance`.
+The middle icon is the `Spell Templates` function. 
 The Pencil icon is the Draw Shape function.
 
 ### Sidebar and tabs
 ----
 
-The sidebar has several tabs. You can collapse the sidebar then drag any table out into its own window. This is especially useful for combat. 
+The sidebar has several tabs. You can collapse the sidebar, then drag any table out into its own window. This is especially useful for combat. 
 
 - **Bubble:** The chat tab, where the dice rolling will happen.
 - **Fist:** The combat tracker. 
@@ -48,18 +60,9 @@ The sidebar has several tabs. You can collapse the sidebar then drag any table o
 - **Gears:** Player settings. You can change the UI skin, help solve frame rate issues, and other basic options. 
 - **Arrow**: Collapses Menu
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/bowedknobbyhomalocephale?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+----
 
-## Logging In
-
-Foundry can be run in a variety of configurations. Mine is on a self-hosted server that is almost always on. 
-
-To join a game, navigate to the URL in your browser and select the user name the GM assigned to you. You probably do not need an access key (password). If you were assigned one, the GM should have told you and you would enter it here. 
-
-
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/OddCriminalKodiakbear?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-
-## Iteracting with the Canvas
+## Interacting with the Canvas
 
 ### Movement
 ----
@@ -70,7 +73,7 @@ You can drag your token anywhere you like. If you command-click on the token (co
 
 ### Highlight a Target
 ----
-Click on the Target icon on the left. Click on the token you ant to target. This will highlight it on the map for you.
+Click on the `Target` icon on the left. Click on the token you ant to target. This will highlight it on the map for you.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/feistyprestigiousborderterrier?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -78,42 +81,44 @@ Click on the Target icon on the left. Click on the token you ant to target. This
 ### Measure Distance
 ----
 
-Click on the ruler icon and drag out the distance. As with ;:ref:`Movement on the Map`_, you can command/control click to set up waypoints. 
+Click on the `Ruler` icon and drag out the distance. As with movement, you can command/control click to set up waypoints. 
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/linedimportantbeauceron?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ### Spell Templates
 ----
 
-Select the right-angle ruler in the toolbar on the left, then select the type of spell. There is a circle for bursts, an angle for cones, a square for concurrent surface area, and an arrow for lines. Once you have the template dragges out, you can move it around. You can select the template to delete it when you're finished. 
+Select the `right-angle ruler` in the toolbar on the left, then select the type of spell. There is a circle for bursts, an angle for cones, a square for concurrent surface area, and an arrow for lines. Once you have the template dragged out, you can move it around. You can select the template to delete it when you're finished. 
 
-Don't forget to delete the template when you're done, and that unless you select abother tool Foundry will assume you want to add more templates. 
+Don't forget to delete the template when you're done, and that unless you select another tool Foundry will assume you want to add more templates. 
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/vainconcretedanishswedishfarmdog?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ### Journal Notes
 ----
 
-If your GM has entered any journal notes for the area, you can click on this icon to highlight them. Double click on the journal icon to opn it up. 
+If your GM has entered any journal notes for the area, you can click on this icon to highlight them. Double click on the journal icon to open it up. 
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/anotherzestyalpineroadguidetigerbeetle?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+----
 
 ## Creating A PC 
 
 This section covers how to create your token and character sheet. 
 
-### Creating Actors
+### Actors
 ----
 
-One of the fundamental objects within the Foundry Virtual Tabletop is the Actor. Actors are the protagonists, allies, monsters, antagonists, and persons within the World that you create. The game System being used has control to define the exact types of actors which are relevant for it’s gameplay, but for most tabletop roleplaying systems these actors will represent the characters which the player Users impersonate and the foes they encounter.
+One of the fundamental objects within the Foundry Virtual Tabletop is the `Actor`. Actors are the protagonists, allies, monsters, antagonists, and persons within the World that you create. The game System being used has control to define the exact types of actors which are relevant for it’s gameplay, but for most tabletop roleplaying systems these actors will represent the characters which the player Users impersonate and the foes they encounter.
 
 You have permission to create your own PC — an actor! Here's how to do that:
 
 1. Clicking on the icon in the sidebar that that looks like a group of people. 
-2. At the bottom click "Create Actor"
+2. At the bottom click `Create Actor`
 3. Name your PC
-4. leave "character" selected as its type
-5. Click "Create Actor"
+4. Leave `Character` selected as its type
+5. Click `Create Actor`
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/messypastchital?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -122,27 +127,26 @@ You have permission to create your own PC — an actor! Here's how to do that:
 
 After you create the Actor, you can double-click on it in the Actors sidebar to edit it and create a token. A Token represents the piece on the Game Board, and has several important settings. (If you just created a new actor, you will immediately be taken to the Character Sheet screen). To create a token for your PC, use the following steps:
 
-1. Click on "Prototype token" in the character sheet (A "prototype token" is one that has not been placed on the board yet)
+1. Click on `Prototype Token` in the character sheet (A "prototype token" is one that has not been placed on the board yet)
 2. Name the token however you want (this should already be correct)
-3. Select "hover" on "Display Name" so others can see your token's name. 
-4. Click on "Image" 
-5. Select the image (follow steps outlined in :ref:`Choosing an Existing Avatar Image` using the file browser, or the steps in :ref:`Uploading a new Avatar Image`)
-6. Click on "vision"
-7. If you have Darkvision enter its feet under "dim vision"
-8. If you normal have a light source in dark areas, enter its radius in the dim and bright fields under "Emit Dim" and "Emit Bright". Both sources come from your token, so a *Light* spell that emits 20 feet of bright light and 20 feet of dim light should be set to 40 feet of dim and 20 feet of bright (which overlaps the dim). 
-9. Click "Update Token."
+3. Select `Hover` on `Display Name` so others can see your token's name. 
+4. Click on `Image` 
+5. Select the image (follow steps outlined in Choosing an Existing Avatar Image using the file browser, or the steps in Uploading a new Avatar Image)
+6. Click on `Vision`
+7. If you have Darkvision enter its feet under `Dim Vision`
+8. If you normal have a light source in dark areas, enter its radius in the dim and bright fields under `Emit Dim` and `Emit Bright`. Both sources come from your token, so a *Light* spell that emits 20 feet of bright light and 20 feet of dim light should be set to 40 feet of dim and 20 feet of bright (which overlaps the dim). 
+9. Click `Update Token.`
 
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/blaringthatenglishsetter?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 !!! attention "Player Tokens Should Always be Round!"
-
-    Many GMs — myself included — prefer to designate PCs and NPC tokens via shapes. This allows the user to quickly identify a fellow PC's token on the board, and an NPC's. In my games, NPCs should always be square, and PCs should always be round.
+    Many GMs prefer to designate PCs and NPC tokens via shapes. This allows the user to quickly identify a fellow PC's token on the board, and an NPC's. In my games, NPCs should always be square, and PCs should always be round.
 
 ### Avatars
 ----
 
-After logging in, you will be directed to choose your player avatar. The default is a mysterious, hooded person. I tend to make players trusted, so you can upload your own character avatar. Not all GMs will do this, and you may have to talk to them about getting your avarar set up. 
+After logging in, you will be directed to choose your player avatar. The default is a mysterious, hooded person. I tend to make players trusted, so you can upload your own character avatar. Not all GMs will do this, and you may have to talk to them about getting your avatar set up. 
 
 <figure markdown>
 ![The default Avatar](https://gmdoug.sfo3.digitaloceanspaces.com/playeravatardefault.png){ loading=lazy }
@@ -169,11 +173,11 @@ I have a library of images from previous games, and they are ready to share with
   <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FlashyUnrulyHamadryad?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 1. Click on the avatar image 
-2. Click on the "Up" arrow until you see "assets"
-3. Click on "assets"
-4. Click on "PC Art"
-5. Select your token (note that there are a variety of view options next to "Display Mode" so you can see previews of the image)
-6. Click "Select File"
+2. Click on the `Up` arrow until you see `Assets`
+3. Click on `Assets`
+4. Click on `PC Art` (or whatver directory your gm has the artwork in)
+5. Select your token (note that there are a variety of view options next to `Display Mode` so you can see previews of the image)
+6. Click `Select File`
 
 ### Changing your Actor's Avatar
 ----
@@ -182,7 +186,7 @@ Your character can have different art from its token. This art will also show up
 
 1. Open the character sheet
 2. Click on the big avatar image
-3. Select the image or upload an image (follow steps outlined in :ref:`Choosing an Existing Avatar Image` using the file browser, or the steps in :ref:`Uploading a new Avatar Image`)
+3. Select the image or upload an image (follow steps outlined in `Choosing an Existing Avatar Image` using the file browser, or the steps in `Uploading a new Avatar Image`)
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/enchantedimaginativehogget?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -215,7 +219,7 @@ You can edit hit points to track them in combat. To do so:
 6. Add your Current HP (match the Total HP)
 7. You should see a full health bar under your token
 
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/brownterriblebelugawhale?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/brownterriblebelugawhale?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ##### Adjusting Hit Points
 
@@ -239,13 +243,9 @@ I like to roll initiatives with a macro that rolls for everyone and sots it — 
 5. Close Sheet
 
 !!! attention "Perception for Initiative"
-    
-
     <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/impracticalwellmadeiguana?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 !!! attention "Other Skill for Initiative"
-    
-
     <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/presentrashlacewing?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 
@@ -278,13 +278,13 @@ You can edit your own macros on the hotbar. You can also add them from compendiu
 
 #### Building a Macro
 
-1. Click on the hotbar. If there's already a macro there, right-click to edit or remove.
+1. Click on the `hotbar`. If there's already a macro there, right-click to edit or remove.
 2. Name the Macro
-3. Enter the macro type ("chat" is the default and works fins for simple macros; "script" is a javascript macro)
+3. Enter the macro type (`chat` is the default and works fins for simple macros; `script` is a javascript macro)
 4. Select the macro image (there are images available in the default library)
 5. Enter the Macro Text
-6. Click "Execute Macro" to test
-7. Click Save Macro if it works
+6. Click `Execute Macro` to test
+7. Click `Save Macro` if it works
 8. You can use the macro by tapping the number on your keypad or clicking it
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/serpentinelivelyhagfish?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -293,15 +293,13 @@ You can edit your own macros on the hotbar. You can also add them from compendiu
 #### Using a Compendium Macro
 
 1. Click on  the Compendium area on the right sidebar
-2. Scroll down the the Macros section
+2. Scroll down the the `Macros` section
 3. Click on the category. A new window will open.
 4. Click on the macro you want to use in order to preview it
 5. Drag the macro you want to your hotbar
 6. Right-click and edit the macro to your liking, or click on it to execute it
 
-
-
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/giganticgreataustraliancattledog?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/giganticgreataustraliancattledog?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The GM may make a variety of compendiums available. I have a default set of simple attack/damage with multiple attack penalties, saves, and perception.
 
