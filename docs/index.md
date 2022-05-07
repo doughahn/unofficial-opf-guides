@@ -1,4 +1,4 @@
-# A Curated Collection of OPF Guides
+# A Curated Collection of Guides, Focused on Organized play
 
 This collection of guides is sourced from various VOs in the community, because they need a good home. None of these guides are officially endorsed by Paizo or the OPF. The hope is that this can become a useful, open-source documentation hub can with many contributors. 
 
