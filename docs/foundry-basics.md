@@ -73,7 +73,7 @@ You can drag your token anywhere you like. If you command-click on the token (co
 
 ### Highlight a Target
 ----
-Click on the `Target` icon on the left. Click on the token you ant to target. This will highlight it on the map for you.
+Click on the `Target` icon on the left. Click on the token you want to target. This will highlight it on the map for you. Alternatively, you can hover over the token you want to target and press "T" on your keyboard.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/feistyprestigiousborderterrier?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
