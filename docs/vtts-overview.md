@@ -118,6 +118,8 @@ Foundry is a standalone, self-hosted application that uses modern web technologi
 #### Cost
 The Foundry license is a $50 one-time license for the GM; they can then invite players to their server. While Foundry is touted as a low-cost solution, keep in mind there may be other costs on top of this. A self-hosted Foundry setup requires the host to let others directly connect to their computer while the game is running, which can expose the user to security risks as well as technical challenges. It is a good idea to purchase strong antivirus software, a new and up-to-date modem, etc. 
 
+Several options exist to host for free (Oracle Always Free, AWS Free Tier), or for comparable pricing of Partner Hosted (Digital Ocean droplets start at $5 which meet the minimum requirement, but the recommended specs require a $10 droplet), or any similar service. 
+
 {{ read_csv('foundry-costs.csv') }}
 
 #### Pros, Cons, Audience
