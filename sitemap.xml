@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/2e-FAQ/</loc>
+         <lastmod>2022-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/2e-boons/</loc>
+         <lastmod>2022-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://doughahn.github.io/unofficial-opf-guides/assets/</loc>
          <lastmod>2022-05-13</lastmod>
          <changefreq>daily</changefreq>
