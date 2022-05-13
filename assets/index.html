@@ -475,6 +475,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#removing-backgrounds" class="md-nav__link">
+    Removing Backgrounds
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -557,16 +564,17 @@
 
 
 <h1 id="working-with-paizo-assets">Working with Paizo Assets<a class="headerlink" href="#working-with-paizo-assets" title="Permanent link">⚑</a></h1>
-<p>Working with image assets is a core part of a VTT GM's routine. The task is often repetitive; while there are many ways to work with assets, the best solution is whatever is easiest for you — be that automation, free websites, or lo-fi options that just get the job done.</p>
+<p>Working with image assets is a core part of a VTT GM's routine. The task is often repetitive; while there are many ways to work with assets, the best solution is whatever is easiest for you — be that automation with lots of features, free websites, or lo-fi assets that just get the job done.</p>
 <h3 id="a-note-on-size">A note on Size<a class="headerlink" href="#a-note-on-size" title="Permanent link">⚑</a></h3>
-<p>Many VTTs are used by vision-disabled players. Many VTTs are also used by players with slow internet speed. GMs should find a balance between image size (larger is better for low-vision players who need to zoom), and speed. I try to keep maps under 500kb, and tokens under 300. There is no one correct answer… it depends on your group; for example, some groups prefer gorgeous high-res maps that can be megabytes in size. Other groups prefer a lo-fi, snappier experience. </p>
+<p>Many VTTs are used by vision-disabled players. Many VTTs are <em>also</em> used by players with slow internet speed. GMs should find a balance between image size (larger is better for low-vision players, who need to zoom), and speed. I try to keep maps under 500kb, and tokens under 300. </p>
+<p>There is no one correct answer… it depends on your group and context; for example, some groups prefer gorgeous high-res maps that can be megabytes in size. Other groups prefer a lo-fi, snappier experience that more closely mimics an in-person tabletop session. </p>
 <p>Talk to your group, ask for feedback, and find out what works for them. </p>
 <h3 id="a-note-on-design">A note on Design<a class="headerlink" href="#a-note-on-design" title="Permanent link">⚑</a></h3>
-<p><strong>Simpler is better.</strong> Err on the side of simple, clear tokens. A beautiful token does no good if it is not recognizable.</p>
-<p><strong>Use more than Border Colors to designate Tokens.</strong> Roll20 and other VTTs have many options for naming tokens. In Play-by-Post / Google Slides, many GMs colorize tokens and forget their players may have vision disabilities such as colorblindness. There are a variety of options at your disposal to mitigate this and achiever clarity, such as numbering tokens, using dashed / solid / dotted borders, and masking shapes. </p>
-<p><strong>Consistency is Clarity.</strong> Many GMs prefer to use square tokens for enemies, and round tokens for PCs. Whatever your table's preference, maintain consistency throughout your game. Your designs become a language of their own. </p>
+<p><strong>Simpler is better.</strong> Err on the side of simple, clear tokens. A complex and beautiful token is just noise if it is unrecognizable when the map is zoomed out.</p>
+<p><strong>Use more than border colors to designate tokens.</strong> Roll20 and other VTTs have many options for naming tokens, such as numbering tokens. In Play-by-Post / Google Slides, many GMs colorize token borders, and forget their players may have vision disabilities such as colorblindness. Google Slides offers a variety of options at your disposal to achieve clarity such as numbering tokens, using dashed / solid / dotted borders, and making them into shapes. </p>
+<p><strong>Consistency is Clarity.</strong> Many GMs prefer to use square tokens for enemies, and round tokens for PCs. Whatever your table's preference, maintain consistency throughout your games. Your design preference will become a language of its own. </p>
 <h2 id="extracting-editing-images">Extracting &amp; Editing Images<a class="headerlink" href="#extracting-editing-images" title="Permanent link">⚑</a></h2>
-<p>All image editing requires unlocking your Paizo PDF. To unlock the PDF, export the pdf to pdf in Preview.app (macOS) or in Foxit reader (Windows) choose <code>File</code> =&gt; <code>Print</code> =&gt; <code>PDF</code>).</p>
+<p>All image editing requires unlocking the Paizo PDF. To unlock the PDF, export the pdf to pdf in Preview.app (macOS) or in Foxit reader (Windows)by choosing <code>File</code> =&gt; <code>Print</code> =&gt; <code>PDF</code>). You now have a new file that you can use for image extraction. </p>
 <h3 id="free-acrobat-reader-dc">Free: Acrobat Reader DC<a class="headerlink" href="#free-acrobat-reader-dc" title="Permanent link">⚑</a></h3>
 <ol>
 <li>Open the unlocked PDF in Acrobat reader DC</li>
@@ -574,10 +582,10 @@
 <li>Select <code>Copy Image</code></li>
 <li>You can now paste the image into any app on your computer (e.g. Paint / Photoshop), or paste into Google Slides</li>
 </ol>
-<p>The image may turn out upside-down or with a black background. If hat is the case, try one of the batch extraction tools below, which should work better. </p>
+<p>The image may turn out upside-down or with a black background. If that is the case, try one of the batch extraction tools below; these should work better. </p>
 <div class="admonition question">
 <p class="admonition-title">Why is there a black background on my image?</p>
-<p>PDFs don't support images with transparency. Instead publishers like Paizo use two images; is a transparency mask that mimics the desired effect. When you copy, you sometimes only get the RGB data and the background turns black. To fix this you need to get good at editing software such as Photoshop/Gimp, or use a free tool like the ones below to do the job for you. </p>
+<p>PDFs don't support images with transparency. Instead publishers like Paizo use two images; one of them is a transparency mask that mimics the desired effect, and the other is the image itself. When you copy an image, sometimes you only get the RGB data and the background therefore comes out black. To fix this you need to get editing software such as Photoshop/Gimp, or use a free tool like the ones below to do the job for you. </p>
 </div>
 <h3 id="subscription-adobe-cc">Subscription: Adobe CC<a class="headerlink" href="#subscription-adobe-cc" title="Permanent link">⚑</a></h3>
 <p>The benefit of Adobe Creative Cloud is that all the apps can sync up and let you do advanced editing. This is the author's preferred way of working with assets. </p>
@@ -591,10 +599,9 @@
 <li>The image with transparency is ready in Photoshop</li>
 </ol>
 <p>You can save the image as a PNG, and use it in your VTT of choice. </p>
-<figure>
-<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe src='https://gfycat.com/ifr/TemptingWellmadeBee?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TemptingWellmadeBee?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+
 <h2 id="batch-extracting-images">Batch Extracting Images<a class="headerlink" href="#batch-extracting-images" title="Permanent link">⚑</a></h2>
 <p>Batch exporting images is often less useful, as the export will get all art assets (including decorative images, such as those in the margins of pages). However, it can be useful at times. </p>
 <h3 id="subscription-adobe-cc_1">Subscription: Adobe CC<a class="headerlink" href="#subscription-adobe-cc_1" title="Permanent link">⚑</a></h3>
@@ -622,9 +629,15 @@
 <li>Click <code>Download all JPG Images</code> on the screen when ready</li>
 </ol>
 <h2 id="token-creation">Token Creation<a class="headerlink" href="#token-creation" title="Permanent link">⚑</a></h2>
-<p>There are several free websites. I prefer <a href="https://thefatefulforce.com/battle-resources/token-creator/">The Fateful Force</a> tokenizer.</p>
+<p>There are several free websites you can use to create tokens; there is no best website. Find one you like. </p>
+<ul>
+<li><a href="https://thefatefulforce.com/battle-resources/token-creator/">The Fateful Force</a> </li>
+<li><a href="https://rolladvantage.com/tokenstamp/">Token Stamp 2</a></li>
+<li><a href="https://www.rptools.net/2018/07/token-tool-2-0/">Token Tool 2</a></li>
+<li>Google Slides (native with many Play-by-Post games)</li>
+</ul>
 <h3 id="free-google-slides-with-play-by-post">Free: Google Slides with Play-by-Post<a class="headerlink" href="#free-google-slides-with-play-by-post" title="Permanent link">⚑</a></h3>
-<p>If you have an image without transparency and are using Google Slides for your VTT, (for example, batch-extracted images with a white background), you can drag them onto Google slides and edit them to create tokens using the Slides masking tool.</p>
+<p>If you have an image without transparency and are using Google Slides for your VTT, (for example, batch-extracted images with a white background), you can drag them onto Google slides and edit them to create tokens using the slides <a href="https://support.google.com/docs/answer/4600160?hl=en&amp;co=GENIE.Platform%3DDesktop#zippy=%2Cmask-an-image-in-google-slides">masking tool</a>.</p>
 <ol>
 <li>Drag your image onto the slide</li>
 <li>Select the image by clicking on it</li>
@@ -635,10 +648,9 @@
 <li>If you want a circular token, click on the Masks icon again and select <code>Shapes</code> =&gt; <code>Circle</code></li>
 <li>You can add a border and numbers if you want</li>
 </ol>
-<figure>
-<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe src='https://gfycat.com/ifr/gleefullonglacewing?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-<figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+<h5 id="google-slides-token-creation">Google Slides token creation<a class="headerlink" href="#google-slides-token-creation" title="Permanent link">⚑</a></h5>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/gleefullonglacewing?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 <h3 id="free-fateful-force">Free: Fateful Force<a class="headerlink" href="#free-fateful-force" title="Permanent link">⚑</a></h3>
 <p>The <a href="https://thefatefulforce.com/battle-resources/token-creator/">Fateful Force VTT Token Maker</a> is a simple-to-use token creator that has basic options as well as text. </p>
 <ol>
@@ -648,10 +660,9 @@
 <li>Add text and scale the text if desired. Useful for multiple enemies of the same type. </li>
 <li>Download</li>
 </ol>
-<figure>
-<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe src='https://gfycat.com/ifr/MediumGraciousKomododragon?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-<figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+<h5 id="fateful-force-token-creation">Fateful Force token creation<a class="headerlink" href="#fateful-force-token-creation" title="Permanent link">⚑</a></h5>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MediumGraciousKomododragon?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 <h6 id="square-tokens">Square Tokens<a class="headerlink" href="#square-tokens" title="Permanent link">⚑</a></h6>
 <p>To make a square token, just select <code>None</code> under "Border Style." This will create a square token without a border for you. </p>
 <h3 id="subscription-adobe-photoshop">Subscription: Adobe Photoshop<a class="headerlink" href="#subscription-adobe-photoshop" title="Permanent link">⚑</a></h3>
@@ -685,10 +696,9 @@
 <p class="admonition-title">Copy/Paste into Google Slides to Save Time</p>
 <p>You can select all and <code>Copy Merged</code> (<code>Edit</code> =&gt; <code>Copy merged</code>) and paste directly into Google Slides. There is no need to save your work onto the hard drive. This is a huge time saver for PbP GMs!</p>
 </div>
-<figure>
-<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe src='https://gfycat.com/ifr/inconsequentialbabyishhectorsdolphin?autoplay=0 frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-<figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+<h5 id="building-a-token-by-hand-in-photoshop">Building a token by hand in Photoshop<a class="headerlink" href="#building-a-token-by-hand-in-photoshop" title="Permanent link">⚑</a></h5>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/inconsequentialbabyishhectorsdolphin?autoplay=0 frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 <h5 id="round-tokens">Round Tokens<a class="headerlink" href="#round-tokens" title="Permanent link">⚑</a></h5>
 <ol>
 <li>Add a new layer background: <code>Layer</code> =&gt; <code>New Fill Layer</code> =&gt; <code>Solid Color</code> =&gt; <code>OK</code> =&gt; enter <code>fff</code> in the highlighted text box =&gt; <code>OK</code></li>
@@ -715,10 +725,39 @@
 <li>Size all images the to the same dimensions <em>and resolution</em>, and capture that in the action. I set all tokens to a 72 resolution, then I size the image to 400px wide. This keeps stroke and font placement consistent.</li>
 <li>Start your action after a selection is made. You cannot automate selecting the token area very well — that takes a human eye. </li>
 </ul>
-<figure>
-<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe src='https://gfycat.com/ifr/ThriftySentimentalIceblueredtopzebra?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-<figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+<h5 id="an-automated-workflow-to-size">An automated workflow to size<a class="headerlink" href="#an-automated-workflow-to-size" title="Permanent link">⚑</a></h5>
+<p>This worflow does all of the above with two clicks, from a selection on transparent artwork.</p>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThriftySentimentalIceblueredtopzebra?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<h3 id="removing-backgrounds">Removing Backgrounds<a class="headerlink" href="#removing-backgrounds" title="Permanent link">⚑</a></h3>
+<p>Sometimes you may need to remove backgrounds from images in Photoshop. For example, you received flattened assets without transparency. or, perhaps you don't have access to Acrobat but you have access to Photoshop. Luckily, tools like the Magic Eraser make things go quickly. The </p>
+<h5 id="magic-eraser-tool">Magic Eraser Tool<a class="headerlink" href="#magic-eraser-tool" title="Permanent link">⚑</a></h5>
+<p>Removing background in Photoshop is quite easy using tools like the <code>Magic Eraser.</code> This is often the best choice for simple images, or images where speed is your primary goal. </p>
+<ol>
+<li>Hide the background layer by clicking the eye in the layers panel</li>
+<li>Click on the <code>Magic Eraser</code> tool</li>
+<li>Click on the background areas to remove it</li>
+<li>If too much of the image you want to keep is removed, adjust the <code>Threshold</code> (in the top left on your task bar); a Threshold of 15 is a good starting point. </li>
+<li>Your image now has transparency. </li>
+</ol>
+<h5 id="quickly-removing-the-background-in-photoshop">Quickly removing the background in Photoshop<a class="headerlink" href="#quickly-removing-the-background-in-photoshop" title="Permanent link">⚑</a></h5>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BigHardtofindBilby?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<h5 id="masking-images">Masking Images<a class="headerlink" href="#masking-images" title="Permanent link">⚑</a></h5>
+<p>Sometimes a complicated image warrants a a little more effort. This is the case for images with complicated edges, such as creatures with hair or auras. This is when masking comes into play. I do not use this option unless two conditions are met: the creature is narratively important, and the artwork is complex. </p>
+<ol>
+<li>Click the <code>Quick Selection tool</code></li>
+<li>Click the brush at the top to set a lower tolerance (usually something around 10 is good)</li>
+<li>Select the areas you want to keep</li>
+<li>Work to refine the edges. If you select too much, use the <code>Option</code> (macOS) key or <code>Alt</code> key (Windows) to deselect the range. Take as long as you like on refining the selection. This can take anywhere from a few seconds to many minutes, depending on how detailed you wish to be.</li>
+<li>Click the <code>Mask</code> button at the bottom of the Layers pane.</li>
+<li>Click <code>Refine</code></li>
+<li>Play with the settings until you are happy with the image. I like to smooth and feather just a little bit, and check off <code>Decontaminate Colors.</code></li>
+<li>Click <code>OK.</code></li>
+</ol>
+<h5 id="masking-an-image-in-photoshop">Masking an image in Photoshop<a class="headerlink" href="#masking-an-image-in-photoshop" title="Permanent link">⚑</a></h5>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrightDeadBrocketdeer/?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 <h2 id="maps">Maps<a class="headerlink" href="#maps" title="Permanent link">⚑</a></h2>
 <p>Maps can be extracted like images. When importing to a VTT like roll20, it is a good idea to first remove partial squares from the edges. This helps the map line up perfectly with the VTT's grid. You can use image editor to crop the image, or a free online editor such as <a href="https://www.iloveimg.com/crop-image">I love Image</a> to crop your asset. </p>
 <p>After it is cropped, simply count the height and width in squares, and create your canvas in that size. </p>
