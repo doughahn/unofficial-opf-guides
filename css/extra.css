@@ -45,7 +45,16 @@ h1, h2, h3 {
 .md-typeset h3, 
 .md-typeset h4 {
   font-weight: 700;
-  color:  var(--md-default-fg-color--light);
+  color:  black
+}
+
+.md-typeset h3:before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: .5rem;
+    width: 3rem;
+    border-top: .08rem solid var(--md-default-fg-color--light);
 }
 
 /*Body text links*/
