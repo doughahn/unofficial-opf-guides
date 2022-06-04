@@ -41,6 +41,11 @@ h1, h2, h3 {
 .md-typeset h2 {
   font-weight: 700;
 }
+
+
+.md-nav__link--active {
+  font-weight:  bold;
+}
   
 .md-typeset h3, 
 .md-typeset h4 {
