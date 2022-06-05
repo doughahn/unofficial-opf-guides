@@ -1,24 +1,26 @@
 # Working with Paizo Assets
 
-Working with image assets is a core part of a VTT GM's routine. The task is often repetitive; while there are many ways to work with assets, the best solution is whatever is easiest for you — be that automation, free websites, or lo-fi options that just get the job done.
+Working with image assets is a core part of a VTT GM's routine. The task is often repetitive; while there are many ways to work with assets, the best solution is whatever is easiest for you — be that automation with lots of features, free websites, or lo-fi assets that just get the job done.
 
 ### A note on Size
 
-Many VTTs are used by vision-disabled players. Many VTTs are also used by players with slow internet speed. GMs should find a balance between image size (larger is better for low-vision players who need to zoom), and speed. I try to keep maps under 500kb, and tokens under 300. There is no one correct answer… it depends on your group; for example, some groups prefer gorgeous high-res maps that can be megabytes in size. Other groups prefer a lo-fi, snappier experience. 
+Many VTTs are used by vision-disabled players. Many VTTs are *also* used by players with slow internet speed. GMs should find a balance between image size (larger is better for low-vision players, who need to zoom), and speed. I try to keep maps under 500kb, and tokens under 300. 
+
+There is no one correct answer… it depends on your group and context; for example, some groups prefer gorgeous high-res maps that can be megabytes in size. Other groups prefer a lo-fi, snappier experience that more closely mimics an in-person tabletop session. 
 
 Talk to your group, ask for feedback, and find out what works for them. 
 
 ### A note on Design
 
-**Simpler is better.** Err on the side of simple, clear tokens. A beautiful token does no good if it is not recognizable.
+**Simpler is better.** Err on the side of simple, clear tokens. A complex and beautiful token is just noise if it is unrecognizable when the map is zoomed out.
 
-**Use more than Border Colors to designate Tokens.** Roll20 and other VTTs have many options for naming tokens. In Play-by-Post / Google Slides, many GMs colorize tokens and forget their players may have vision disabilities such as colorblindness. There are a variety of options at your disposal to mitigate this and achiever clarity, such as numbering tokens, using dashed / solid / dotted borders, and masking shapes. 
+**Use more than border colors to designate tokens.** Roll20 and other VTTs have many options for naming tokens, such as numbering tokens. In Play-by-Post / Google Slides, many GMs colorize token borders, and forget their players may have vision disabilities such as colorblindness. Google Slides offers a variety of options at your disposal to achieve clarity such as numbering tokens, using dashed / solid / dotted borders, and making them into shapes. 
 
-**Consistency is Clarity.** Many GMs prefer to use square tokens for enemies, and round tokens for PCs. Whatever your table's preference, maintain consistency throughout your game. Your designs become a language of their own. 
+**Consistency is Clarity.** Many GMs prefer to use square tokens for enemies, and round tokens for PCs. Whatever your table's preference, maintain consistency throughout your games. Your design preference will become a language of its own. 
 
 ## Extracting & Editing Images
 
-All image editing requires unlocking your Paizo PDF. To unlock the PDF, export the pdf to pdf in Preview.app (macOS) or in Foxit reader (Windows) choose `File` => `Print` => `PDF`).
+All image editing requires unlocking the Paizo PDF. To unlock the PDF, export the pdf to pdf in Preview.app (macOS) or in Foxit reader (Windows)by choosing `File` => `Print` => `PDF`). You now have a new file that you can use for image extraction. 
 
 ### Free: Acrobat Reader DC
 
@@ -27,10 +29,11 @@ All image editing requires unlocking your Paizo PDF. To unlock the PDF, export t
 3. Select `Copy Image`
 4. You can now paste the image into any app on your computer (e.g. Paint / Photoshop), or paste into Google Slides
 
-The image may turn out upside-down or with a black background. If hat is the case, try one of the batch extraction tools below, which should work better. 
+The image may turn out upside-down or with a black background. If that is the case, try one of the batch extraction tools below; these should work better. 
 
 !!! question "Why is there a black background on my image?"
-    PDFs don't support images with transparency. Instead publishers like Paizo use two images; is a transparency mask that mimics the desired effect. When you copy, you sometimes only get the RGB data and the background turns black. To fix this you need to get good at editing software such as Photoshop/Gimp, or use a free tool like the ones below to do the job for you. 
+    PDFs don't support images with transparency. Instead publishers like Paizo use two images; one of them is a transparency mask that mimics the desired effect, and the other is the image itself. When you copy an image, sometimes you only get the RGB data and the background therefore comes out black. To fix this you need to get editing software such as Photoshop/Gimp, or use a free tool like the ones below to do the job for you. 
+
 
 ### Subscription: Adobe CC
 
@@ -47,10 +50,10 @@ The benefit of Adobe Creative Cloud is that all the apps can sync up and let you
 
 You can save the image as a PNG, and use it in your VTT of choice. 
 
-<figure markdown>
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TemptingWellmadeBee?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TemptingWellmadeBee?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
   <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+
 
 ## Batch Extracting Images 
 
@@ -83,11 +86,16 @@ Sites such as these are free to use, but their performance may not always be rel
 
 ## Token Creation
 
-There are several free websites. I prefer [The Fateful Force](https://thefatefulforce.com/battle-resources/token-creator/) tokenizer.
+There are several free websites you can use to create tokens; there is no best website. Find one you like. 
+
+- [The Fateful Force](https://thefatefulforce.com/battle-resources/token-creator/) 
+- [Token Stamp 2](https://rolladvantage.com/tokenstamp/)
+- [Token Tool 2](https://www.rptools.net/2018/07/token-tool-2-0/)
+- Google Slides (native with many Play-by-Post games)
 
 ### Free: Google Slides with Play-by-Post
 
-If you have an image without transparency and are using Google Slides for your VTT, (for example, batch-extracted images with a white background), you can drag them onto Google slides and edit them to create tokens using the Slides masking tool.
+If you have an image without transparency and are using Google Slides for your VTT, (for example, batch-extracted images with a white background), you can drag them onto Google slides and edit them to create tokens using the slides [masking tool](https://support.google.com/docs/answer/4600160?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cmask-an-image-in-google-slides).
 
 1. Drag your image onto the slide
 1. Select the image by clicking on it
@@ -98,10 +106,8 @@ If you have an image without transparency and are using Google Slides for your V
 1. If you want a circular token, click on the Masks icon again and select `Shapes` => `Circle`
 1. You can add a border and numbers if you want
 
-<figure markdown>
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/gleefullonglacewing?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-  <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+##### Google Slides token creation
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/gleefullonglacewing?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 
 ### Free: Fateful Force
@@ -114,10 +120,9 @@ The [Fateful Force VTT Token Maker](https://thefatefulforce.com/battle-resources
 4. Add text and scale the text if desired. Useful for multiple enemies of the same type. 
 5. Download
 
-<figure markdown>
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MediumGraciousKomododragon?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-  <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+
+##### Fateful Force token creation
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MediumGraciousKomododragon?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 
 ###### Square Tokens
@@ -154,12 +159,11 @@ Here is how to make a token in photoshop. You can use these steps for automation
   1. Double-click the number and add another number. 
 
 !!! tip "Copy/Paste into Google Slides to Save Time"
-  You can select all and `Copy Merged` (`Edit` => `Copy merged`) and paste directly into Google Slides. There is no need to save your work onto the hard drive. This is a huge time saver for PbP GMs!
+    You can select all and `Copy Merged` (`Edit` => `Copy merged`) and paste directly into Google Slides. There is no need to save your work onto the hard drive. This is a huge time saver for PbP GMs!
 
-<figure markdown>
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/inconsequentialbabyishhectorsdolphin?autoplay=0 frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-  <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+
+##### Building a token by hand in Photoshop
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/inconsequentialbabyishhectorsdolphin?autoplay=0 frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ##### Round Tokens
 
@@ -190,17 +194,71 @@ There are a couple "gotchas" to be aware of so your action works with any file:
 - Size all images the to the same dimensions *and resolution*, and capture that in the action. I set all tokens to a 72 resolution, then I size the image to 400px wide. This keeps stroke and font placement consistent.
 - Start your action after a selection is made. You cannot automate selecting the token area very well — that takes a human eye. 
 
-<figure markdown>
-  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThriftySentimentalIceblueredtopzebra?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-  <figcaption>Extracting an image with transparency using Adobe CC products</figcaption>
-</figure>
+##### An automated workflow 
+This workflow does all of the above (size, stroke, stroked numbering) with two clicks, from a selection of transparent artwork.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThriftySentimentalIceblueredtopzebra?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+### Removing Backgrounds
+
+Sometimes you may need to remove backgrounds from images in Photoshop. For example, you received flattened assets without transparency. or, perhaps you don't have access to Acrobat but you have access to Photoshop. Luckily, tools like the Magic Eraser make things go quickly. The 
+
+##### Magic Eraser Tool 
+
+Removing background in Photoshop is quite easy using tools like the `Magic Eraser.` This is often the best choice for simple images, or images where speed is your primary goal. 
+
+1. Hide the background layer by clicking the eye in the layers panel
+1. Click on the `Magic Eraser` tool
+1. Click on the background areas to remove it
+1. If too much of the image you want to keep is removed, adjust the `Threshold` (in the top left on your task bar); a Threshold of 15 is a good starting point. 
+1. Your image now has transparency. 
+
+##### Quickly removing the background in Photoshop
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BigHardtofindBilby?autoplay=0'frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+##### Masking Images
+
+Sometimes a complicated image warrants a a little more effort. This is the case for images with complicated edges, such as creatures with hair or auras. This is when masking comes into play. I do not use this option unless two conditions are met: the creature is narratively important, and the artwork is complex. 
+
+1. Click the `Quick Selection tool`
+1. Click the brush at the top to set a lower tolerance (usually something around 10 is good)
+1. Select the areas you want to keep
+1. Work to refine the edges. If you select too much, use the `Option` (macOS) key or `Alt` key (Windows) to deselect the range. Take as long as you like on refining the selection. This can take anywhere from a few seconds to many minutes, depending on how detailed you wish to be.
+1. Click the `Mask` button at the bottom of the Layers pane.
+1. Click `Refine`
+1. Play with the settings until you are happy with the image. I like to smooth and feather just a little bit, and check off `Decontaminate Colors.`
+1. Click `OK.`
+
+##### Masking an image in Photoshop
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrightDeadBrocketdeer?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ## Maps
 
-Maps can be extracted like images. When importing to a VTT like roll20, it is a good idea to first remove partial squares from the edges. This helps the map line up perfectly with the VTT's grid. You can use image editor to crop the image, or a free online editor such as [I love Image](https://www.iloveimg.com/crop-image) to crop your asset. 
+Maps can be extracted like images. When importing to a VTT like roll20, it is a good idea to first remove partial squares from the edges. This helps the map line up perfectly with the VTT's grid. You can use image editor like Photoshop to crop the image, or a free online editor such as [I love Image](https://www.iloveimg.com/crop-image) to crop your asset. 
 
-After it is cropped, simply count the height and width in squares, and create your canvas in that size. 
+After it is cropped, simply count the height and width in squares, and create your canvas in that same size. Everything should line up perfectly. 
 
 ### Maps on Google Slides
 
-It is a best practice to use background images for Google Slides, however to avoid skewing they must be sized to fit. You can do this with image editing software like Photoshop, or online tools like [croppola](https://croppola.com). 
+It is a best practice to use background images for Google Slides, so players can move tokens and create auras or notes without disrupting the gameplay board. Locked backgrounds are also an accessibility need for players with muscular disabilities. 
+
+To avoid skewing, the image must be sized to fit. You can do this with image editing software like Photoshop, or online tools like [croppola](https://croppola.com). 
+
+#### Making 16:9 Maps in Photoshop
+
+1. Start with your image open
+1. Select the `Crop` tool
+1. In the top right bar, to the right of `Ratio` enter 16, hit `Tab` and enter `9.` This is your aspect ratio
+1. The 16:9 crop box should be viewable on the image
+1. Resize the image so it covers the area you want 
+1. You can drag the image round to reposition it in the crop box
+1. Hit enter twice
+1. Save the cropped image
+1. In Google Slides, right click on your slide and select 1Change background.`
+1. Select `Choose Image`
+1. Upload your 16:9 image to slides
+
+Note that on Google Slides you can also create 4:4 slides. In that case, replace 16:9 with 4:3 in the instructions above. 
+
+##### Cropping to Aspect Ratio in Photoshop
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/KindlyFilthyInganue?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>

@@ -8,47 +8,6 @@ Note the question isn't "Which VTT is right for **me** — it's **us.** Choosing
 
 Campaigns where the VTT is chosen ahead of time (often due to GM preference) should put that up-front in their recruiting literature, letting players decide. An example of this are one-off Pathfinder or Starfinder scenarios that are open to the public for signup; and players are free to attend a different game if they cannot use the GM's platform of choice. 
 
-### Google Slides
-----
-<figure markdown>
-![Google Slides Screenshot](https://gmdoug.sfo3.digitaloceanspaces.com/vtt-slides.jpg){ loading=lazy }
-<figcaption>A Google Slides map. Note the initiative tracker template added by hand by the GM.</figcaption>
-</figure>
-
-Google slides can be used as a bare-bones VTT. Essentially, the GM creates a set of slides with backgrounds set to the map, and allows anyone to edit it/ Players create tokens for their PCs and move them around on the map, rolling dice at their table. 
-
-#### Cost
-Google Slides is free to use; the GM should own a Google Account to edit the slides. In addition, the group needs to set up some kind of voice or VTT, so a Discord server may need to be acquired. 
-
-#### Pros, Cons, Audience
-Google Slides can be a fast way to get a VTT off the ground, and it's used by the [play-by-post.md](play by post) community, but it lacks almost al the features modern players tend to expect when it comes to a VTT. Though free, users need to have some kind of voice setup such as a discord server. Finally, users with muscular or vision disabilities may have difficulty interacting with the slides. 
-
-!!! success "Pros"
-    - Quickly set up tables
-    - No experience needed to use
-    - Very old-school/minimalist feeling
-    - Free
-    - Works on all browsers and devices
-
-!!! failure "Cons"
-    - Editing is a slower process than other VTTs
-    - Lack of features such as initiative trackers can slow down games
-    - Players and GMs need to trust one another as dice are rolled off-screen
-    - Poor support for users with disabilities (can be mitigated by GM, but it takes extra work such as fitting backgrounds to slides)
-
-=== ":material-bookmark-outline: Who Will Love It"
-
-    - Users who also play on play-by-post
-    - Users who want simple technology
-    - Users who want old-school games
-    - Users looking to occasionally supplement their in-person gaming with a "minimum viable product"
-
-=== ":material-bookmark-outline: Who Will Hate It"
-    
-    - Users who want full-featured VTTs
-    - Users who are bad at doing math with physical dice
-    - GMs who don't trust their players (and vice versa)
-
 ### Roll20
 ----
 
