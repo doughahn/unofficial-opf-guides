@@ -103,23 +103,23 @@ The spells available are:
 
 The spells available are:
 
-- consecrate flesh
-- dancing shield
-- desperate repair
-- dividing trench
-- empathic link
-- enhance senses
-- erase trail
-- forced mercy
-- life pact
-- lock item
-- martyr's intervention
-- purifying icicle
-- radiant beam
-- scouring pulse
-- sign of conviction
-- synchronize steps
-- wall of virtue
+- [consecrate flesh](https://2e.aonprd.com/Rituals.aspx?ID=8)
+- [dancing shield](https://2e.aonprd.com/Spells.aspx?ID=1111)
+- [desperate repair](https://2e.aonprd.com/Spells.aspx?ID=1112)
+- [dividing trench](https://2e.aonprd.com/Spells.aspx?ID=1114)
+- [empathic link](https://2e.aonprd.com/Spells.aspx?ID=1115)
+- [enhance senses](https://2e.aonprd.com/Spells.aspx?ID=1116)
+- [erase trail](https://2e.aonprd.com/Spells.aspx?ID=1117)
+- [forced mercy](https://2e.aonprd.com/Spells.aspx?ID=1118)
+- [life pact](https://2e.aonprd.com/Spells.aspx?ID=1119)
+- [lock item](https://2e.aonprd.com/Spells.aspx?ID=1120)
+- [martyr's intervention](https://2e.aonprd.com/Spells.aspx?ID=1121)
+- [purifying icicle](https://2e.aonprd.com/Spells.aspx?ID=1122)
+- [radiant beam](https://2e.aonprd.com/Spells.aspx?ID=1123)
+- [scouring pulse](https://2e.aonprd.com/Spells.aspx?ID=1124)
+- [sign of conviction](https://2e.aonprd.com/Spells.aspx?ID=1125)
+- [synchronize steps](https://2e.aonprd.com/Spells.aspx?ID=1126)
+- [wall of virtue](https://2e.aonprd.com/Spells.aspx?ID=1127)
 
 **Cost** 20 AcP
 
@@ -229,23 +229,23 @@ Items available are:
 
 Items available are:
 
-- bladed gauntlet
-- war lance
-- parade armor
-- throwing shield
-- anointing oil
-- banner of the restful
-- barding saddle
-- busine of divine reinforcements
-- campaign stable
-- camp shroud
-- detector stone
-- guardian shield
-- knight captain's lance
-- shining shield
-- swiftmount saddle
-- undead scourge
-- whistle of calling
+- [bladed gauntlet](https://2e.aonprd.com/Weapons.aspx?ID=253)
+- [war lance](https://2e.aonprd.com/Weapons.aspx?ID=254)
+- [parade armor](https://2e.aonprd.com/Equipment.aspx?ID=1560)
+- [throwing shield](https://2e.aonprd.com/Equipment.aspx?ID=1561)
+- [anointing oil](https://2e.aonprd.com/Equipment.aspx?ID=1563)
+- [banner of the restful](https://2e.aonprd.com/Equipment.aspx?ID=1564)
+- [barding saddle](https://2e.aonprd.com/Equipment.aspx?ID=1565)
+- [busine of divine reinforcements](https://2e.aonprd.com/Equipment.aspx?ID=1566)
+- [campaign stable](https://2e.aonprd.com/Equipment.aspx?ID=1569)
+- [camp shroud](https://2e.aonprd.com/Equipment.aspx?ID=1568)
+- [detector stone](https://2e.aonprd.com/Equipment.aspx?ID=1570)
+- [guardian shield](https://2e.aonprd.com/Equipment.aspx?ID=1572)
+- [knight captain's lance](https://2e.aonprd.com/Equipment.aspx?ID=1573)
+- [shining shield](https://2e.aonprd.com/Equipment.aspx?ID=1574)
+- [swiftmount saddle](https://2e.aonprd.com/Equipment.aspx?ID=1575)
+- [undead scourge](https://2e.aonprd.com/Equipment.aspx?ID=1577)
+- [whistle of calling](https://2e.aonprd.com/Equipment.aspx?ID=1578)
 
 **Cost** 20 AcP
 
