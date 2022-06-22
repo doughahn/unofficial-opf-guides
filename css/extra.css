@@ -53,6 +53,10 @@ h1, h2, h3 {
   color:  black
 }
 
+.md-typeset h6 {
+  color:  black
+}
+
 .md-typeset h3:before {
     content: '';
     display: block;
