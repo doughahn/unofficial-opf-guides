@@ -37,6 +37,10 @@ h1, h2, h3 {
  font-family: var(--md-header-font);
 }
 
+blockquote {
+  font-size: .75rem;
+}
+
 .md-typeset h1,
 .md-typeset h2 {
   font-weight: 700;
@@ -50,6 +54,10 @@ h1, h2, h3 {
 .md-typeset h3, 
 .md-typeset h4 {
   font-weight: 700;
+  color:  black
+}
+
+.md-typeset h6 {
   color:  black
 }
 

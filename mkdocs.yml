@@ -10,8 +10,9 @@ nav:
     - Foundry Basics: foundry-basics.md
     - Assets & Tokens: assets.md
     - Splitting Chronicles: splitting-chronicles.md
-    - 2E FAQ: 2e-FAQ.md
-    - 2E Boons: 2e-boons.md
+    - 2E Errata: 2e-FAQ.md
+    - PFS FaQ: pfs-faq.md
+    - PFS Boons: 2e-boons.md
     - More Guides: other-guides.md
     # - Foundry: foundry.md
     # - Slides: slides.md 
@@ -39,7 +40,6 @@ theme:
   features:
     - navigation.top
     - toc.follow
-    - toc.integrate
     - navigation.sections
     - navigation.expand
     - content.tabs.link

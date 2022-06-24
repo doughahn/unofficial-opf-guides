@@ -1,6 +1,8 @@
 # 2E Boons
 
-This list is mirrored from the [PFS FaQ page](https://paizo.com/pathfindersociety/faq) and Boons List on the Boons page. The purpose of this guide is to provide a complete overview of boon rewards in a structured, searchable, linkable format.
+This list is mirrored from the [PFS FaQ page](https://paizo.com/pathfindersociety/faq)'s' Boons List. The purpose of this guide is to provide a complete overview of boon rewards in a structured, searchable, linkable format.
+
+For other items, check out the [PFS FaQ Page](pfs-faq.md)
 
 ## Ancestry Boons
 
