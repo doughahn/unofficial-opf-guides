@@ -1,19 +1,26 @@
 site_name: Unofficial Paizo Guides
 site_url: https://doughahn.github.io/unofficial-opf-guides/
 nav:
-    - Organized Play 101: org-play.md
-    - Warhorn for Players: warhorn.md
-    - Warhorn for Organizers: warhorn-for-organizers.md
-    - Paizo Play by Post: play-by-post.md
-    - Choosing a Virtual Tabletop: vtts-overview.md
-    - Roll20 Basics: roll20-basics.md
-    - Foundry Basics: foundry-basics.md
-    - Assets & Tokens: assets.md
-    - Splitting Chronicles: splitting-chronicles.md
-    - 2E Errata: 2e-FAQ.md
-    - PFS FaQ: pfs-faq.md
-    - PFS Boons: 2e-boons.md
-    - More Guides: other-guides.md
+    - Organized Play:
+      - Organized Play 101: organized-play/org-play.md
+      - 2E Errata: organized-play/2e-FAQ.md
+      - PFS FaQ: organized-play/pfs-faq.md
+      - PFS Boons: organized-play/2e-boons.md
+    - Using Warhorn:
+      - For Players: warhorn/warhorn.md
+      - For Organizers: warhorn/warhorn-for-organizers.md
+    - VTTs & Assets:
+      - Choosing a VTT: vtt/vtts-overview.md
+      - Creating Assets: vtt/assets.md
+      - Splitting Chronicles: vtt/splitting-chronicles.md
+    - Play by Post:
+      - Paizo Play by Post: pbp/play-by-post.md
+    - Roll20:
+      - Free account macros: roll20/roll20-basics.md
+      - Advanced macros: roll20/advanced-macros.md
+    - Foundry:
+      - Basics: foundry/foundry-basics.md
+    - More Guides: other-guides/other-guides.md
     # - Foundry: foundry.md
     # - Slides: slides.md 
     # - Suggested-rulings: suggested-rulings.md
@@ -43,6 +50,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - content.tabs.link
+    - navigation.indexes
   hide:
     - navigation
   logo: 
@@ -82,4 +90,20 @@ plugins:
   - search
   - table-reader:
       data_path: "docs/assets"
+  - redirects:
+      redirect_maps:
+        'org-play.md': 'organized-play/org-play.md'
+        '2e-FAQ.md': 'organized-play/2e-FAQ.md'
+        'pfs-faq.md': 'organized-play/pfs-faq.md'
+        '2e-boons.md': 'organized-play/2e-boons.md'
+        'warhorn.md': 'warhorn/warhorn.md'
+        'warhorn-for-organizers.md': 'warhorn/warhorn-for-organizers.md'
+        'vtts-overview.md': 'vtt/vtts-overview.md'
+        'assets.md': 'vtt/assets.md'
+        'splitting-chronicles.md': 'vtt/splitting-chronicles.md'
+        'roll20-basics.md': 'roll20/roll20-basics.md'
+        'advanced-macros.md': 'roll20/advanced-macros.md'
+        'foundry-basics.md': 'foundry/foundry-basics.md'
+        'play-by-post.md': 'pbp/play-by-post.md'
+        'other-guides.md': 'other-guides/other-guides.md'
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'
