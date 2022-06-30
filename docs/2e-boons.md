@@ -9,14 +9,14 @@ For other items, check out the [PFS FaQ Page](pfs-faq.md)
 Each ancestry is listed, along with the AcP Cost:
 
 - [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15): 40 AcP
-- [Hobgoblin](https://2e.aonprd.com/Ancestries.aspx?ID=13): 120 AcP
-- [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17): 120 AcP
+- [Hobgoblin](https://2e.aonprd.com/Ancestries.aspx?ID=13): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
+- [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
 - [Orc](https://2e.aonprd.com/Ancestries.aspx?ID=19): 80 AcP
 - [Ratfolk](https://2e.aonprd.com/Ancestries.aspx?ID=20): 80 AcP
 - [Tengu](https://2e.aonprd.com/Ancestries.aspx?ID=21): 80 AcP
 - [Shoony](https://2e.aonprd.com/Ancestries.aspx?ID=16): 160 AcP (Discounted to 80 with a certain AP credit)
 - [Android](https://2e.aonprd.com/Ancestries.aspx?ID=27): 160 AcP
-- [Fetching](https://2e.aonprd.com/Ancestries.aspx?ID=30): 80 AcP
+- [Fetching](https://2e.aonprd.com/Ancestries.aspx?ID=30): 80 AcP ([reducing to 40 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
 - [Fleshwarp](https://2e.aonprd.com/Ancestries.aspx?ID=31): 160 AcP
 - [Kitsune](https://2e.aonprd.com/Ancestries.aspx?ID=38): 80 AcP
 - [Sprite](https://2e.aonprd.com/Ancestries.aspx?ID=39): 160 AcP
@@ -46,11 +46,11 @@ Each heritage is listed, along with the AcP Cost:
 - [Beastkin](https://2e.aonprd.com/Ancestries.aspx?ID=29): 160 AcP
 - [Ganzi](https://2e.aonprd.com/Ancestries.aspx?ID=32): 80 AcP
 - Genekin: 80 AcP
-  - [Ifrit](https://2e.aonprd.com/Ancestries.aspx?ID=33)
-  - [Oread](https://2e.aonprd.com/Ancestries.aspx?ID=34)
-  - [Sylph](https://2e.aonprd.com/Ancestries.aspx?ID=36)
-  - [Suli](https://2e.aonprd.com/Ancestries.aspx?ID=35)
-  - [Undine](https://2e.aonprd.com/Ancestries.aspx?ID=37)
+    - [Ifrit](https://2e.aonprd.com/Ancestries.aspx?ID=33)
+    - [Oread](https://2e.aonprd.com/Ancestries.aspx?ID=34)
+    - [Sylph](https://2e.aonprd.com/Ancestries.aspx?ID=36)
+    - [Suli](https://2e.aonprd.com/Ancestries.aspx?ID=35)
+    - [Undine](https://2e.aonprd.com/Ancestries.aspx?ID=37)
 
 ----
 ## System Traveler Boons
@@ -840,9 +840,94 @@ No, it does not. The boon allows you to transfer access to character options. Th
 
 
 ----
+## Season 3 Backgrounds
+
+The following backgrounds have thematic ties to eason 3, and are avialable to anyone. 
+
+### Muesello’s Student (Uncommon Background)
+
+You trained under Venture-Captain Muesello of the Oppara Lodge in Taldor. You learned a few of the mage-machinist’s crafting techniques, and your extensive knowledge of magic items comes in handy during your adventures as a Pathfinder field agent. Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
+
+You’re trained in the Crafting skill and the Engineering Lore skill. You gain the Crafter’s Appraisal skill feat (Pathfinder Advanced Player’s Guide 204). Additionally, when Muesello is present during your mission briefings, he takes some time to catch up with you and discuss your mission. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Gloriana's Fixer (Uncommon Background)
+
+You used to run certain “errands” for Gloriana Morilla, a close confidante of Grand Princess Eutropia Stavian, the ruler of Taldor. Gloriana took note of your skills and suggested you join the Pathfinder Society, a group she’s heavily involved in herself.
+
+Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
+
+You’re trained in the Thievery skill and the Underworld Lore skill. You gain the Subtle Theft skill feat.
+
+Additionally, when Gloriana Morilla is present during your mission briefings, she discreetly checks in with you and provides some pointers. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Almas Clerk (Uncommon Background)
+
+You worked as a clerk at the Golden Cathedral of Almas in Andoran. The Pathfinder Society’s activities in the city, and its passionate defense of its mission, inspired you to join the organization. You help the Society pursue its goals and navigate the laws of Golarion’s many locales.
+
+Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
+
+You’re trained in the Society skill and the Legal Lore skill. You gain the Glean Contents skill feat (Pathfinder Advanced Player’s Guide 206).
+
+Additionally, when you receive a mission briefing in the city of Almas, you know just how to find the information you need. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Friend of Greensteeples (Uncommon Background)
+
+You’re a good friend of Benedet, the majordomo of Greensteeples Manor in Egorian, Cheliax. You’ve learned a thing or two about surviving against all odds thanks to your close association with House Jeggare and the clandestine Pathfinder Society operations based out of Greensteeples.
+
+Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
+
+You’re trained in your choice of the Deception or Society skills, and gain the Assurance skill feat with your chosen skill. You’re also trained in a Lore skill about a narrow category of creatures.
+
+Additionally, when you receive a mission briefing at Greensteeples Manor (or a briefing from Benedet or Varian Jeggare at another location), you receive a warm welcome. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Guest of Sedeq Lodge (Uncommon Background)
+
+Either as a guest, event staff, or part of the construction crew, you spent a significant stretch of time at the Pathfinder Society’s new lodge in Sedeq. The lodge serves as a new home for those fleeing from oppression or otherwise seeking a fresh start in Qadira. The magic and marvels you witnessed at the lodge inspired you to find more excitement as a member of the Pathfinder Society.
+
+Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+
+You’re trained in your choice of the Arcana or Religion skills, as well as your choice of the Genie Lore or Sarenrae Lore skills. You gain the Recognize Spell skill feat.
+
+Additionally, when you receive a mission briefing at Sedeq Lodge, your familiarity with the site and the nearby area comes in handy. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Sandswept Survivor (Uncommon Background)
+
+You were in the Sandswept Hall, the Pathfinder Society’s lodge in Sothis, Osirion, when it came under attack from an unrelenting horde of undead. You endured the siege and forged new bonds with your fellow survivors, then joined the Society as a field agent.
+
+Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+
+You’re trained in the Survival skill and a Lore skill related to a specific type of undead, such as Mummy Lore or Zombie Lore. You gain the Terrain Expertise skill feat with underground terrain.
+
+Additionally, when you receive a mission briefing at the Sandswept Hall, your familiarity with its history and staff grants further insight. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+### Gold Falls Regular (Uncommon Background)
+
+You’ve long been a regular of Gold Falls Inn, a tavern located near Droskar’s Crag in the Darkmoon Vale region of Andoran. The establishment is a frequent gathering place for adventurers, storytellers, and folk heroes. You took note of the Pathfinder Society’s growing reputation in the area and decided to join up and seek adventure and fame of your own.
+
+Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
+
+You’re trained in the Performance skill, as well as your choice of the Cooking Lore skill or Volcano Lore skill. You gain the Impressive Performance skill feat.
+
+Additionally, when you receive a mission briefing at Gold Falls Inn or a settlement in Darkmoon Vale, you can draw on your knowledge of the region and its many stories. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
+
+**Cost**: 4 AcP
+
+----
 ## Game reward boons
 
-These boons are purchasable not with AcP but after you have earned a certain reputaito with your faction. 
+These boons are purchasable not with AcP but after you have earned a certain reputaton with your faction. 
 
 ### Envoy's Alliance Boons
 
