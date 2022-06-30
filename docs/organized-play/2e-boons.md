@@ -842,7 +842,7 @@ No, it does not. The boon allows you to transfer access to character options. Th
 ----
 ## Season 3 Backgrounds
 
-The following backgrounds have thematic ties to eason 3, and are avialable to anyone. 
+The following backgrounds have thematic ties to season 3, and are avialable to anyone. Per Alex, boons won't be live in the boon store until just before Gen Con, at which point they will be legal.
 
 ### Muesello’s Student (Uncommon Background)
 
