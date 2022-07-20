@@ -1,0 +1,74 @@
+Name,Tier,Repeatable,Glyph /Exclusive,Other Tags
+01-00 Origin of the Open Road,5, No,  ,Metaplot
+01-01 Absalom Initiation,1–4,Yes,  ,None
+01-02 The Mosquito Witch,1–4,No,  ,None
+01-03 Escaping the Grave,1–4,No,  ,Faction (Envoy's Alliance)
+01-04 Bandits of Immenwood,1–4,No,  ,Faction (Grand Archive)
+01-05 Trailblazers' Bounty,1–4,No,  ,Faction (Horizon Hunters)
+01-06 Lost on the Spirit Road,1–4,Yes,  ,None
+01-07 Flooded King's Court,1–4,No,  ,Faction (Vigilant Seal)
+01-08 Revolution on the Riverside,1–4,No,  ,Metaplot
+01-09 Star-Crossed Voyages,3-6,No,  ,Faction (Horizon Hunters)
+01-10 Tarnbreaker's Trail,1–4,Yes,  ,None
+01-11 Flames of Rebellion,1–4,No,  ,Metaplot
+01-12 The Burden of Envy,1–4,No,  ,Faction (Radiant Oath)
+01-13 Devil at the Crossroads,3–6 ,No,  ,Faction (Vigilant Seal)
+01-14 Lions of Katapesh,1–4,Yes,  ,None
+01-15 The Blooming Catastrophe,1–4,No,  ,Faction (Verdant Wheel)
+"01-16 The Perennial Crown Part 1, Opal of Bhopan",3–6 ,No,  ,Metaplot
+01-17 The Perennial Crown Part 2: The Thorned Monarch,3–6 ,No,  ,Metaplot
+01-18 Lodge of the Living God,1–4,No,  ,Faction (Envoy's Alliance)
+01-19 Iolite Squad Alpha,3–6 ,No,  ,None
+01-20 The Lost Legend,3–6 ,No,  ,Metaplot
+01-21 Mistress of the Maze,5–8 ,No,  ,None
+01-22 Doom of Cassomir,1–4,No,  ,None
+01-23 The Star-Crossed Court,3–6 ,Yes,  ,None
+"01-24 Lightning Strikes, Stars Fall",5–8,No,  ,None
+01-25 Grim Symphony,5–8,No,  ,Grand Archive
+02-00 The King In Thorns,1–8,No,  ,Metaplot
+02-01 Citadel of Corruption,1–4,No,  ,Metaplot
+02-02 Mountain of Sea and Sky,3–6,No,  ,Envoy's Alliance
+02-03 Catastrophe's Spark,1–4,No,  ,"Metaplot, Vigilant Seal"
+02-04 Path of Kings,3–6,No,  ,Horizon Hunters
+02-05 Balancing the Scales,1–4,No,  ,Subplot (1-07)
+02-06 The Crashing Wave,3–6,Yes,  ,None
+2-07 The Blakros Deception,5–8,No,  ,Grand Archive
+2-08 A Frosty Mug,5–8,No,  ,Horizon Hunters
+2-09 The Seven Secrets of Dacilane Academy,1–4,No,  ,None
+2-10 In Burning Dawn,5–8,No,  ,Envoy's Alliance
+2-11 The Pathfinder Trials,1,Yes,  ,None
+2-12 Snakes in the Grass,3–6,No,  ,None
+2-13 A Gilded Test,1-4,No,  ,None
+2-14 Lost in Flames,3-6,No,  ,"Grand Archive, Metaplot"
+2-15 A Dirge for Sarkoris,3-6,No,  ,None
+2-16 Freedom for Wishes,5-8,No,  ,None
+2-17 Lost Maid of Anactoria,3-6,No,  ,None
+2-18 The Fanciful March of Urwal,3-6,No,  ,"Verdant Wheel, Metaplot"
+2-19 Enter the Pallid Peak,1-4,No,  ,None
+2-20 Breaking the Storm: Bastion in Embers,5-8,No,  ,Metaplot
+2-21 In Pursuit of Water,1-4,No,  ,None
+2-22 Breaking the Storm: Excising Ruination,7-10,No,  ,"Metaplot, Vigilant Seal"
+2-23 An Agent's Obligation,3-6,No,  ,None
+2-24 Breaking the Storm: Parting Clouds,7-10,No,Glyph,Metaplot
+3-99 Fate in the Future,1-8 ,No,Exclusive,None
+Intro 1 The Second Confirmation,1-2,Yes,  ,None
+Intro 2 United in Purpose,1-2,Yes,  ,None
+3-01 Intro: Year of Shattered Sanctuaries,1-4,Yes,  ,Metaplot
+3-02 The East Hill Haunting,1-4,No,  ,Metaplot
+3-03 Echoes of Desperation,3–6,No,  ,None
+3-04 The Devil-Wrought Disappearance,3–6,No,  ,Metaplot
+3-05 Inheritor's Rite,1-4,No,  ,Metaplot
+3-06 Struck by Shadows,3–6,No,  ,Metaplot
+3-07 The Locked Lodge,3–6,No,  ,Metaplot
+3-08 Foundation's Price,1-4,No,  ,Metaplot
+3-09 The Secluded Siege,5-8,No,  ,Metaplot
+3-10 Delve the Pallid Depths,1–4,No,  ,None
+3-11 No Time for Treason,3–6,No,  ,Metaplot
+3-12 Fury's Toll,1–4,No,  ,"Metaplot, Envoy's Alliance"
+3-13 Guardian's Covenant,3–6,Yes,  ,None
+3-14 The Tomb Between Worlds,5–8,No,  ,"Metaplot, Horizon Hunters, Vigilant Seal"
+3-15 Cavern of the Sundered Song,9–12,No,Glyph,Grand Archive
+3-16 Escape from Oppara,3–6,No,  ,Metaplot
+3-17 Dreams of a Dustbound Isle,5–8,No,  ,"Metaplot, Radiant Oath, Verdant Wheel"
+3-18 Dacilane Academy's Delightful Disaster,1–4,No,  ,None
+3-19 Mean Streets of Shadow Absalom,7–10,No,  ,"Metaplot, Envoy's Alliance"
