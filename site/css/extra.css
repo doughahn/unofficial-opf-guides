@@ -51,13 +51,13 @@ blockquote {
   font-weight:  bold;
 }
   
-.md-typeset h3, 
-.md-typeset h4 {
+[data-md-color-scheme="default"] .md-typeset h3, 
+[data-md-color-scheme="default"] .md-typeset h4 {
   font-weight: 700;
   color:  black
 }
 
-.md-typeset h6 {
+[data-md-color-scheme="default"] .md-typeset h6 {
   color:  black
 }
 
@@ -163,3 +163,51 @@ th, td {
     background-color: hsla(var(--md-hue),25%,25%,1)
 }
 
+/*ssortable tables*/
+
+[dir=ltr] .md-typeset table th[role=columnheader]:after {
+    margin-left: 0em;
+}
+
+th[role=columnheader]:not(.no-sort) {
+  cursor: pointer;
+}
+
+th[role=columnheader]:not(.no-sort):after {
+  content: '';
+  white-space: pre;
+  margin-top: -3px;
+  border-width: 0 4px 4px;
+  border-style: solid;
+  border-color: #404040 transparent;
+  visibility: hidden;
+  opacity: 0;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+th[aria-sort=ascending]:not(.no-sort):after {
+  border-bottom: none;
+  border-width: 4px 4px 0;
+}
+
+th[aria-sort]:not(.no-sort):after {
+  visibility: visible;
+  opacity: 0.4;
+}
+
+th[role=columnheader]:not(.no-sort):hover:after {
+  visibility: visible;
+  opacity: 1;
+}
+
+.md-typeset table th[role=columnheader]:after {
+  display: block;
+  margin-top: .15rem;
+}
+
+th {
+  background-color: rgba(68,138,255,.1);
+}

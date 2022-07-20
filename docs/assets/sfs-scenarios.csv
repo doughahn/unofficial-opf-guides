@@ -1,0 +1,116 @@
+Name,Tier,Repeatable,Nova /Exclusive,Other Tags
+Quest 1 Into the Unknown,1,Yes, ,"Quest,, Starship"
+1-00 Claim to Salvation,4, , ,Starship
+1-01 The Commencement,1-2,Yes, , 
+1-02 Fugitive on the Red Planet,1-4, , ,None
+1-03 Yesteryear's Truth,1-4, , ,"Faction (Wayfinders), Starship"
+1-04 Cries from the Drift,1-4, , ,"Faction (Exo-Guardians), Starship"
+1-05 The First Mandate,1-4, , ,"Faction (Acquisitives), Faction (Second Seekers [Luwazi Elsebo])"
+1-06 A Night in Nightarch,3-6, , ,None
+1-07 The Solar Sortie,1-4, , ,"Faction (Dataphiles), Starship"
+1-08 Sanctuary of Drowned Delight,3-6, , ,Faction (Wayfinders)
+1-09 Live Exploration Extreme!,1-4, , , 
+1-10 The Half-Alive Streets,1-4, , ,None
+1-11 In Pursuit of the Scoured Past,3-6, , ,Faction (Second Seekers [Luwazi Elsebo])
+1-12 Ashes of Discovery,1-4,Yes, ,Starship
+1-13 On the Trail of History,3-6, , ,"Faction (Second Seekers [Luwazi Elsebo]), Starship"
+1-14 Star Sugar Heartlove!!!,3-6, , ,"Faction (Dataphiles), Faction (Exo-Guardians)"
+1-15 Save the Renkrodas,3-6, , ,"Faction (Acquisitives), Vehicle"
+1-16 Dreaming of the Future,1-4,Yes, ,"Quest, Starship"
+1-17 Reclaiming the Time-Lost Tear,5-8, , ,Faction (Second Seekers [Luwazi Elsebo])
+1-18 The Blackmoon Survey,1-4, , , 
+1-19 To Conquer the Dragon,5-8, , ,Starship
+1-20 Duskmire Accord 9,1-4, , ,None
+1-21 Yesteryear's Sorrow,3-6, , ,Faction (Exo-Guardians)
+1-22 The Protectorate Petition,1-4, , , 
+1-23 Return to Sender,5-8, , ,"Faction (Acquisitives), Faction (Dataphiles)"
+1-24 Siege of Enlightenment,1-4, , ,Starship
+1-25 The Beacon Code Dilemma,3-6,Yes, , 
+1-26 Truth of the Seeker,3-6, , ,Faction (Second Seekers [Jadnura])
+1-27 King Xeros of Star Azlant,5-8, , ,Starship
+1-28 It Rests Beneath,1-4, , ,"Faction (Wayfinders), Vehicle"
+1-29 Honorbound Emissaries,7-10, , ,Faction (Second Seekers [Luwazi Elsebo])
+1-30 Survivor's Salvation,1-4, , ,Faction (Exo-Guardians)
+1-31 Treading History's Folly,3-6, , ,Faction (Second Seekers [Jadnura])
+1-32 Acts of Association,1-4,Yes, , 
+1-33 Data Breach,3-6, , ,Faction (Dataphiles)
+1-34 Heart of the Foe,3-6, , ,"Faction (Second Seekers [Jadnura]), Faction (Second Seekers [Luwazi Elsebo])"
+1-35 Rasheen's Riches,5-8, , ,"Faction (Acquisitives), Starship"
+1-36 Enter the Ashen Asteroid,1-4, , , 
+1-37 Siege of Civility,5-8, , ,Faction (Wayfinders)
+1-38 The Many Minds of Historia,5-8, , ,"Faction (Dataphiles), Faction (Exo-Guardians)"
+1-39 The Herald's War,7-10, , ,"Faction (Second Seekers [Jadnura]), Faction (Second Seekers [Luwazi Elsebo]), Starship"
+1-99 The Scoured Stars Invasion,1-8, ,Exclusive,"Faction (Second Seekers [Luwazi Elsebo]), Starship"
+02-00 Fate of the Scoured God,1-12,Yes (Subtiers),Exclusive,"Faction (Second Seekers [Jadnura]), Faction (Second Seekers [Luwazi Elsebo]), Starship"
+02-01 Pact World Warriors,1-4, , ,Faction (Acquisitives)
+02-02 Waking the Past,3-6, , , 
+02-03 The Withering World,1-4,Yes, ,"Quest, Starship"
+02-04 Future's Fall,7-10, , , 
+02-05 Meeting of Queens,1-4, , ,Starship
+"02-06 The Stumbling Society, Part 1: Sangoro's Lament",5-8, , ,Faction (Exo-Guardians)
+02-07 Four for the First,1-4,Yes, ,"Faction (Second Seekers [Luwazi Elsebo]),"
+"02-08 The Stumbling Society, Part 2: Sangoro's Gifts",5-8, , ,Faction (Wayfinders)
+02-09 Bluerise Breakout,1-4, , , 
+02-10 Corporate Interests,3-6,Yes, ,"Quest, Starship"
+02-11 Descent into Verdant Shadow,3-6, , ,None
+02-12 Colossus Heist,7-10, , ,"Faction (Acquisitives), Vehicle"
+02-13 Storm of the End Times,1-4, , ,Vehicle
+02-14 Data Purge,9-12, , ,"Faction (Dataphiles), Faction (Second Seekers [Luwazi Elsebo])"
+02-15 The Infernal Gallery,1-4, , ,Starship
+02-16 A Scoured Home,5-8, , ,"Faction (Second Seekers [Jadnura]), Faction (Wayfinders)"
+02-17 Cost of Living,3-6, , , 
+02-18 Forbidden Tides,7-10, , ,Faction (Exo-Guardians)
+02-19 Truth Keepers,3-6,Yes, , 
+02-20 Shades of Spite,7-10, , ,Faction (Second Seekers [Luwazi Elsebo])
+02-21 Illegal Shipment,1-4, , ,"Faction (Exo-Guardians), Faction (Wayfinders)"
+02-22 Rasheen's Reception,5-8, , ,"Faction (Acquisitives), Faction (Dataphiles)"
+02-23 The Edge of Cadascon,3-6, , , 
+02-24 Cornered Rat,9-12, , ,"Faction (Second Seekers [Luwazi Elsebo]), Starship"
+03-00 The Last Bite,1-8, , ,"Faction (Second Seekers [Luwazi Elsebo]), Starship"
+03-01 Crash Down,1-4, , ,Survival
+03-02 The Subterranean Safari,3-6, , ,Faction (Acquisitives)
+01-98 Into the Perplexity: The First Trial,3-6, ,Exclusive, 
+03-03 Frozen Ambitions: The Shimmerstone Gateway,1-4, , ,Faction (Second Seekers [Ehu Hadif])
+03-04 The Vast Experiment: Falling into Deliverance,5-8, , ,"Faction (Dataphiles), Faction (Wayfinders)"
+03-05 The Hivemarket Heist,1-4, , ,Starship
+03-06 Rise of the Vault Lord,7-10, , , 
+03-07 Strike at Zone 78,3-6, , ,"Faction (Exo-Guardians), Vehicle"
+03-08 Fleeting Truth: The Darkside Depository,9-12, , , 
+03-09 Frozen Ambitions: Freeing the Herd,1-4, , , 
+03-10 Live Adventure Extreme!,5-8,Yes, ,Starship
+03-11 Into the Veskarium,3-6,Yes, ,Starship
+03-12 The Vast Experiment: First Flight,5-8, , ,Starship
+03-13 Silence at Outpost 634,1-4, , , 
+03-14 Fleeting Truth: Hollow Lies,9-12, , , 
+03-15 Frozen Ambitions: The Preluria Connection,1-4, , ,"Faction (Second Seekers [Ehu Hadif]), Vehicle"
+03-16 The Vast Experiment: Fast Choices,5-8, , ,Starship
+03-17 Clone Batch Catastrophe,1-4, , ,None
+03-18 Secrets in Stillness,3-6, , ,Faction (Acquisitives)
+03-19 Rat's Repentance,1-4,Yes, ,"Quest, Vehicle"
+03-20 Fleeting Truth: Everchanging Revelation,11-14, ,Nova, 
+03-21 Frozen Ambitions: Renewal's Blight,3-6, , ,Faction (Second Seekers [Ehu Hadif])
+03-22 The Vast Experiment: Dancing at the Edge,7-10, , ,"Faction (Exo-Guardians, Wayfinders), Starship"
+Intro 1 The First Test,1-2,Yes, , 
+Intro 2 For the Factions,1-2,Yes, ,Starship
+04-01 Starfinder Society Intro: Year of the Data Scourge,1-4,Yes, ,Metaplot (Data Scourge)
+04-02 Settling Accounts,1-4, , ,"Faction (Acquisitives), Starship"
+04-03 Battle for the Beacon,5-8, , ,"Starship, Metaplot (Data Scourge)"
+04-04 Mission Not Found,3-6, , ,"Faction (Dataphiles), Metaplot (Data Scourge)"
+04-05 A Waltz Through Myriad Worlds,1-4,Yes, ,"Quest, Starship"
+03-99 Perils of the Past,1-8, ,Nova, 
+04-06 Combatant's Concerto: Prelude to Revolution,3-6, , , 
+04-07 A Haven for Scourged Machines,7-10, , ,"Metaplot (Data Scourge), Faction (Second Seekers [Ehu Hadif])"
+04-08 Precious Cargo,1-4, ,, 
+04-09 Through Sea and Storm,9-12, ,Nova,"Second Seekers (Ehu Hadif), Starship"
+04-10 The Way In,5-8, , ,"Metaplot (Data Scourge), Faction (Exo-Guardians), Starship"
+4-11 A World's Ambition,7-10, , ,Metaplot (Data Scourge)
+4-12 A Festive Operation,3-6,Yes, , 
+4-13 Hard Reset,1-4, , ,Metaplot (Data Scourge)
+4-14 Rasheen's Remembrance,7-10, , ,"Faction (Acquisitives), Faction (Second Seekers [Ehu Hadif])"
+4-15 Feuding Faiths,5-8, , ,"Faction (Acquisitives), Faction (Dataphiles), Metaplot (Year of the Data Scourge"
+4-16 Hope for the Future,5-8, , ,"Metaplot (Data Scourge), Faction (Acquisitives), Faction (Dataphiles), Faction (Exo-Guardians), Faction (Second Seekers [Ehu Hadif]), Faction (Wayfinders)"
+5-01 Intro: Year of Redemption's Rise,1-4,Yes, ,"Metaplot (Redemption's Rise), Faction (Advocates), Faction (Cognates), Faction (Manifold Host)"
+5-02 Road to Reconciliation,3-6, , ,"Faction (Dataphiles), Faction (Wayfinders)"
+5-03 Combatant's Concerto: Fugue of the Traitor,7-10, , ,"Faction (Exo-Guardians), Mech"
+5-04 Fragment of the 4th,9-12, ,Nova,"Drift Crisis, Faction (Wayfinders), Starship"
+5-05 Boom-Block Gambit,5-8, , ,"Faction (Exo-Guardians, Second Seekers [Ehu Hadif]), Metaplot (Year of Redemption's Rise)"
