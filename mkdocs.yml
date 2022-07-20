@@ -6,6 +6,7 @@ nav:
       - 2E Errata: organized-play/2e-FAQ.md
       - PFS FaQ: organized-play/pfs-faq.md
       - PFS Boons: organized-play/2e-boons.md
+      - 2E Scenarios: organized-play/2e-scenarios.md
     - Using Warhorn:
       - For Players: warhorn/warhorn.md
       - For Organizers: warhorn/warhorn-for-organizers.md
@@ -66,6 +67,8 @@ extra_css:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/featherlight/1.7.13/featherlight.min.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - js/tablesort.js
 markdown_extensions:
   - attr_list
   - admonition
