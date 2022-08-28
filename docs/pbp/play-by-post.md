@@ -110,7 +110,7 @@ When you edit your character's profile, you have many other options to fill in. 
 In the About section, you can provide a description of your PC, as well as their character sheet information. There are several templates out there to fill in if you like, or if you are using a service like Hero Lab it can output a stat block for you. Here is how I format my stat blocks; as above, you can copy and paste to use as a starting point. One particular feature of this template is that is uses Paizo forum syntax to create macros for many of the character's abilities, while still being readable. 
 
 <details>
-  <summary>Character Profile Template</summary>
+  <summary>Character Profile Template: Click to Expand</summary>
 ``` py 
 [b]Ancestry[/b] YOUR_ANCESTRY
 [b]Background[/b] YOUR_BACKGROUND

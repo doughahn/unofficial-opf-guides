@@ -30,7 +30,9 @@ Each ancestry is listed, along with the AcP Cost:
 - [Shisk](https://2e.aonprd.com/Ancestries.aspx?ID=47): 160 AcP
 - [Poppet](https://2e.aonprd.com/Ancestries.aspx?ID=49): 160 AcP
 - [Automaton](https://2e.aonprd.com/Ancestries.aspx?ID=48): 160 AcP
+- [Reflection Heritage](https://2e.aonprd.com/Ancestries.aspx?ID=51): 160 AcP
 - Pine Leshy: 40 (AP Credit) or 80 AcP
+
 
 ----
 ## Heritage Boons
@@ -122,6 +124,17 @@ The spells available are:
 - [sign of conviction](https://2e.aonprd.com/Spells.aspx?ID=1125)
 - [synchronize steps](https://2e.aonprd.com/Spells.aspx?ID=1126)
 - [wall of virtue](https://2e.aonprd.com/Spells.aspx?ID=1127)
+
+**Cost** 20 AcP
+
+### Dark Archive
+
+- [false nature](https://2e.aonprd.com/Spells.aspx?ID=1148)
+- [manifold lives](https://2e.aonprd.com/Spells.aspx?ID=1197)
+- [rally point](https://2e.aonprd.com/Spells.aspx?ID=1161)
+- [temporal distortion](https://2e.aonprd.com/Spells.aspx?ID=1195)
+- [temporal twin](https://2e.aonprd.com/Spells.aspx?ID=1191)
+- [time skip](https://2e.aonprd.com/Spells.aspx?ID=1196)
 
 **Cost** 20 AcP
 
@@ -354,7 +367,7 @@ Each of these boons can be purchased separately and give you access to:
 
 Choose from: 
 
-- [air repeater]()https://2e.aonprd.com/Weapons.aspx?ID=188
+- [air repeater](https://2e.aonprd.com/Weapons.aspx?ID=188)
 - [coat pistol](https://2e.aonprd.com/Weapons.aspx?ID=189)
 - [fire lance](https://2e.aonprd.com/Weapons.aspx?ID=190)
 - [flintlock musket](https://2e.aonprd.com/Weapons.aspx?ID=191)
@@ -451,6 +464,15 @@ Choose from:
 - [underwater firing mechanism](https://2e.aonprd.com/Equipment.aspx?ID=1224)
  
 **Cost** 20
+
+### Dark Archive
+Select an uncommon item from a curated list of Pathfinder Dark Archive options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase.
+
+- [hoax-hunter’s kit](https://2e.aonprd.com/Equipment.aspx?ID=1616)
+- [dog-bone knife](https://2e.aonprd.com/Equipment.aspx?ID=1637)
+- [conrasu coin](https://2e.aonprd.com/Equipment.aspx?ID=1639)
+
+**Cost** 20 AcP
 
 ## Frequent Shopper Boons 
 
@@ -699,59 +721,25 @@ Grants one of following feat acess:
 - [Necromancer’s Visage](https://2e.aonprd.com/Feats.aspx?ID=3484)
 - [Sepulchral Sublimation](https://2e.aonprd.com/Feats.aspx?ID=3485)
 
-<!-- ## AP-Specific Boons
+### Dark Archive
 
-### Agents of Edgewatch
+#### Unseen Companion
 
-#### Amateur Collector
+Gain access to [unseen companions](https://2e.aonprd.com/AnimalCompanions.aspx?ID=5&Advanced=true) from Pathfinder Dark Archive for this character.
 
-Purchasing this boon grants your character access to all of the following: 
+**Cost**: 40
 
-- Monkey's fist
-- Harrow carrying case
-- Harrow deck
-- Harrow mat
- 
+#### Alter Ego
 
-#### Avid Collector
+Gain access to the [Alter Ego archetype](https://2e.aonprd.com/Archetypes.aspx?ID=187) from Pathfinder Dark Archive for this character.
 
-- recording rod
-- aurifying salts
-- corpseward pendant
-- deafening music box
-- floorbell
-- swarmeater's clasp
-- vaultbreaker's harness
-- daylight vapor
-- death knell powder
-- fearweed
-- liar's demise
-- lifeblight residue
-- repulsion resin
-- sight-theft grit
-- spectral nightshade
-- spell-eating pitch
-- poisoner's staff
-- whisper briolette
-- garotte bolt
-- clockwork cloak
- 
-#### Esoteric Spellcaster
+**Cost**: 40
 
-Purchasing this boon grants your character access to: the admonishing ray spell as well as one of the following spells
+#### Time Mage
 
-- magical fetters
-- putrefy food and drink
-- imp sting
-- leng sting
-- linnorm sting
-- swarming wasp stings
-- wyvern sting
+Gain access to the [Time Mage](https://2e.aonprd.com/Archetypes.aspx?ID=191) archetype from Pathfinder Dark Archive for this character.
 
-#### Mother of Nagas 
-
-**Mother of Nagas** (Slotless): You seek to topple the treacherous and restore the Mother of Nagas to her rightful role. This character gains access to Ravithra as a deity option and the naga domain. Ownership of the relevant volumes of the Agents of Edgewatch Adventure Path is not necessary to use these options; the relevant rules can be found on paizo.com/prd.
- -->
+**Cost**: 40
 
 ----
 ## General Boons
