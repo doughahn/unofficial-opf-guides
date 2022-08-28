@@ -7,4 +7,7 @@ Below is a sortable table of published Starfinder scenarios. Hover over a column
 
 {{ read_csv('sfs-scenarios.csv') }}
 
-Note that Exclusives and Gylyphs are used interchangeably by Paizo. The author's understanding is that Nova-tagged, non-special (non-exclsuive) can be repeated up to 3 times to count for the 10 specials. Specials (regardless of how they're tagged) count an unlimited number of times.
+For maps used in SFS Scenarios, see [Flip Mats & Map Packs in PFS & SFS - Cont. by William Cheung (originally compiled by Michael Eshleman)
+](https://docs.google.com/spreadsheets/d/1_GgzDrV6lOSKTqBxhd1HBdutR_l_nU_EH4pnZeHadjE/edit#gid=1909018264)
+
+Note that Exclusives and Glyphs are used interchangeably by Paizo. The author's understanding is that Nova-tagged, non-special (non-exclusive) can be repeated up to 3 times to count for the 10 specials. Specials (regardless of how they're tagged) count an unlimited number of times.
