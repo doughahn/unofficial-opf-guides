@@ -79,7 +79,11 @@ Play by post typically uses your Paizo character's profile for their character s
 
 You should now be on a page that contains a bunch of text fields that you can fill out. 
 
-First, enter the character's full name in the `Full name` field. 
+First, enter the character's full name in the `Full name` field.
+
+### For Starfinder Characters
+See the [Starfinder PBP templates](./starfinder-pbp-template.md) for specifics for Starfinder characters. 
+Below is primarily for PF2 characters
 
 ### Adding the Slashline
 ----
