@@ -12,17 +12,17 @@ Name,Tier,Repeatable,Glyph /Exclusive,Other Tags
 01-10 Tarnbreaker's Trail,1–4,Yes,  ,None
 01-11 Flames of Rebellion,1–4,No,  ,Metaplot
 01-12 The Burden of Envy,1–4,No,  ,Faction (Radiant Oath)
-01-13 Devil at the Crossroads,3–6 ,No,  ,Faction (Vigilant Seal)
+01-13 Devil at the Crossroads,3–6,No,  ,Faction (Vigilant Seal)
 01-14 Lions of Katapesh,1–4,Yes,  ,None
 01-15 The Blooming Catastrophe,1–4,No,  ,Faction (Verdant Wheel)
-"01-16 The Perennial Crown Part 1, Opal of Bhopan",3–6 ,No,  ,Metaplot
-01-17 The Perennial Crown Part 2: The Thorned Monarch,3–6 ,No,  ,Metaplot
+"01-16 The Perennial Crown Part 1, Opal of Bhopan",3–6,No,  ,Metaplot
+01-17 The Perennial Crown Part 2: The Thorned Monarch,3–6,No,  ,Metaplot
 01-18 Lodge of the Living God,1–4,No,  ,Faction (Envoy's Alliance)
-01-19 Iolite Squad Alpha,3–6 ,No,  ,None
-01-20 The Lost Legend,3–6 ,No,  ,Metaplot
-01-21 Mistress of the Maze,5–8 ,No,  ,None
+01-19 Iolite Squad Alpha,3–6,No,  ,None
+01-20 The Lost Legend,3–6,No,  ,Metaplot
+01-21 Mistress of the Maze,5–8,No,  ,None
 01-22 Doom of Cassomir,1–4,No,  ,None
-01-23 The Star-Crossed Court,3–6 ,Yes,  ,None
+01-23 The Star-Crossed Court,3–6,Yes,  ,None
 "01-24 Lightning Strikes, Stars Fall",5–8,No,  ,None
 01-25 Grim Symphony,5–8,No,  ,Grand Archive
 02-00 The King In Thorns,1–8,No,  ,Metaplot
@@ -50,7 +50,7 @@ Name,Tier,Repeatable,Glyph /Exclusive,Other Tags
 2-22 Breaking the Storm: Excising Ruination,7-10,No,  ,"Metaplot, Vigilant Seal"
 2-23 An Agent's Obligation,3-6,No,  ,None
 2-24 Breaking the Storm: Parting Clouds,7-10,No,Glyph,Metaplot
-3-99 Fate in the Future,1-8 ,No,Exclusive,None
+3-99 Fate in the Future,1-8,No,Exclusive,None
 Intro 1 The Second Confirmation,1-2,Yes,  ,None
 Intro 2 United in Purpose,1-2,Yes,  ,None
 3-01 Intro: Year of Shattered Sanctuaries,1-4,Yes,  ,Metaplot
@@ -72,3 +72,6 @@ Intro 2 United in Purpose,1-2,Yes,  ,None
 3-17 Dreams of a Dustbound Isle,5–8,No,  ,"Metaplot, Radiant Oath, Verdant Wheel"
 3-18 Dacilane Academy's Delightful Disaster,1–4,No,  ,None
 3-19 Mean Streets of Shadow Absalom,7–10,No,  ,"Metaplot, Envoy's Alliance"
+4-01 Intro: Year of Boundless Wonder,1-4,Yes, ,"Metaplot (Boundless Wonder), Repeatable"
+4-02 Return to the Grave,1-4,No, ,"Horizon Hunters, Radiant Oath"
+4-03 Linnorn’s Legacy,5-8,No, ,"Grand Archive, Verdant Wheel"
