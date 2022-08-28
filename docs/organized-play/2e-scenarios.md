@@ -6,4 +6,7 @@ Below is a sortable table of published 2e scenarios. Hover over a column heading
 
 {{ read_csv('2e-scenarios.csv') }}
 
-Note that Exclusives and Gylyphs are used interchangeably by Paizo. The author's understanding is that Glyph-tagged, non-special (non-exclsuive) can be repeated up to 3 times to count for the 10 specials. Specials (regardless of how they're tagged) count an unlimited number of times.
+For maps used in 2E Scenarios, see [Flip Mats & Map Packs in PFS & SFS - Cont. by William Cheung (originally compiled by Michael Eshleman)
+](https://docs.google.com/spreadsheets/d/1_GgzDrV6lOSKTqBxhd1HBdutR_l_nU_EH4pnZeHadjE/edit#gid=300247499)
+
+Note that Exclusives and Glyphs are used interchangeably by Paizo. The author's understanding is that Glyph-tagged, non-special (non-exclusive) can be repeated up to 3 times to count for the 10 specials. Specials (regardless of how they're tagged) count an unlimited number of times.
