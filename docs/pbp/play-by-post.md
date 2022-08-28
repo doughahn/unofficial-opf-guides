@@ -79,14 +79,11 @@ Play by post typically uses your Paizo character's profile for their character s
 
 You should now be on a page that contains a bunch of text fields that you can fill out. 
 
-Enter the character's full name in the `Full name` field.
+First, enter the character's full name in the `Full name` field. 
 
-### Adding the Slashline 
+### Adding the Slashline
 ----
-
 Next, you want to start filling out your character's slashline. The slashline contains important at-a-glance information that your fellow players and GM will find useful, such as hitpoints, armor, status, and spells. Since the Paizo boards don't have an official slashline, players use the `Race` and `Class/Levels` text areas to input this data. With limited character space, it is often written in shorthand (e.g. "AC" for "Armor Class," "HP" for "Hit Points," etc). If you aren't sure, feel free to ask!
-
-Here are copy-paste-able templates for Pathfinder Second Edition, just replace the relevant areas:
 
 #### Pathfinder 2E Slashlines
 
@@ -112,23 +109,23 @@ GENDER CLASS LEVEL |  [b]Perc[/b] +X (SENSES) | Speed: X' | [b]HP:[/b] X/Y | [b]
 [ooc]CG Ysoki Cyberborn Gadgeteer Operative 2[/ooc]
 ```
 
-#### The Final Result
+----
 
-When you are done, your profile should have a lot of information where in the `Full Name` and `Race` fields — it probably looks like a mess, but don't worry. When you actually post it will be formatted nicely:
+When you are done, your profile should have all that information where it says "Full Name" and "Race" — it probably looks like a mess, but don't worry. When you actually post it will be formatted better. 
 
 <figure markdown>
 ![A basic slashline as it appears in a PbP game](https://gmdoug.sfo3.digitaloceanspaces.com/pbp-slashlineFormatted.jpg){ loading=lazy }
 <figcaption>A basic slashline as it appears in a PbP game.</figcaption>
 </figure>
 
-### Adding the Character's Profile Stats
+### Adding the Character's Stats
 ----
 
-When you edit your character's profile, you have many other fields to fill in. This is all optional, but most GMs want you to provide a character sheet they can read. 
+When you edit your character's profile, you have many other options to fill in. This is all optional, but most GMs want you to provide a character sheet they can read. 
 
 In the About section, you can provide a description of your PC, as well as their character sheet information. There are several templates out there to fill in if you like, or if you are using a service like Hero Lab it can output a stat block for you. Here is how I format my stat blocks; as above, you can copy and paste to use as a starting point. One particular feature of this template is that is uses Paizo forum syntax to create macros for many of the character's abilities, while still being readable. 
 
-#### Pathfinder 2E Profile Templates
+#### Pathfinder 2e Profile Template
 
 <details>
   <summary>2E Profile Template: Click to Expand</summary>
@@ -272,9 +269,8 @@ Here is [an example](https://paizo.com/people/DrTalos7ei5g) of how a page using 
 #### Starfinder Profile Template
 
 <details>
-  <summary>Starfinder Character Profile Template: Click to Expand</summary>
-
-``` py
+  <summary>Starfinder Profile Template: Click to Expand</summary>
+``` 
 [b][bigger]CHARACTER_NAME[/bigger][/b]
 [b]Race:[/b] YOUR_RACE
 [b]Background:[/b] YOUR_BACKGROUND
@@ -353,7 +349,6 @@ ____________________
 [b]2.[/b] DO_THING_SECOND
 [b]3.[/b] ELSE_DO_THING
 ```
-
 </details>
 
 ## Forum Syntax

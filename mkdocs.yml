@@ -6,6 +6,7 @@ nav:
       - 2E Errata: organized-play/2e-FAQ.md
       - PFS FaQ: organized-play/pfs-faq.md
       - PFS Boons: organized-play/2e-boons.md
+      - PFS Resources & Options: organized-play/resources-options.md
       - 2E Scenarios: organized-play/2e-scenarios.md
       - Starfinder Scenarios: organized-play/starfinder-scenarios.md
     - Using Warhorn:
@@ -22,6 +23,8 @@ nav:
       - Advanced macros: roll20/advanced-macros.md
     - Foundry:
       - Basics: foundry/foundry-basics.md
+    - Paizo Website:
+      - Payment Methods: paizo/payment-methods.md
     - More Guides: other-guides/other-guides.md
     # - Foundry: foundry.md
     # - Slides: slides.md 

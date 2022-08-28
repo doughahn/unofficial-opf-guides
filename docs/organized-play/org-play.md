@@ -184,29 +184,3 @@ Like Achievement Points, there are other kinds of rewards that are earned from p
 
     All Pathfinder 2e PCs get a free [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470) once they play their second game. It's a great chance to try out the Boon System for yourself! 
 
-## Creating an Event
-
-###### Author: Richard Lowe
-
-Here is a guide on how to create an event. Anyone can run and report an organized play game! 
-
-<figure markdown>
-![Creating an organized play event](https://i.imgur.com/kZd8OnW.jpeg){ loading=lazy }
-<figcaption>Creating an organized play event</figcaption>
-</figure>
-
-**Creating an Event**
-
-1. Go to [paizo.com](https://paizo.com) and log into your account
-1. Click `My Account`
-1. Select `Organized play`
-1. Select `GM/Event Coordinator` on the tab
-1. Scroll down until you see `Create new Event`
-1. Click `Create your event`
-1. Fill in whatever details you want on the next page 
-
-**Reporting an Event**
-
-1. Return to the `GM/Event Coordinator` tab
-1. Select the event under the `Events I'm Organizing` heading
-1. Click `Report` and it will open a screen for you to fill in the event's info
