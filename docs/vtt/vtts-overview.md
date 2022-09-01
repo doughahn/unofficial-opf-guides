@@ -90,7 +90,7 @@ Foundry is a great fit for a group of people who are versed in tech and have dec
     - Rich plugin ecosystem
     - Walls/lighting are super fast and intuitive to set up
     - More intuitive UX than most other VTTs
-    - Free content for PDF owners: all rulebooks and APs/Modules ready-to-run
+    - Paizo published character options and statblocks are included in systems for free
     - Players who want complex macros and dice syntax
     - Constant updates from an active developer community
 
@@ -98,9 +98,9 @@ It can be challenging for users intimidated by technology or on a limited setup.
 
 !!! failure "Cons"
     - Requires a fast computer with a large screen; the system requirements are more aligned with a computer game than a VTT 
-    - Only works on Chrome, Firefox, Opera, or Edge with hardware acceleration enabled
+    - Requires use of browser that supports WebGL 2.0. Notably iPad or iPhone IOS versions earlier than 14.5 do not support this.
     - Technical / DevOps skills are required for setup and maintenance, or a monthly subscription with variable rates that can get expensive
-    - Accessibility is lacking for screen readers and colorblind players
+    - Accessibility is lacking for screen readers
     - Lack of native portability for PCs makes running games in Organized Play difficult
     - Constant updates mean the GM needs to keep their server and plugins maintained and can sometimes cause issues
 
