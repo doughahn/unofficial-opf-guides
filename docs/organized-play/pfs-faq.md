@@ -167,7 +167,7 @@ Not, it does not. The boon allows you to transfer access to character options. T
 
 The following is posted from the VO Discord with permission from Alex. It will likely be integrated in the official documentation soon. 
 
-- Skeletons do not use the undead creature traits, instead using the [Basic Undead Benefits]( (Book of the Dead 44)) (Book of the Dead 44)
+- Skeletons do not use the undead creature traits, instead using the [Basic Undead Benefits](https://2e.aonprd.com/Rules.aspx?ID=1694) (Book of the Dead 44)) (Book of the Dead 44)
 - Skeletons do not breathe
 - Skeletons cannot be targeted by PC-casted resurrect rituals or similar, but Paizo will add text to the Second Chance boon that lets them use a resurrect ritual
-- The Pathfinder Society tries to support its new undead and undead-adjacent recruits with suitable healing. Any time a Pathfinder Society NPC or allied NPC provides a healing potion or heal spell (as a casting, wand, scroll, effect of a boon including promotional boon, or other similar effect), a PC who relies on negative healing may receive an oil of unlife (Advanced Player's Guide 258) or harm spell (Core Rulebook 343) of an equal level instead.  The player must make this request at the time the healing is supplied.  Requesting an oil of unlife in this fashion does not require the player to own the Advanced Player's Guide, but they must provide the rules either from that book or from the Pathfinder source reference document (paizo.com/prd). Treasure found during the adventure  and gifts from NPCs not affiliated with the Society must be used as written. This will be included in the Guide soon. 
+- [Undead PCs can access Harm and Oil of Unlife per the official Guide.](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide#Negative_Healing) 
