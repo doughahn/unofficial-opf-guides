@@ -167,7 +167,7 @@ Not, it does not. The boon allows you to transfer access to character options. T
 
 The following is posted from the VO Discord with permission from Alex. It will likely be integrated in the official documentation soon. 
 
-- Skeletons do not use the undead creature traits, instead using the [Basic Undead Benefits](https://2e.aonprd.com/Rules.aspx?ID=1694) (Book of the Dead 44)) (Book of the Dead 44)
+- Skeletons do not use the undead creature traits, instead using the [Basic Undead Benefits](https://2e.aonprd.com/Rules.aspx?ID=1694) (Book of the Dead 44)
 - Skeletons do not breathe
 - Skeletons cannot be targeted by PC-casted resurrect rituals or similar, but Paizo will add text to the Second Chance boon that lets them use a resurrect ritual
-- [Undead PCs can access Harm and Oil of Unlife per the official Guide.](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide#Negative_Healing) 
+- Undead PCs can purchase Oil of Unlife without owning the APG, and [can receive Oils of Unlife and Harm spells in place of Potions of Healing and Heal spells form the society](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide#Negative_Healing) 

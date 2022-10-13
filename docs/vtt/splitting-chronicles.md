@@ -24,7 +24,7 @@ Whatever software you prefer the general method is the same: you extract a singl
 ### Create the Base Chronicle
 ----
 1. Locate the typewriter or text annotation tool 
-    - On Preview, this is un `Tools` => `Annotate` => `Text`
+    - On Preview, this is under `Tools` => `Annotate` => `Text`
     - On Foxit there is a `Typewriter` button on the top toolbar
 1. Fill in the information that will go on all chronicles. 
     - Event Name
