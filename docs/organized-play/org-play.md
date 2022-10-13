@@ -70,7 +70,7 @@ There are two paths to joining organized play: Getting a number by attending a g
 
 <figure markdown>
 ![The New Player Organized Play Card](https://gmdoug.sfo3.digitaloceanspaces.com/paizo-orgCard.jpg){ loading=lazy }
-<figcaption>A New Player Organized Play Card given to a player; note the Organized Play ID and Confirmtaion Code.</figcaption>
+<figcaption>A New Player Organized Play Card given to a player; note the Organized Play ID and Confirmation Code.</figcaption>
 </figure>
 
 To activate your ID, or get a new one, follow these steps: 
@@ -81,15 +81,15 @@ To activate your ID, or get a new one, follow these steps:
 1. Click on `Join Organized play`
 
 <figure markdown>
-![Where to locate the join organized play button](https://gmdoug.sfo3.digitaloceanspaces.com/warhorn-timeZone2.jpg){ loading=lazy }
+![Where to locate the join organized play button](https://gmdoug.sfo3.digitaloceanspaces.com/paizi-registerOrgPlay.jpg){ loading=lazy }
 <figcaption>Account Settings with the `Join Organized Play` button circled.</figcaption>
 </figure>
 
-Next, you are taken to a window with two options. The leftmost option is for the users who received a Organized Play number already (such as at a convention). If you received such a card, fill out this form. The rightmost option is for those who do not have a registration number.
+Next, you are taken to a window with two options. The leftmost option is for the users who received an Organized Play number already (such as at a convention). If you received such a card, fill out this form. The rightmost option is for those who do not have a registration number.
 
 <figure markdown>
 ![Getting an org play number](https://gmdoug.sfo3.digitaloceanspaces.com/orgPlayRegisterStep2.jpg){ loading=lazy }
-<figcaption>If you have an Organized Play number and a PIN, you need to use the leftmost button. If you don't have one, use the rightmost button.</figcaption>
+<figcaption>If you have an Organized Play number and confirmation code, you need to use the leftmost button. If you don't have one, use the rightmost button.</figcaption>
 </figure>
 
 
@@ -107,7 +107,7 @@ Your ID consists of two parts: your Organized Play Number, and a number determin
 1. Log in at [https://paizo.com/organizedPlay/myAccount](https://paizo.com/organizedPlay/myAccount) (or create an account)
 1. Click on `Create a Character`
 1. Scroll to the bottom of the page and click `Register a New [Game System] Character`
-1. Enter the character's name. You may need to add a number after it so it's unique — that's ok, this is just part of the character's unique record for accounting purposes on the Paizo website, it doesn;t have to be the character's official name in games
+1. Enter the character's name. You may need to add a number after it so it's unique — that's ok, this is just part of the character's unique record for accounting purposes on the Paizo website, it doesn't have to be the character's official name in games
 1. Select a faction (optional)
 1. Ignore the rest, no one uses it
 1. Click `Submit Changes`
@@ -118,15 +118,15 @@ The core tracking mechanisms of Organized play are twofold: games reported to th
 
 ### What are Chronicles & Boons?
 ---
-A `Chronicle` is a catch-all term for an official record in organized Play. it is like a receipt that tracks your earned XP, gold, and even access to certain special character options. 
+A `Chronicle` is a catch-all term for an official record in organized Play. It a receipt that tracks your earned XP, gold, and even access to certain special character options. 
 
-A `Boon` is a receipt that grants a rward of some kind to the player or PC. 
+A `Boon` is a receipt that grants a reward of some kind to the player or PC. 
 
 *Chronicle vs Boon*: You may hear the terms used interchangeably. Generally, this isn't a big deal. 
 
 You can see how the post adventure chronicle is laid out [at the official Guide](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide#Filling_Out_a_Chronicle).
 
-No matter how you store your paperwork, you should kleep good records in a format you can show to other players. [Here is an example of a character's digital records.](https://drive.google.com/drive/folders/1SJCwmegf0it28Dk53L-MXRZxtNmo1Go2?usp=sharing) Note that the character has several kinds of boons, and uses a spreadsheet to track his inventory. The player could bring this character to any game, and show this paperwork to a GM who wished to audit the character. 
+No matter how you store your paperwork, you should keep good records in a format you can show to other players. [Here is an example of a character's digital records.](https://drive.google.com/drive/folders/1SJCwmegf0it28Dk53L-MXRZxtNmo1Go2?usp=sharing) Note that the character has several kinds of boons, and uses a spreadsheet to track his inventory. The player could bring this character to any game, and show this paperwork to a GM who wished to audit the character. 
 
 ## Achievement Points
 
@@ -159,7 +159,10 @@ By running or playing lots of games, you earn a currency called "Achievement Poi
 
 ### Preview Achievement Point Reward Text
 
-This is on the [FAQ](https://paizo.com/pathfindersociety/faq) page under the heading `Achievement Points and Boons`
+While there is a [FAQ](https://paizo.com/pathfindersociety/faq) page under the heading `Achievement Points and Boons.`
+
+However this site also offers preview text, along with boon cost and links: [2E Boons](2e-boons.md).
+
 
 ## Fame and Chronicle Rewards
 
@@ -173,8 +176,8 @@ Like Achievement Points, there are other kinds of rewards that are earned from p
 3. You should see a list of systems, and achievement points available.
 4. Select the character you want to purchase the boon for ([it must be registered before you do this](#creating-a-character))
 5. Click the appropriate hyperlink to expand all available options:
-    - `Rewards purchaseable with Chronicle Boons`
-    - `Rewards purchaseable with Game Rewards`
+    - `Rewards purchasable with Chronicle Boons`
+    - `Rewards purchasable with Game Rewards`
 6. Click `Purchase` next to the boon you want
 7. Scroll to the bottom of the page to the `Boons you have purchased` section
 8. Click `Download` next to the boon

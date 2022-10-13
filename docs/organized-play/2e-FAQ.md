@@ -1,4 +1,5 @@
 # 2E FaQ/Errata
+
 ## Pathfinder Core Rulebook Errata Part 1
 
 ###### Updated Terminology
@@ -1355,9 +1356,13 @@ More information can be found in our Privacy Policy.
 The oscillating wave psychic’s unique psi cantrips (thermal stasis, entropic wheel, and redistribute potential) are not intended to interact with their conservation of energy class feature, as they manipulate cold and fire at the same time. Similarly, psi cantrips from other conscious minds (for instance, ones gained through the Parallel Breakthrough feat) shouldn’t interact with conservation of energy. Modify the text in the Conservation of Energy section from “The first time in an encounter that you cast a granted spell from your conscious mind or a psi cantrip” to “The first time in an encounter that you cast a granted spell or standard psi cantrip from your conscious mind.”
 
 ###### Pages 34–35 
+
 The thaumaturge should increase in proficiency with unarmed attacks as they grow in level. The weapon expertise class feature should read “You’ve learned the secret ways your weapons work most effectively. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to expert.” The weapon mastery class feature should read “You fully understand your weapons. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to master.”
 
 ###### Page 48 
+
 The feats granting spellcasting benefits in the psychic multiclass archetype have some unintended discrepancies from corresponding feats in other multiclass archetypes. 
+
     - First, Master Psychic Spellcasting should be an 18th-level feat, rather than a 12th-level feat. 
     - Second, Expert Psychic Spellcasting should have a Prerequisite listing of “Basic Psychic Spellcasting, master in Occultism” and Master Psychic Spellcasting should have a Prerequisite listing of “Expert Psychic Spellcasting, legendary in Occultism.”
+

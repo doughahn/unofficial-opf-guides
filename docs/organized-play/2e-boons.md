@@ -31,6 +31,7 @@ Each ancestry is listed, along with the AcP Cost:
 - [Poppet](https://2e.aonprd.com/Ancestries.aspx?ID=49): 160 AcP
 - [Automaton](https://2e.aonprd.com/Ancestries.aspx?ID=48): 160 AcP
 - [Reflection Heritage](https://2e.aonprd.com/Ancestries.aspx?ID=51): 160 AcP
+- [Skeleton](https://2e.aonprd.com/Ancestries.aspx?ID=50): 206 AcP
 - Pine Leshy: 40 (AP Credit) or 80 AcP
 
 

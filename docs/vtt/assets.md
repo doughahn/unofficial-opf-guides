@@ -238,6 +238,13 @@ Maps can be extracted like images. When importing to a VTT like roll20, it is a 
 
 After it is cropped, simply count the height and width in squares, and create your canvas in that same size. Everything should line up perfectly. 
 
+### Maps for Roll20
+
+1. Use Preview or photoshop to crop out partial grid suares.
+2. Set he canvas in Roll20 the the same height and width, in grid squares.
+3. Upload the cropped map and expand it to fill the canvas. Everything should line up. 
+
+
 ### Maps on Google Slides
 
 It is a best practice to use background images for Google Slides, so players can move tokens and create auras or notes without disrupting the gameplay board. Locked backgrounds are also an accessibility need for players with muscular disabilities. 
