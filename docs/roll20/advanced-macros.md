@@ -2,23 +2,16 @@
 
 **Note:** Some of these macros need to be all on one line, so may look pretty bad. Also, some of the formatting is such that you cannot cut out of the macros in Roll20… you need to edit somewhere else first.
 
-## Without API Scripts
 
-These are macros that you can run without a Pro account.
 
-- [Token Macros](#token-macros)
-    - [Initiative](#initiative)
-    - [Magic Missiles](#magic-missiles)
-- [GM Macro Bar](#gm-macro-bar)
+## Token Macros
 
-### Token Macros
-
-These macros are created to be helpful for a specific selected token. They are broken down by player vs GM macros, where
+These macros do not require API Scripts. They are created to be helpful for a specific selected token. They are broken down by player vs GM macros, where
 the players ones are for any player, adn the GM ones are more typically only used by the GM.
 
 These also are well suited to add to any character's character sheet. 
 
-#### Initiative
+### Initiative
 
 This player token macro is helpful for those players who forget to select their token before rolling initiative. It will
 pull their intiative from their character sheet, roll it as a GM whisper, and add to the tracker.
@@ -29,7 +22,7 @@ It should be created as macro, and should have "Show as Token Action" selected, 
 /w gm Initiative @{selected|token_name} [[1d20 + @{selected|initiative} + &{tracker} ]]
 ```
 
-#### Magic Missiles
+### Magic Missiles
 Do you have a character that likes to use a LOT of magic missiles?
 This token macro will let them select how many missiles, and additionally whether the attack is modified by Inspire Courage. 
 
@@ -42,11 +35,11 @@ any character that might want magic missiles selected.
 @{selected|whispertype} &{template:rolls}  {{charactername=@{selected|character_name} }} {{header=?{number of missiles?|1|2|3|4|5|6|7|8|9} Magic Missile(s) }} {{info01_name=^{action}}} {{info01=^{1-to-3-actions}}}  {{info02_name=^{cast}}} {{info02=one to three actions (somatic, verbal)}} { {{info04_name=^{range}}} {{info04=120 feet}}  {{info05_name=^{target}}} {{info05=1 creature}}{{info03_name=^{traits}}} {{info03=force, evocation}}  {{roll01_type=damage}} {{roll01_name=damage}} {{roll01=[[ ?{number of missiles?|1|2|3|4|5|6|7|8|9}d4+?{number of missiles?|1|2|3|4|5|6|7|8|9}+?{Inspire Courage?|Yes,1|No,0} ]]}} {{show_action_icon=@{selected|roll_option_action_icon}}} {{action_icon=1-to-3-actions}} {{desc=You send a dart of force streaking toward a creature that you can see. It automatically hits and deals 1d4+1 force damage. For each additional action you use when Casting the Spell, increase the number of missiles you shoot by one, to a maximum of three missiles for 3 actions. You choose the target for each missile individually. If you shoot more than one missile at the same target, combine the damage before applying bonuses or penalties to damage, resistances, weaknesses, and so forth.}}
 ```
 
-### GM Macro Bar
+## GM Macro Bar
 
-#### DC By Level
+### DC By Level
 
-This macro will quickly allow a GM to see the standard DC for an action of a given level. This is likely going to be one
+These macro does not require API Scripts. It will quickly allow a GM to see the standard DC for an action of a given level. This is likely going to be one
 the GM adds to their macro quickbar.
 
 ```
@@ -58,7 +51,7 @@ the GM adds to their macro quickbar.
 24,Lv24 DC48| 25,Lv25 DC50}
 ```
 
-#### Status Check
+### Status Check
 
 This is a roll template, so formatting is very important -- it must be all on one line It will inspect the tokens, and
 show the hit points (max and current) for each character, and then show how many hit points the party is down as a
