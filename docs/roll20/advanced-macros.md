@@ -1,17 +1,6 @@
 # Some Helpful Macros
 
-## Table of Contents
-
-- [Setting up Macros](#setting-up-macros)
-- [Without API Scripts](#without-api-scripts)
-- [Require API Scripts](#require-api-scripts)
-
-## Setting up Macros
-
-Coming soon!
-
-**Note:** Some of these macros need to be all on one line, so may look pretty bad. Also, some of the formatting is such
-that you cannot cut out of the macros in Roll20... you need to edit somewhere else, first.
+**Note:** Some of these macros need to be all on one line, so may look pretty bad. Also, some of the formatting is such that you cannot cut out of the macros in Roll20… you need to edit somewhere else first.
 
 ## Without API Scripts
 
@@ -21,7 +10,6 @@ These are macros that you can run without a Pro account.
     - [Initiative](#initiative)
     - [Magic Missiles](#magic-missiles)
 - [GM Macro Bar](#gm-macro-bar)
-- [Fancy Macros w/ Rollable Tables](#fancy-macros)
 
 ### Token Macros
 
@@ -90,6 +78,4 @@ For 6 players:
 &{template:default} {{name=How hurt are we?}} {{@{Target|T0|token_name} down [[@{Target|T0|hit_points|max}-@{Target|T0|hit_points}]] out of @{Target|T0|hit_points|max}}} {{@{Target|T1|token_name} down [[@{Target|T1|hit_points|max}-@{Target|T1|hit_points}]] out of @{Target|T1|hit_points|max}}} {{@{Target|T2|token_name} down [[@{Target|T2|hit_points|max}-@{Target|T2|hit_points}]] out of @{Target|T2|hit_points|max}}} {{@{Target|T3|token_name} down [[@{Target|T3|hit_points|max}-@{Target|T3|hit_points}]] out of @{Target|T3|hit_points|max}}} {{@{Target|T4|token_name} down [[@{Target|T4|hit_points|max}-@{Target|T4|hit_points}]] out of @{Target|T4|hit_points|max}}} {{@{Target|T5|token_name} down [[@{Target|T5|hit_points|max}-@{Target|T5|hit_points}]] out of @{Target|T5|hit_points|max}}} {{Total [[@{Target|T0|hit_points|max}-@{Target|T0|hit_points}+@{Target|T1|hit_points|max}-@{Target|T1|hit_points}+@{Target|T2|hit_points|max}-@{Target|T2|hit_points}+@{Target|T3|hit_points|max}-@{Target|T3|hit_points}+@{Target|T4|hit_points|max}-@{Target|T4|hit_points}+@{Target|T5|hit_points|max}-@{Target|T5|hit_points}]]}}
 ```
 
-## Require API Scripts
 
-Coming soon!

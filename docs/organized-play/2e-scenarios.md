@@ -11,6 +11,4 @@ Note that Exclusives and Glyphs are used interchangeably by Paizo. The author's 
 ----
 ### Maps
 
-For maps used in 2E Scenarios, see [Flip Mats & Map Packs in PFS & SFS - Cont. by William Cheung (originally compiled by Michael Eshleman)
-](https://docs.google.com/spreadsheets/d/1_GgzDrV6lOSKTqBxhd1HBdutR_l_nU_EH4pnZeHadjE/edit#gid=300247499)
-
+For maps used in 2E Scenarios, see [Flip Mats & Map Packs in PFS & SFS - Cont.](https://docs.google.com/spreadsheets/d/1_GgzDrV6lOSKTqBxhd1HBdutR_l_nU_EH4pnZeHadjE/edit#gid=300247499) by William Cheung (originally compiled by Michael Eshleman).
