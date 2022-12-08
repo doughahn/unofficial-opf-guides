@@ -1363,6 +1363,6 @@ The thaumaturge should increase in proficiency with unarmed attacks as they grow
 
 The feats granting spellcasting benefits in the psychic multiclass archetype have some unintended discrepancies from corresponding feats in other multiclass archetypes. 
 
-    - First, Master Psychic Spellcasting should be an 18th-level feat, rather than a 12th-level feat. 
-    - Second, Expert Psychic Spellcasting should have a Prerequisite listing of “Basic Psychic Spellcasting, master in Occultism” and Master Psychic Spellcasting should have a Prerequisite listing of “Expert Psychic Spellcasting, legendary in Occultism.”
+- First, Master Psychic Spellcasting should be an 18th-level feat, rather than a 12th-level feat. 
+- Second, Expert Psychic Spellcasting should have a Prerequisite listing of “Basic Psychic Spellcasting, master in Occultism” and Master Psychic Spellcasting should have a Prerequisite listing of “Expert Psychic Spellcasting, legendary in Occultism.”
 

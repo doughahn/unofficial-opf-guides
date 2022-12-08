@@ -163,7 +163,7 @@ th, td {
     background-color: hsla(var(--md-hue),25%,25%,1)
 }
 
-/*ssortable tables*/
+/*sortable tables*/
 
 [dir=ltr] .md-typeset table th[role=columnheader]:after {
     margin-left: 0em;

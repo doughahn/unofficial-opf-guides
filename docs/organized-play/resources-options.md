@@ -774,3 +774,71 @@ All options are of standard availability unless specifically noted otherwise.
 ##### Restricted
 
 - Undead compendium (page 90)
+
+## Lost Omens: Travel Guide
+
+Remember that a character’s membership in an organization might grant access to options in this book. Characters can purchase the Secondary Initiation boon in the Boon store to join an organization such as the Knights of Lastwall in addition to the Pathfinder Society. For more information, consult the Character Creation section of the Guide to Organized Play: Pathfinder Society.
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+None
+
+##### Restricted
+
+The rules for Housing Costs (page 17) are not used in the Pathfinder Society campaign.
+
+### Clarifications 
+
+- The Cosmic Caravan pantheon (page 92) is legal for play using Tsukiyo instead of Groetus. Groetus was listed as a member of the pantheon in a different source, but is not treated as a current member of the pantheon in the Pathfinder Society campaign.
+- The Offering Plate pantheon (page 94) incorrectly lists cozy cabin as a 2nd-level spell. Cozy cabin is a 3rd-level spell as originally printed in the Advanced Player’s Guide.
+- The DC to remove the sickened condition from an artevil suspension (page 101) is the standard DC for an item of its level (in this case, DC 17).
+- ,As stated on page 103, the animals listed can be purchased as pets, but cannot be combat trained or contribute to combat in any way.
+
+## Lost Omens: Impossible Lands
+
+Remember that a character’s ethnicity, area of origin (nationality), or membership in certain factions might grant access to options in this book. For more information, consult the Character Origin and Organizational Memberships section of the Guide to Organized Play: Pathfinder Society.
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+None
+
+##### Restricted
+
+**Feats**
+
+Reimagine (Kashrishi; page 45)
+**[i]**Note: the Community Knowledge kashrishi feat was previously restricted; it is now Standard access.*
+
+**Curses**
+
+All curses and div curses (page 176)
+
+**Items**
+
+All Abraxan tattoos (page 305)
+
+**Deities**
+
+Mahathallah (page 316)
+
+### Clarifications 
+
+Please follow these rulings and clarifications specific to Pathfinder Society play wherever they conflict with the language printed in the original source.
+
+- The DC of the Dominion Aura feat (page 33) is the higher of your class DC or spell DC.
+- As usual for archetypes, players who take the Shieldmarshal dedication feat (page 108) can't select another dedication feat until they have gained two other feats from the Shieldmarshal archetype.
+- Characters who have gained access to the Fey Influence feat from a Pathfinder Society scenario gain access to the expanded version of this feat printed on page 126. This does not grant access to any additional feats in this section.
+- The Jalmeri Heavenseeker archetype as printed in this book (page 224) is legal for play. Players may not use the version printed in *Pathfinder #158: Six Feet Under.*
+- Arundhat was previously included in *Pathfinder Lost Omens: Gods and Magic* with ghostly touch as a cleric spell. Players may use either the version from that book or this book, but cannot use both. This choice must be made at the time the character is created.
