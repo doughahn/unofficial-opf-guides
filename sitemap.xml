@@ -16,32 +16,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/2e-boons/</loc>
-         <lastmod>2022-12-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/2e-scenarios/</loc>
-         <lastmod>2022-12-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/org-play/</loc>
          <lastmod>2022-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/pfs-faq/</loc>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/PFS/2e-boons/</loc>
          <lastmod>2022-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/resources-options/</loc>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/PFS/2e-scenarios/</loc>
          <lastmod>2022-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/starfinder-scenarios/</loc>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/PFS/pfs-faq/</loc>
+         <lastmod>2022-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/PFS/resources-options/</loc>
+         <lastmod>2022-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doughahn.github.io/unofficial-opf-guides/organized-play/SFS/starfinder-scenarios/</loc>
          <lastmod>2022-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
