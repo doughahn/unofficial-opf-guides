@@ -57,6 +57,10 @@ blockquote {
   color:  black
 }
 
+[data-md-color-scheme="default"] .md-typeset h4 {
+  text-transform:upperccase;
+}
+
 [data-md-color-scheme="default"] .md-typeset h6,
 [data-md-color-scheme="default"] .md-typeset h5 {
   color:  black
