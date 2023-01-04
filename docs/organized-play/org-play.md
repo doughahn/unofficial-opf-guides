@@ -161,7 +161,7 @@ By running or playing lots of games, you earn a currency called "Achievement Poi
 
 While there is a [FAQ](https://paizo.com/pathfindersociety/faq) page under the heading `Achievement Points and Boons.`
 
-However this site also offers preview text, along with boon cost and links: [2E Boons](2e-boons.md).
+However this site also offers preview text, along with boon cost and links: [2E Boons](/PFS/2e-boons.md).
 
 
 ## Fame and Chronicle Rewards

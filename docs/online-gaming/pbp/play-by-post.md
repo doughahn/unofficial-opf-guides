@@ -19,7 +19,7 @@ Many players enjoy both play by post and live gaming. As with every other medium
 
 ## Creating a Play by Post Alias
 
-First, [register a character.](../organized-play/org-play.md#creating-a-character)
+First, [register a character.](./organized-play/md#creating-a-character)
 
 This time, you should select a character image. You can go back and change it later on. Go to `Character Image` and click `Change`. There are hundreds of avatars to sort through; try to find one that matches your character's personality. Hover over the one you want and click `Select this Avatar.`
 

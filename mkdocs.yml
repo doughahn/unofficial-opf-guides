@@ -1,29 +1,33 @@
 site_name: Unofficial Paizo Guides
 site_url: https://doughahn.github.io/unofficial-opf-guides/
 nav:
+    - Second Edition:
+      - 2E Errata: second-edition/2e-FAQ.md
     - Organized Play:
       - Organized Play 101: organized-play/org-play.md
-      - 2E Errata: organized-play/2e-FAQ.md
-      - PFS FaQ: organized-play/pfs-faq.md
-      - PFS Character Options: organized-play/resources-options.md
-      - PFS Boons: organized-play/2e-boons.md
-      - PFS Scenario List: organized-play/2e-scenarios.md
-      - SFS Scenario List: organized-play/starfinder-scenarios.md
+      - Pathfinder Society:
+        - FaQ: organized-play/PFS/pfs-faq.md
+        - Character Options: organized-play/PFS/resources-options.md
+        - Boons: organized-play/PFS/2e-boons.md
+        - AP Boons: organized-play/PFS/2e-ap-boons.md
+        - Scenario List: organized-play/PFS/2e-scenarios.md
+    - Starfinder Society:
+        - Scenario List: organized-play/SFS/starfinder-scenarios.md
     - Using Warhorn:
       - For Players: warhorn/warhorn.md
       - For Organizers: warhorn/warhorn-for-organizers.md
     - Online Gaming:
-      - Choosing a VTT: vtt/vtts-overview.md
-      - Creating Assets: vtt/assets.md
-      - Splitting Chronicles: vtt/splitting-chronicles.md
-    - Play by Post:
-      - Paizo Play by Post: pbp/play-by-post.md
-      - Paizo Avatar Gallery: pbp/avatar-inventory.md
-    - Roll20:
-      - Free account macros: roll20/roll20-basics.md
-      - Advanced macros: roll20/advanced-macros.md
-    - Foundry:
-      - Basics: foundry/foundry-basics.md
+      - Choosing a VTT: online-gaming/vtts-overview.md
+      - Creating Assets: online-gaming/assets.md
+      - Splitting Chronicles: online-gaming/splitting-chronicles.md
+      - Play by Post:
+        - Paizo Play by Post: online-gaming/pbp/play-by-post.md
+        - Paizo Avatar Gallery: online-gaming/pbp/avatar-inventory.md
+      - Roll20:
+        - Free account macros: online-gaming/roll20/roll20-basics.md
+        - Advanced macros: online-gaming/roll20/advanced-macros.md
+      - Foundry:
+        - Basics: online-gaming/foundry/foundry-basics.md
     - Paizo Website:
       - Payment Methods: paizo/payment-methods.md
     - External Resources: 
@@ -120,17 +124,18 @@ plugins:
   - redirects:
       redirect_maps:
         'org-play.md': 'organized-play/org-play.md'
-        '2e-FAQ.md': 'organized-play/2e-FAQ.md'
-        'pfs-faq.md': 'organized-play/pfs-faq.md'
-        '2e-boons.md': 'organized-play/2e-boons.md'
+        '2e-FAQ.md': 'second-edition/2e-FAQ.md'
+        'pfs-faq.md': 'organized-play/PFS/pfs-faq.md'
+        '2e-boons.md': 'organized-play/PFS/2e-boons.md'
         'warhorn.md': 'warhorn/warhorn.md'
         'warhorn-for-organizers.md': 'warhorn/warhorn-for-organizers.md'
-        'vtts-overview.md': 'vtt/vtts-overview.md'
-        'assets.md': 'vtt/assets.md'
-        'splitting-chronicles.md': 'vtt/splitting-chronicles.md'
-        'roll20-basics.md': 'roll20/roll20-basics.md'
-        'advanced-macros.md': 'roll20/advanced-macros.md'
-        'foundry-basics.md': 'foundry/foundry-basics.md'
-        'play-by-post.md': 'pbp/play-by-post.md'
-        'other-guides.md': 'other-guides/other-guides.md'
+        'vtts-overview.md': 'online-gaming/vtts-overview.md'
+        'vtt/assets.md': 'online-gaming/assets.md'
+        'assets.md': 'online-gaming/assets.md'
+        'vtt/splitting-chronicles.md': 'online-gaming/splitting-chronicles.md'
+        'splitting-chronicles.md': 'online-gaming/splitting-chronicles.md'
+        'roll20-basics.md': 'online-gaming/roll20/roll20-basics.md'
+        'advanced-macros.md': 'online-gaming/roll20/advanced-macros.md'
+        'foundry-basics.md': 'online-gaming/foundry/foundry-basics.md'
+        'play-by-post.md': 'online-gaming/pbp/play-by-post.md'
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'

@@ -160,13 +160,13 @@ For the purposes of Pathfinder Society play, choosing the following regions as a
 
 #### Can I upgrade permanent items?
 
-Yes, players may upgrade permanent magical items or items made from special materials using the [Crafting rules on page 535 of the Core Rulebook](../2e-FAQ.md#page-535). Players may not upgrade adventuring gear or consumable items in this manner.
+Yes, players may upgrade permanent magical items or items made from special materials using the [Crafting rules on page 535 of the Core Rulebook](/second-edition/2e-FAQ.md#page-535-craft-requirements). Players may not upgrade adventuring gear or consumable items in this manner.
  
 ### Paying off Cost Differences
 
 #### Can I pay the cost difference to upgrade a permanent item instead of using Craft to do it myself?
 
-Yes. The Pathfinder Society has numerous crafters that assist their fellow agents. Use the rules for upgrading magic items on [page 535 of the Core Rulebook](../2e-FAQ.md#page-535).
+Yes. The Pathfinder Society has numerous crafters that assist their fellow agents. Use the rules for upgrading magic items on [page 535 of the Core Rulebook](/second-edition/2e-FAQ.md#page-535-craft-requirements).
  
 ### Tiny PCs
 
