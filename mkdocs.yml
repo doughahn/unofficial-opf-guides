@@ -74,7 +74,7 @@ theme:
     - toc.follow
     - navigation.sections
     - navigation.expand
-    - content.tabs.link
+    - content.tabs.link 
     - navigation.indexes
   hide:
     - navigation
@@ -110,7 +110,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
-      toc_depth: 3
+      toc_depth: 2
       permalink: 6
       permalink: ⚑
 plugins:
