@@ -931,6 +931,283 @@ The greater ring of maniacal devices has a price that is drastically incorrect f
 ###### Page 616: 
 Replace robe of the archmagi's color scheme with a more in-world pattern using gold for good, red for evil, and light blue for neutral. This scheme is patterned after gold dragons (the strongest metallic dragon), red dragons (the strongest chromatic dragon), and cloud dragons (the strongest, and all true neutral primal dragon) respectively.
 
+## Pathfinder Core Rulebook Errata Part 4
+
+## Advanced Player's Guide Errata
+
+###### Page 26
+
+We're making a significant change to how ancestry ability boosts work. The purpose of this is to better reflect diversity within each ancestry and to allow for greater freedom in creating characters. Though you can still choose the ability boosts listed in each ancestry, every character has a new alternative option.
+
+**Alternative Ability Boosts**
+The ability boosts and flaws listed in each ancestry represent general trends or help guide players to create the kinds of characters from that ancestry most likely to pursue the life of an adventurer. However, ancestries aren’t a monolith. You always have the option to replace your ancestry’s listed ability boosts and ability flaws entirely and instead select two free ability boosts when creating your character.
+
+The text above is an alternative open to all characters, not an optional rule. Voluntary flaws remains an optional rule. Due to many of its advantages being supplanted by the rule above, we've made some adjustments to voluntary flaws to make them purely a roleplaying choice.
+
+**Optional: Voluntary Flaws**
+
+Sometimes, it’s fun to play a character with a major flaw regardless of your ancestry. You can elect to take additional ability flaws when applying the ability boosts and ability flaws from your ancestry. This is purely for roleplaying a highly flawed character, and you should consult with the rest of your group if you plan to do this! You can’t apply more than one flaw to any single ability score.
+
+###### Pages 65, 131, 133, 135, 136, 336, 354, 370, 410, 595 
+
+Multiple rules that should work with both plants and fungi currently work with only plants, and these changes make them work the way they’re intended. Note that this isn’t a universal change! Some rules, like plant form, plant growth, and blight, still apply only to plants. The following rules should work with both plants and fungi.
+
+- **Sylvan (Page 65)**: The Sylvan language in the table should list plant and fungus creatures.
+- **Leaf Order (Page 131)**: The anathema apply to fungi.
+- **Leshy Familiar (Page 133)**: Your familiar is a fungus if you choose a fungus leshy.
+- **Woodland Stride (Page 135)**: You get the same benefits moving through fungi.
+- **Green Empathy (Page 136)**: You can communicate with fungi in the same way as with plants.
+- **Entangle (Page 336)**: The area is “all squares in a 20-foot burst that contain plants or fungi”.
+- **Nature’s Enmity (Page 354)**: Fungi hate them too!
+- **Speak with Plants (Page 370)**: You can speak with fungi in the same way as plants.
+- **Commune with Nature (Page 410)**: They know about fungi too.
+- **Verdant Staff (Page 595)**: It helps you identify fungi too. We’ve also changed it from Nature checks to checks in general, so you can use it with relevant Lore skills, such as Herbalism Lore.
+
+##### Page 72
+
+Change Quick Alchemy’s text to say “You create a single alchemical consumable item…” instead of “You create a single alchemical item…” This wording is more precise, and works correctly with non-consumable alchemical items.
+
+###### Page 73–76
+
+The alchemist is getting multiple changes to allow for more choice and allow options from books outside the Core Rulebook. These boost all the fields in the books somewhat, with some additional spice for the chirurgeon.
+
+- **Research Field (page 73)**: The chirurgeon can now choose two common 1st-level elixirs with the healing trait to add to their formula book. In addition, they can substitute Crafting for Medicine in a broader scope, as follows.
+    > "You can use your proficiency rank in Crafting for anything that requires a proficiency rank in Medicine (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks."
+**Field Discovery (page 74)**: The chirurgeon gets the three-elixir benefit to make any elixir with the healing trait, not just elixirs of life.
+**Perpetual Infusions (page 75)**: All of these have changed somewhat to offer a broader selection. In addition, due to changes to perpetual potency and perpetual perfection, there's a new sentence here: "Each time you gain a level, you can swap any number of your perpetual infusions with other eligible infusions." 
+    - **"Bomber**: Choose two 1st-level bombs.
+    - **"Chirurgeon**: Choose two 1st-level elixirs with the healing trait. If a creature heals Hit Points from a perpetual infusion, that creature is temporarily immune to healing Hit Points from subsequent perpetual infusions for 10 minutes (but not immune to any other effects of those infusions).
+    - **"Mutagenist**: Choose two 1st-level mutagens."
+
+The chirurgeon required a special rule for elixirs that heal HP to work correctly alongside healing resources across the game. Giving everyone in your party a perpetual infusion elixir of life when you stop for a rest will still work, but you don't get much benefit from doling out 300 of them in that 10 minutes. Note that can still choose to spend reagents when creating an elixir to heal a creature that has temporary immunity to perpetual infusions! 
+
+Note that, unlike the toxicologist in Advanced Player's Guide, these don't restrict you to only common items, since those restrictions are already a part of adding formulas to your formula book. If you've gained access to an non-common alchemical item that fits the other restrictions, you can choose it for a perpetual infusion. We will consider changing the toxicologist when we next set our gaze on that book.
+
+Since this is likely to become a FAQ given some of the perpetual infusions changes, remember that perpetual infusions remove only the reagent cost for Quick Alchemy. You would still need to spend extra batches of infused reagents to Combine Elixirs with a perpetual infusion, for example.
+
+**Perpetual Potency (page 75)**
+
+The choices you can make are more broad, and you no longer need to upgrade your choices from perpetual infusions (hence the ability to swap out your perpetual infusions when you level up, so you can upgrade your favorite item if you like). The levels are different between research fields to maintain the intended balance while still allowing the options from previous printings of the Core Rulebook.
+
+- **"Bomber: Choose two 3rd-level or lower bombs.
+- **"Chirurgeon**: Choose two 6th level or lower elixirs with the healing trait.
+- **"Mutagenist**: Choose two 3rd level or lower mutagens."
+- **Perpetual Perfection (page 76)**: These changes are similar to perpetual potency's, but did not require the - **same level restrictions.
+    - **"Bomber**: Choose two 11th-level or lower bombs.
+    - **"Chirurgeon**: Choose two 11th-level or lower elixirs with the healing trait.
+    - **"Mutagenist**: Choose two 11th-level or lower mutagens."
+
+###### Page 113 
+
+The champion's Quick Shield Block feat received incomplete errata in the 3rd printing. Add 
+
+> "Prerequisites Shield Block". 
+
+The fighter's Quick Shield Block feat has also been changed to have the same prerequisites.
+
+###### Pages 119–120
+
+The cleric’s original proficiency put their simple weapon proficiency behind spellcasters who aren’t good with weapons, like the sorcerer. Make the following changes.
+
+- **Cloistered Cleric (Page 119)**: Fourth Doctrine grants expert proficiency with your deity’s favored weapon, simple weapons, and unarmed attacks.
+- **Warpriest (Page 120)**: Third doctrine grants expert proficiency with your deity’s favored weapon, simple weapons, and unarmed attacks.
+
+###### Page 120
+
+The warpriest's first doctrine wasn't as clear as it could be that you do gain Deadly Simplicity if your deity's favored weapon is an unarmed attack, so the text has been updated.
+
+###### Page 149
+
+The fighter Quick Shield Block feat should match the champion's, so we've made the prerequisites less strenuous. The updated entry is "Prerequisites Shield Block".
+
+###### Page 184
+
+The rogue Minor Magic feat was unclear on whether the spells are innate spells or made you a spellcaster. We've amended the text to note that you gain the Cast a Spell activity. These spells work similarly to the ones you get from multiclass dedication feats for spellcasting classes. However, you don't gain a spell repertoire, spellbook, or similar, so your oddball rogue magic doesn't let you use abilities that require those.
+
+
+###### Pages 198 and 209 
+
+The Counterspell feat used "disrupt" to describe generally what the feat is doing, but this has caused confusion with the rules for disrupting actions. Change the text to "counter" instead. The feat counteracts the spell; it doesn't disrupt it.
+
+###### Page 216
+
+The horse's support benefit had issues, even with the 3rd printing errata. It was meant to be for dealing more damage on a charge, but allowing for unintended maneuvers like getting the bonus while flanking with your horse or shooting a bow. Here's the new text of the horse's support benefit.
+
+> **Support Benefit** Until the start of your next turn, if you’re mounted on your horse and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the jousting weapon trait, increase the trait’s damage bonus by 2 per die instead. 
+
+###### Page 281 
+
+The gnome flickmace was too strong due to the inherent advantages of a one-handed reach weapon. It’s been changed to reduce its damage die and Bulk and add sweep so it functions more like a flail.
+
+Gnome flickmace statistics are as follows.
+
+> **Price** 3 gp; **Damage** 1d6 B; **Bulk** 1; **Hands** 1; **Group** Flail; **Weapon Traits** Gnome, reach, sweep
+
+###### Page 287 & 293 
+
+The formulas in a basic crafter’s book didn’t match in two different locations the book was described. Page 293 was correct: A basic crafter’s book includes all 0-level common items in the Equipment chapter, not all common items in the chapter.
+
+###### Page 288
+
+We’ve changed the Hands entries for sets of tools to in the Adventuring Gear table to “1 or 2” with a footnote, to indicate you can use them with 1 hand if you’re wearing them. The affected tool sets are, for reference: alchemist’s tools, artisan’s tools, sterling artisan’s tools, healer’s tools, expanded healer’s tools, thieves tools, and infiltrator thieves' tools.
+
+###### Page 302 
+
+It was unclear how innate spells work with the Cast a Spell activity and whether they make you a spellcaster. They work much like non-spellcasters with focus spells. Here’s the adjusted text that now appears in the first paragraph, including the component info moved from a different paragraph.
+
+> “You gain the ability to Cast a Spell and use any spellcasting actions necessary to cast your innate spells; since this magic is innate, you can replace any material component with a somatic component (page 303). Innate spells don’t let you qualify for abilities that require you to be a spellcaster.”
+
+###### Pages 317, 352, 359, 385
+
+The 3rd printing errata to alter reality, miracle, primal phenomenon, and wish inadvertently restricted spells you could choose from other spell lists too much. Because you typically don’t have any access to spells not on your spell list, the option to cast a spell “to which you have access” from another list was useless for most characters. The new text is as follows for all four spells: 
+
+> “• Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.”
+
+###### Page 319–320
+
+In the avatar spell, change “bull rush” in Gozreh and Torag to “shove”.
+
+###### Page 329–330 
+
+The tyrannosaurus battle form or dinosaur form didn’t list a die size for the deadly trait on its jaws Strike. It should be deadly d12.
+
+###### Page 369
+
+The description of silence erroneously mentioned “other senses,” which could suggest it prevents creatures from noticing the target using sight, tremorsense, or other senses. The spell should read, "The target makes no sound, preventing creatures from noticing it using hearing alone."
+
+###### Page 370
+
+The soothe spell can now target “1 willing creature” instead of “1 willing living creature”. It can be used to heal undead, constructs, and so on. (This change matches the rules noted in Book of the Dead and Blood Lords Player’s Guide.) Note that it has the mental trait, so it still doesn’t heal or otherwise benefit mindless creatures like zombies or animated objects.
+
+###### Page 383
+
+Wall of stone and wall of thorns have a mismatch with some other walls. Their walls can now be destroyed in 10-foot-by-10-foot sections instead of 5-foot-by-5-foot sections.
+
+###### Page 399 
+
+The word of freedom domain spell can suppress the restrained condition in addition to the other conditions listed, and the sentence about suppressing the grabbed condition should include the restrained condition.
+
+###### Page 460, 462, 469
+
+The text on Gaining and Losing actions on page 462 and for the last step of starting your turn on page 469 indicated that if you had a condition that said “you can’t act,” you wouldn’t regain any actions on your turn, rather than merely being unable to use them. This conflicted with the sidebar on page 622, which was correct. Conditions and other effects that cause you to change the number of actions you regain (such as quickened, slowed, or stunned) say so.
+
+The text under Death on page 460 has been amended slightly to say you lose all your actions while dead so it works as intended.
+
+###### Page 465 
+
+Many abilities use shorthand like “a creature you can see.” These abilities typically work just fine with other precise senses, so the Detecting with Other Senses sidebar was adjusted to note this. Examples include using a precise sense (like echolocation for precise hearing) for the Coerce activity of the Intimidation skill, an investigator’s Devise a Stratagem action, and the thaumaturge’s Exploit Vulnerability action.
+
+###### Page 555 
+
+Elven chain didn’t include the adjustment to its Bulk from being made of mithral, and should be light Bulk instead of 1 Bulk. (It also repeated the +2 item bonus to AC unnecessarily; this is the same as any chain shirt.) To summarize, the differences between elven chain and a mithral chain shirt are that elven chain has no check penalty and no noisy trait.
+
+###### Page 570 
+
+Dust of disappearance now has the uncommon trait, just like invisibility potion.
+
+###### Page 571 
+
+Add the necromancy trait to holy water and unholy water.
+
+###### Page 580 
+
+The runes section was not entirely clear that you do need to be able to craft magic items (with the Magical Crafting feat, typically) to etch or transfer runes.
+
+###### Page 588 
+
+Spellguard shield should allow you to Shield Block in the way the a dragonslayer’s shield or the Reflexive Shield feat do. At the end of the description, add to the final sentence, 
+
+> “and you can Shield Block spells that target you if you have that action.”
+
+###### Page 595
+
+Verdant staff, as noted in another correction, now helps you identify fungi as well as plants. In case you skipped that entry because you don't care about fungi, note that we've also changed it from applying to only Nature checks to checks in general, so you get help identifying plants and fungi with relevant Lore skills, such as Herbalism Lore.
+
+## Pathfinder Core Rulebook Clarifications (4th Printing)
+
+###### Page 264 
+
+> When I use Natural Medicine, can I attempt the higher-DC checks even though I'm not using Medicine?
+
+You absolutely can. Essentially, you replace any mention of “Medicine” in the activity with “Nature” if you’re using Natural Medicine. You do still need healer’s tools. 
+
+Also, note that this feat applies only to using Treat Wounds. You would still need to be an expert in Medicine, not Nature, to select the Ward Medic feat. If you did qualify for and did select Ward Medic, you would be able to use Nature to Treat Wounds for two targets. You’d still need to become a master or legendary in Medicine to treat more targets than that.
+
+###### Pages 266 
+
+> Can I use Shield Block if I take physical damage that didn't come from an attack?
+
+Shield Block can only be used against physical damage from attacks, since non-attack effects can't trigger the Shield Block. For instance, if you walk over a square of hazardous terrain that deals piercing damage to you, having your shield raised doesn't help you, nor does it help if you need to make a Reflex save against a spell that deals bludgeoning damage. Some abilities let you use Shield Block with other triggers, as seen in the shield spell and the fighter's Reflexive Shield feat, but these exceptions are noted. Also note the 4th printing errata to spellguard shield (page 588) allows it to apply in this way.
+
+###### Pages 279–280 
+
+> If I hold a weapon that requires 1 hand in 2 hands, is it a 2-handed weapon?
+
+**There are two answers to this.**
+
+For abilities that count the number of hands for a weapon while you're using it, such as an action with "Requirements You are wielding a one-handed melee weapon," count the actual number of hands you're using at the time. If you're holding a bastard sword in two hands, you couldn't use it with that ability. Weapons with the "1+" notation in their description, such as most bows, use both your hands when shooting, but leave you with a hand free for other actions the rest of the time.
+
+Anything that's an intrinsic part of the weapon, such as a shifting rune, works differently. Reference the weapon's "Hands" entry in the weapons table—a bastard sword requires 1 hand, even though it gets a benefit in two hands from the two-hand trait. If you were holding a shifting bastard sword in two hands and activated it, you could turn it into a longsword (which you'd still be holding in two hands), but couldn't turn it into a greatsword (which requires 2 hands). For this purpose, "1" and "1+" are the same (though this doesn't matter for shifting since "1+" appears ranged weapons).
+
+###### Page 283: 
+
+> What do I need to do to switch how many hands I'm using for a jousting weapon?
+
+If you want to use a jousting weapon one-handed while on a mount, you can make this decision as part of taking your Mount action. After that, changing hands takes the same actions described on page 271 under Carrying and Using Items. If you dismount while wielding a jousting weapon one-handed, you can either switch to using two hands as part of that action if you have a hand free at that point. If not, you'll still be holding the weapon in one hand, but not able to wield it. You'll have to free up a hand and Interact to wield the jousting weapon while not mounted.
+
+###### Pages 301 and 634: 
+
+> Can a minion be quickened or slowed? 
+
+Yes. This can be a bit unclear because those conditions apply “at the start of your turn” and a minion can’t typically act until you use an action. Apply these conditions and any other effects that alter a minion’s number of actions when the minion gains its actions, using 2 actions and 0 reactions as the minion’s starting number. Though a minion can’t normally act when it’s not your turn, abilities that specifically grant a minion a reaction provide an exception to this (such as the Ferocious Beasts orc ancestry feat, Advanced Players Guide page 19).
+
+###### Page 451: 
+
+> How do extra critical effects work on a creature immune to critical hits?
+
+Immunity to critical hits reads “When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage.” This means what it says: The attack deals normal damage instead of double damage. Other effects specific to a critical hit still occur, such as critical specialization effects and extra damage dice from traits like deadly and fatal. You also still have the option to use abilities that trigger on critical hits, like the vorpal rune’s reaction (though many creatures immune to crits also don’t need heads to live, lucky devils). Your GM can still say no to extremely strange consequences of this rule on a case-by-case basis.
+
+###### Page 458
+
+> If an affliction makes me enfeebled 1 without listing a duration and the affliction ends, am I enfeebled forever? 
+
+The rules on Conditions from Afflictions note that a condition can last for a longer duration that the affliction that caused it, using drained as an example. There are three categories of effects from afflictions here.
+
+1. Immediate effects like damage happen as soon as you reach the stage.
+1. Conditions that have a way to end them by default last for their normal duration. This includes conditions like drained, frightened, persistent damage, and sickened.
+1. Conditions that always need to include a duration because they don’t have a normal way to recover from them—such as clumsy or paralyzed—last as long as the stage of the affliction on which they appear. This also applies to effects that are ongoing but specific to the affliction rather than being defined conditions, such as a penalty to certain rolls.
+
+###### Page 475: 
+
+> How do I adjudicate forced movement if a creature makes another creature move with it?
+
+Creatures like elephants and rocs can move while taking a grabbed creature with them. The rules on page 475 say “Usually the creature or effect forcing the movement chooses the path the victim takes. If you’re pushed or pulled, you can usually be moved through hazardous terrain, pushed off a ledge, or the like. Abilities that reposition you in some other way can’t put you in such dangerous places unless they specify otherwise. In all cases, the GM makes the final call if there’s doubt on where forced movement can move a creature.”
+
+So can you summon an elephant and have it run alongside a wall of fire and drag a creature in its trunk through every square of the wall? Generally, no. The point is that the victim is being carried with the creature. However, the GM can make other calls within reason calls here. For instance, if the elephant moves through that wall of fire, it’s likely it and the creature both take the damage.
+
+###### Page 585 
+
+> What can a shifting rune change a weapon into?
+
+This repeats some information from the clarification on one-handed versus two-handed weapons. 
+
+Because a shifting rune is based on the attributes of the weapon it's etched to, reference the weapon's "Hands" entry in the weapons table to see what it can turn into. A bastard sword requires 1 hand, even though it gets a benefit in two hand from the two-hand trait. If you were holding a shifting bastard sword in two hands and activated it, you could turn it into a longsword (which you'd still be holding in two hands), but couldn't turn it into a greatsword (which requires 2 hands).
+
+So what if the weapon has the jousting trait, normally requiring two hands, but you're wielding it in one hand because you're on a mount? You can activate shifting to turn it into a different weapon that requires 2 hands and has the jousting trait and continue as you are, or you can turn it into a weapon that requires 2 hands and doesn't have the jousting trait. If you do that, you're still holding it in one hand, but can't wield it unless you free up another hand and Interact to change how you're holding it.
+One further note: The shifting rune can change the Bulk of the weapon, but you can't, for example, turn an adamantine shifting weapon of light Bulk into a weapon of 1 Bulk and sell the adamantine. You would use the base form, not the form magic has turned it into.
+
+###### Page 592 
+
+> How can I use a staff if I have high-level slots but not lower ones?
+
+Classes like the magus and summoner lose their lower-level slots as they go up in level, but can still cast lower-level spells from staves. In other words, a spellcaster who has 2nd- and 3rd-level slots but not 1st-level slots can still cast a 1st-level spell from a staff. (A magus who prepares a staff still has to sacrifice a spell slot they actually have if they want to add extra charges, though.)
+
+###### Page 621 
+
+> How can I tell which multiple persistent damage value is higher when it's not obvious?
+
+Multiple Persistent Damage Conditions notes that you keep only the highest amount of persistent damage. How do you choose between 3 persistent fire damage and 1d6 persistent fire damage (which is usually, but not always higher)? In these cases, the GM should quickly use their best guess to decide which applies. Don’t worry about doing all the math of average damage, just follow your heart to which seems most severe.
+
 ## Advanced Player's Guide Errata
 
 
