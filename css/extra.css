@@ -51,14 +51,17 @@ blockquote {
   font-weight:  bold;
 }
   
-[data-md-color-scheme="default"] .md-typeset h3, 
-[data-md-color-scheme="default"] .md-typeset h4 {
+[data-md-color-scheme="default"] .md-typeset h3 {
   font-weight: 700;
   color:  black
 }
 
 [data-md-color-scheme="default"] .md-typeset h4 {
+  font-weight: 700;
+  font-size:1em;
   text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+  margin: 1em 0 -1em 0 !important;
 }
 
 [data-md-color-scheme="default"] .md-typeset h6,
