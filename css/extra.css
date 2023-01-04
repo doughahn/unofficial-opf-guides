@@ -58,7 +58,7 @@ blockquote {
 }
 
 [data-md-color-scheme="default"] .md-typeset h4 {
-  text-transform:upperccase;
+  text-transform: uppercase;
 }
 
 [data-md-color-scheme="default"] .md-typeset h6,
