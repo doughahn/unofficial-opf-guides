@@ -28,8 +28,11 @@ This time, you should select a character image. You can go back and change it la
 <figcaption>Selecting an avatar. Hover over your selected image and click `Select this Avatar.`</figcaption>
 </figure>
 
-
 Last, click `Submit Changes.`
+
+!!! hint "Use the Avatar Gallery on this site"
+
+    Picking avatars can be a major roadblock due to the nature of the paizo site. [We have screen captures of every avatar page here](avatar-inventory.md). 
 
 You should now have an alias that you can select anywhere on the forums. Below every text box is a `Post As` dropdown, and you can select any aliases there.
 

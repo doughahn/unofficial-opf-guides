@@ -2,13 +2,13 @@
 
 ##### `Author: Doug Hahn`
 
-As a GM, you have to give your players chronicles. Back in the days of true pen and paper gaming, the GM could simply print a copy of the chronicle for each player and fill it out at the table. This model no longer works in many cases, as online gaming and paperless accounting have become more prevalent. However, Paizo's scenarios are copyright protected, so you can't easily edit them! While services like [RPG Chronicles](http://rpgchronicles.net) can build your chronicles for you, they cost money. 
+As a GM, you have to give your players chronicles. Back in the days of true pen and paper gaming, the GM could simply print a copy of the chronicle for each player and fill it out at the table. This model no longer works in many cases, as online gaming and paperless accounting have become more prevalent. However, Paizo's scenarios are copyright protected, so you can't easily edit them! Services like [RPG Chronicles](http://rpgchronicles.net) can build your chronicles for you as well. 
 
 ## Making Chronicles with Free Software
 
-This guide will use Preview, the default PDF reader for maxOS, but it will work for [Foxit Reader](https://www.foxit.com/pdf-reader/) on Windows as well as many other readers of choice (including expensive ones like Acrobat Pro). 
+This guide will use Preview, the default PDF reader for macOS, but the steps will also work for [Foxit Reader](https://www.foxit.com/pdf-reader/) on Windows as well as many other readers of choice (including swanky ones like Acrobat Pro). 
 
-Whatever software you prefer the method is the same: you need to extract a single page from the PDF and edit it. To achieve this, you will use the `Print to PDF` feature that ships with common software or is built into your OS. 
+Whatever software you prefer the general method is the same: you extract a single page from the PDF and edit it with the base info like event number, and then make copies and fill them out with player specifics. To achieve this, you will use the `Print to PDF` feature that ships with common software or is built into your OS. 
 
 ### Extract the Page
 ----
@@ -24,8 +24,8 @@ Whatever software you prefer the method is the same: you need to extract a singl
 ### Create the Base Chronicle
 ----
 1. Locate the typewriter or text annotation tool 
-    - On Preview, this is un `Tools` => `Annotate` => `Text`
-    - on Foxit there is a `Typewriter` button on the top toolbar
+    - On Preview, this is under `Tools` => `Annotate` => `Text`
+    - On Foxit there is a `Typewriter` button on the top toolbar
 1. Fill in the information that will go on all chronicles. 
     - Event Name
     - Date
