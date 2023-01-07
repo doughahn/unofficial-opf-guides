@@ -10,8 +10,14 @@
       
         <link rel="canonical" href="https://doughahn.github.io/unofficial-opf-guides/online-gaming/pbp/avatar-inventory/">
       
+      
+        <link rel="prev" href="../play-by-post/">
+      
+      
+        <link rel="next" href="../../roll20/roll20-basics/">
+      
       <link rel="icon" href="../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.2.4">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.2">
     
     
       
@@ -19,12 +25,13 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.2d9f7617.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f56500e0.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.e6a45f82.min.css">
-        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.2505c338.min.css">
       
+      
+
     
     
     
@@ -37,14 +44,31 @@
       
     
     
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings1.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings2.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings3.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings4.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings5.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-enum-headings6.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-material.css">
+    
       <link rel="stylesheet" href="../../../css/extra.css">
     
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/featherlight/v.1.7.14/featherlight.min.css">
     
-    <script>__md_scope=new URL("../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
+    
     
     
   </head>
@@ -79,9 +103,7 @@
     </div>
     
       <div data-md-component="outdated" hidden>
-        <aside class="md-banner md-banner--warning">
-          
-        </aside>
+        
       </div>
     
     
@@ -95,7 +117,7 @@
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -117,7 +139,6 @@
       <form class="md-header__option" data-md-component="palette">
         
           
-          
           <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
           
             <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
@@ -126,11 +147,10 @@
           
         
           
-          
           <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue-grey" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
           
             <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
             </label>
           
         
@@ -139,7 +159,7 @@
     
     
       <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
       </label>
       <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
@@ -147,13 +167,13 @@
     <form class="md-search__form" name="search">
       <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
       </label>
       <nav class="md-search__options" aria-label="Search">
         
-        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
       
@@ -173,10 +193,10 @@
     
     
       <div class="md-header__source">
-        <a href="https://github.com/doughahn/unofficial-opf-guides/" title="Go to repository" class="md-source" data-md-component="source">
+        <a href="https://github.com/doughahn/unofficial-opf-guides" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
   </div>
   <div class="md-source__repository">
     doughahn/unofficial-opf-guides
@@ -217,10 +237,10 @@
   </label>
   
     <div class="md-nav__source">
-      <a href="https://github.com/doughahn/unofficial-opf-guides/" title="Go to repository" class="md-source" data-md-component="source">
+      <a href="https://github.com/doughahn/unofficial-opf-guides" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
   </div>
   <div class="md-source__repository">
     doughahn/unofficial-opf-guides
@@ -243,7 +263,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" data-md-state="indeterminate" type="checkbox" id="__nav_1" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_1" type="checkbox" id="__nav_1" checked>
       
       
       
@@ -297,7 +317,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" data-md-state="indeterminate" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
       
       
       
@@ -343,7 +363,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_2" data-md-state="indeterminate" type="checkbox" id="__nav_2_2" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_2_2" type="checkbox" id="__nav_2_2" checked>
       
       
       
@@ -468,7 +488,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" data-md-state="indeterminate" type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
       
       
       
@@ -522,7 +542,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" data-md-state="indeterminate" type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
       
       
       
@@ -755,7 +775,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_5" data-md-state="indeterminate" type="checkbox" id="__nav_5_5" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_5_5" type="checkbox" id="__nav_5_5" checked>
       
       
       
@@ -822,7 +842,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_6" data-md-state="indeterminate" type="checkbox" id="__nav_5_6" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_5_6" type="checkbox" id="__nav_5_6" checked>
       
       
       
@@ -883,7 +903,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" data-md-state="indeterminate" type="checkbox" id="__nav_6" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
       
       
       
@@ -937,7 +957,7 @@
     <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" data-md-state="indeterminate" type="checkbox" id="__nav_7" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" checked>
       
       
       
@@ -973,7 +993,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_1" data-md-state="indeterminate" type="checkbox" id="__nav_7_1" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" checked>
       
       
       
@@ -1072,7 +1092,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_2" data-md-state="indeterminate" type="checkbox" id="__nav_7_2" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_7_2" type="checkbox" id="__nav_7_2" checked>
       
       
       
@@ -1187,7 +1207,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_3" data-md-state="indeterminate" type="checkbox" id="__nav_7_3" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_7_3" type="checkbox" id="__nav_7_3" checked>
       
       
       
@@ -1286,7 +1306,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_4" data-md-state="indeterminate" type="checkbox" id="__nav_7_4" checked>
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_7_4" type="checkbox" id="__nav_7_4" checked>
       
       
       
@@ -1376,13 +1396,14 @@
               </div>
             
           
-          <div class="md-content" data-md-component="content">
-            <article class="md-content__inner md-typeset">
-              
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
                 
-<a href="https://github.com/doughahn/unofficial-opf-guides/edit/master/docs/online-gaming/pbp/avatar-inventory.md" title="Edit this page" class="md-content__button md-icon">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
-</a>
+                  
+
+  
+  
 
 
 
@@ -1390,418 +1411,391 @@
 <p>Below are screen captures of every page on the Paizo avatar selection area. Find an image you like and note the page number that it's on. Then navigate to the site and go directly to that page number without applying any filters. Your image will be there. </p>
 <h3 id="page-1">Page 1<a class="headerlink" href="#page-1" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/01.jpg" href="#"><img alt="Avatars Page 01" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/01.jpg" /></a></p>
+<p><img alt="Avatars Page 01" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/01.jpg" /></p>
 <figcaption>Page 01</figcaption>
 </figure>
 <h3 id="page-2">Page 2<a class="headerlink" href="#page-2" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/02.jpg" href="#"><img alt="Avatars Page 02" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/02.jpg" /></a></p>
+<p><img alt="Avatars Page 02" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/02.jpg" /></p>
 <figcaption>Page 02</figcaption>
 </figure>
 <h3 id="page-3">Page 3<a class="headerlink" href="#page-3" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/03.jpg" href="#"><img alt="Avatars Page 03" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/03.jpg" /></a></p>
+<p><img alt="Avatars Page 03" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/03.jpg" /></p>
 <figcaption>Page 03</figcaption>
 </figure>
 <h3 id="page-4">Page 4<a class="headerlink" href="#page-4" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/04.jpg" href="#"><img alt="Avatars Page 04" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/04.jpg" /></a></p>
+<p><img alt="Avatars Page 04" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/04.jpg" /></p>
 <figcaption>Page 04</figcaption>
 </figure>
 <h3 id="page-5">Page 5<a class="headerlink" href="#page-5" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/05.jpg" href="#"><img alt="Avatars Page 05" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/05.jpg" /></a></p>
+<p><img alt="Avatars Page 05" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/05.jpg" /></p>
 <figcaption>Page 05</figcaption>
 </figure>
 <h3 id="page-6">Page 6<a class="headerlink" href="#page-6" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/06.jpg" href="#"><img alt="Avatars Page 06" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/06.jpg" /></a></p>
+<p><img alt="Avatars Page 06" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/06.jpg" /></p>
 <figcaption>Page 06</figcaption>
 </figure>
 <h3 id="page-7">Page 7<a class="headerlink" href="#page-7" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/07.jpg" href="#"><img alt="Avatars Page 07" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/07.jpg" /></a></p>
+<p><img alt="Avatars Page 07" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/07.jpg" /></p>
 <figcaption>Page 07</figcaption>
 </figure>
 <h3 id="page-8">Page 8<a class="headerlink" href="#page-8" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/08.jpg" href="#"><img alt="Avatars Page 08" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/08.jpg" /></a></p>
+<p><img alt="Avatars Page 08" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/08.jpg" /></p>
 <figcaption>Page 08</figcaption>
 </figure>
 <h3 id="page-9">Page 9<a class="headerlink" href="#page-9" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/09.jpg" href="#"><img alt="Avatars Page 09" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/09.jpg" /></a></p>
+<p><img alt="Avatars Page 09" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/09.jpg" /></p>
 <figcaption>Page 09</figcaption>
 </figure>
 <h3 id="page-10">Page 10<a class="headerlink" href="#page-10" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/10.jpg" href="#"><img alt="Avatars Page 10" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/10.jpg" /></a></p>
+<p><img alt="Avatars Page 10" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/10.jpg" /></p>
 <figcaption>Page 10</figcaption>
 </figure>
 <h3 id="page-11">Page 11<a class="headerlink" href="#page-11" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/11.jpg" href="#"><img alt="Avatars Page 11" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/11.jpg" /></a></p>
+<p><img alt="Avatars Page 11" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/11.jpg" /></p>
 <figcaption>Page 11</figcaption>
 </figure>
 <h3 id="page-12">Page 12<a class="headerlink" href="#page-12" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/12.jpg" href="#"><img alt="Avatars Page 12" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/12.jpg" /></a></p>
+<p><img alt="Avatars Page 12" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/12.jpg" /></p>
 <figcaption>Page 12</figcaption>
 </figure>
 <h3 id="page-13">Page 13<a class="headerlink" href="#page-13" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/13.jpg" href="#"><img alt="Avatars Page 13" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/13.jpg" /></a></p>
+<p><img alt="Avatars Page 13" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/13.jpg" /></p>
 <figcaption>Page 13</figcaption>
 </figure>
 <h3 id="page-14">Page 14<a class="headerlink" href="#page-14" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/14.jpg" href="#"><img alt="Avatars Page 14" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/14.jpg" /></a></p>
+<p><img alt="Avatars Page 14" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/14.jpg" /></p>
 <figcaption>Page 14</figcaption>
 </figure>
 <h3 id="page-15">Page 15<a class="headerlink" href="#page-15" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/15.jpg" href="#"><img alt="Avatars Page 15" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/15.jpg" /></a></p>
+<p><img alt="Avatars Page 15" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/15.jpg" /></p>
 <figcaption>Page 15</figcaption>
 </figure>
 <h3 id="page-16">Page 16<a class="headerlink" href="#page-16" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/16.jpg" href="#"><img alt="Avatars Page 16" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/16.jpg" /></a></p>
+<p><img alt="Avatars Page 16" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/16.jpg" /></p>
 <figcaption>Page 16</figcaption>
 </figure>
 <h3 id="page-17">Page 17<a class="headerlink" href="#page-17" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/17.jpg" href="#"><img alt="Avatars Page 17" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/17.jpg" /></a></p>
+<p><img alt="Avatars Page 17" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/17.jpg" /></p>
 <figcaption>Page 17</figcaption>
 </figure>
 <h3 id="page-18">Page 18<a class="headerlink" href="#page-18" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/18.jpg" href="#"><img alt="Avatars Page 18" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/18.jpg" /></a></p>
+<p><img alt="Avatars Page 18" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/18.jpg" /></p>
 <figcaption>Page 18</figcaption>
 </figure>
 <h3 id="page-19">Page 19<a class="headerlink" href="#page-19" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/19.jpg" href="#"><img alt="Avatars Page 19" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/19.jpg" /></a></p>
+<p><img alt="Avatars Page 19" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/19.jpg" /></p>
 <figcaption>Page 19</figcaption>
 </figure>
 <h3 id="page-20">Page 20<a class="headerlink" href="#page-20" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/20.jpg" href="#"><img alt="Avatars Page 20" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/20.jpg" /></a></p>
+<p><img alt="Avatars Page 20" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/20.jpg" /></p>
 <figcaption>Page 20</figcaption>
 </figure>
 <h3 id="page-21">Page 21<a class="headerlink" href="#page-21" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/21.jpg" href="#"><img alt="Avatars Page 21" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/21.jpg" /></a></p>
+<p><img alt="Avatars Page 21" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/21.jpg" /></p>
 <figcaption>Page 21</figcaption>
 </figure>
 <h3 id="page-22">Page 22<a class="headerlink" href="#page-22" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/22.jpg" href="#"><img alt="Avatars Page 22" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/22.jpg" /></a></p>
+<p><img alt="Avatars Page 22" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/22.jpg" /></p>
 <figcaption>Page 22</figcaption>
 </figure>
 <h3 id="page-23">Page 23<a class="headerlink" href="#page-23" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/23.jpg" href="#"><img alt="Avatars Page 23" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/23.jpg" /></a></p>
+<p><img alt="Avatars Page 23" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/23.jpg" /></p>
 <figcaption>Page 23</figcaption>
 </figure>
 <h3 id="page-24">Page 24<a class="headerlink" href="#page-24" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/24.jpg" href="#"><img alt="Avatars Page 24" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/24.jpg" /></a></p>
+<p><img alt="Avatars Page 24" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/24.jpg" /></p>
 <figcaption>Page 24</figcaption>
 </figure>
 <h3 id="page-25">Page 25<a class="headerlink" href="#page-25" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/25.jpg" href="#"><img alt="Avatars Page 25" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/25.jpg" /></a></p>
+<p><img alt="Avatars Page 25" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/25.jpg" /></p>
 <figcaption>Page 25</figcaption>
 </figure>
 <h3 id="page-26">Page 26<a class="headerlink" href="#page-26" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/26.jpg" href="#"><img alt="Avatars Page 26" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/26.jpg" /></a></p>
+<p><img alt="Avatars Page 26" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/26.jpg" /></p>
 <figcaption>Page 26</figcaption>
 </figure>
 <h3 id="page-27">Page 27<a class="headerlink" href="#page-27" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/27.jpg" href="#"><img alt="Avatars Page 27" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/27.jpg" /></a></p>
+<p><img alt="Avatars Page 27" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/27.jpg" /></p>
 <figcaption>Page 27</figcaption>
 </figure>
 <h3 id="page-28">Page 28<a class="headerlink" href="#page-28" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/28.jpg" href="#"><img alt="Avatars Page 28" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/28.jpg" /></a></p>
+<p><img alt="Avatars Page 28" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/28.jpg" /></p>
 <figcaption>Page 28</figcaption>
 </figure>
 <h3 id="page-29">Page 29<a class="headerlink" href="#page-29" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/29.jpg" href="#"><img alt="Avatars Page 29" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/29.jpg" /></a></p>
+<p><img alt="Avatars Page 29" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/29.jpg" /></p>
 <figcaption>Page 29</figcaption>
 </figure>
 <h3 id="page-30">Page 30<a class="headerlink" href="#page-30" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/30.jpg" href="#"><img alt="Avatars Page 30" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/30.jpg" /></a></p>
+<p><img alt="Avatars Page 30" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/30.jpg" /></p>
 <figcaption>Page 30</figcaption>
 </figure>
 <h3 id="page-31">Page 31<a class="headerlink" href="#page-31" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/31.jpg" href="#"><img alt="Avatars Page 31" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/31.jpg" /></a></p>
+<p><img alt="Avatars Page 31" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/31.jpg" /></p>
 <figcaption>Page 31</figcaption>
 </figure>
 <h3 id="page-32">Page 32<a class="headerlink" href="#page-32" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/32.jpg" href="#"><img alt="Avatars Page 32" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/32.jpg" /></a></p>
+<p><img alt="Avatars Page 32" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/32.jpg" /></p>
 <figcaption>Page 32</figcaption>
 </figure>
 <h3 id="page-33">Page 33<a class="headerlink" href="#page-33" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/33.jpg" href="#"><img alt="Avatars Page 33" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/33.jpg" /></a></p>
+<p><img alt="Avatars Page 33" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/33.jpg" /></p>
 <figcaption>Page 33</figcaption>
 </figure>
 <h3 id="page-34">Page 34<a class="headerlink" href="#page-34" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/34.jpg" href="#"><img alt="Avatars Page 34" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/34.jpg" /></a></p>
+<p><img alt="Avatars Page 34" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/34.jpg" /></p>
 <figcaption>Page 34</figcaption>
 </figure>
 <h3 id="page-35">Page 35<a class="headerlink" href="#page-35" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/35.jpg" href="#"><img alt="Avatars Page 35" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/35.jpg" /></a></p>
+<p><img alt="Avatars Page 35" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/35.jpg" /></p>
 <figcaption>Page 35</figcaption>
 </figure>
 <h3 id="page-36">Page 36<a class="headerlink" href="#page-36" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/36.jpg" href="#"><img alt="Avatars Page 36" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/36.jpg" /></a></p>
+<p><img alt="Avatars Page 36" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/36.jpg" /></p>
 <figcaption>Page 36</figcaption>
 </figure>
 <h3 id="page-37">Page 37<a class="headerlink" href="#page-37" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/37.jpg" href="#"><img alt="Avatars Page 37" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/37.jpg" /></a></p>
+<p><img alt="Avatars Page 37" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/37.jpg" /></p>
 <figcaption>Page 37</figcaption>
 </figure>
 <h3 id="page-38">Page 38<a class="headerlink" href="#page-38" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/38.jpg" href="#"><img alt="Avatars Page 38" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/38.jpg" /></a></p>
+<p><img alt="Avatars Page 38" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/38.jpg" /></p>
 <figcaption>Page 38</figcaption>
 </figure>
 <h3 id="page-39">Page 39<a class="headerlink" href="#page-39" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/39.jpg" href="#"><img alt="Avatars Page 39" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/39.jpg" /></a></p>
+<p><img alt="Avatars Page 39" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/39.jpg" /></p>
 <figcaption>Page 39</figcaption>
 </figure>
 <h3 id="page-40">Page 40<a class="headerlink" href="#page-40" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/40.jpg" href="#"><img alt="Avatars Page 40" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/40.jpg" /></a></p>
+<p><img alt="Avatars Page 40" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/40.jpg" /></p>
 <figcaption>Page 40</figcaption>
 </figure>
 <h3 id="page-41">Page 41<a class="headerlink" href="#page-41" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/41.jpg" href="#"><img alt="Avatars Page 41" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/41.jpg" /></a></p>
+<p><img alt="Avatars Page 41" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/41.jpg" /></p>
 <figcaption>Page 41</figcaption>
 </figure>
 <h3 id="page-42">Page 42<a class="headerlink" href="#page-42" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/42.jpg" href="#"><img alt="Avatars Page 42" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/42.jpg" /></a></p>
+<p><img alt="Avatars Page 42" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/42.jpg" /></p>
 <figcaption>Page 42</figcaption>
 </figure>
 <h3 id="page-43">Page 43<a class="headerlink" href="#page-43" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/43.jpg" href="#"><img alt="Avatars Page 43" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/43.jpg" /></a></p>
+<p><img alt="Avatars Page 43" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/43.jpg" /></p>
 <figcaption>Page 43</figcaption>
 </figure>
 <h3 id="page-44">Page 44<a class="headerlink" href="#page-44" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/44.jpg" href="#"><img alt="Avatars Page 44" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/44.jpg" /></a></p>
+<p><img alt="Avatars Page 44" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/44.jpg" /></p>
 <figcaption>Page 44</figcaption>
 </figure>
 <h3 id="page-45">Page 45<a class="headerlink" href="#page-45" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/45.jpg" href="#"><img alt="Avatars Page 45" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/45.jpg" /></a></p>
+<p><img alt="Avatars Page 45" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/45.jpg" /></p>
 <figcaption>Page 45</figcaption>
 </figure>
 <h3 id="page-46">Page 46<a class="headerlink" href="#page-46" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/46.jpg" href="#"><img alt="Avatars Page 46" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/46.jpg" /></a></p>
+<p><img alt="Avatars Page 46" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/46.jpg" /></p>
 <figcaption>Page 46</figcaption>
 </figure>
 <h3 id="page-47">Page 47<a class="headerlink" href="#page-47" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/47.jpg" href="#"><img alt="Avatars Page 47" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/47.jpg" /></a></p>
+<p><img alt="Avatars Page 47" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/47.jpg" /></p>
 <figcaption>Page 47</figcaption>
 </figure>
 <h3 id="page-48">Page 48<a class="headerlink" href="#page-48" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/48.jpg" href="#"><img alt="Avatars Page 48" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/48.jpg" /></a></p>
+<p><img alt="Avatars Page 48" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/48.jpg" /></p>
 <figcaption>Page 48</figcaption>
 </figure>
 <h3 id="page-49">Page 49<a class="headerlink" href="#page-49" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/49.jpg" href="#"><img alt="Avatars Page 49" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/49.jpg" /></a></p>
+<p><img alt="Avatars Page 49" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/49.jpg" /></p>
 <figcaption>Page 49</figcaption>
 </figure>
 <h3 id="page-50">Page 50<a class="headerlink" href="#page-50" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/50.jpg" href="#"><img alt="Avatars Page 50" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/50.jpg" /></a></p>
+<p><img alt="Avatars Page 50" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/50.jpg" /></p>
 <figcaption>Page 50</figcaption>
 </figure>
 <h3 id="page-51">Page 51<a class="headerlink" href="#page-51" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/51.jpg" href="#"><img alt="Avatars Page 51" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/51.jpg" /></a></p>
+<p><img alt="Avatars Page 51" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/51.jpg" /></p>
 <figcaption>Page 51</figcaption>
 </figure>
 <h3 id="page-52">Page 52<a class="headerlink" href="#page-52" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/52.jpg" href="#"><img alt="Avatars Page 52" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/52.jpg" /></a></p>
+<p><img alt="Avatars Page 52" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/52.jpg" /></p>
 <figcaption>Page 52</figcaption>
 </figure>
 <h3 id="page-53">Page 53<a class="headerlink" href="#page-53" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/53.jpg" href="#"><img alt="Avatars Page 53" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/53.jpg" /></a></p>
+<p><img alt="Avatars Page 53" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/53.jpg" /></p>
 <figcaption>Page 53</figcaption>
 </figure>
 <h3 id="page-54">Page 54<a class="headerlink" href="#page-54" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/54.jpg" href="#"><img alt="Avatars Page 54" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/54.jpg" /></a></p>
+<p><img alt="Avatars Page 54" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/54.jpg" /></p>
 <figcaption>Page 54</figcaption>
 </figure>
 <h3 id="page-55">Page 55<a class="headerlink" href="#page-55" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/55.jpg" href="#"><img alt="Avatars Page 55" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/55.jpg" /></a></p>
+<p><img alt="Avatars Page 55" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/55.jpg" /></p>
 <figcaption>Page 55</figcaption>
 </figure>
 <h3 id="page-56">Page 56<a class="headerlink" href="#page-56" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/56.jpg" href="#"><img alt="Avatars Page 56" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/56.jpg" /></a></p>
+<p><img alt="Avatars Page 56" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/56.jpg" /></p>
 <figcaption>Page 56</figcaption>
 </figure>
 <h3 id="page-57">Page 57<a class="headerlink" href="#page-57" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/57.jpg" href="#"><img alt="Avatars Page 57" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/57.jpg" /></a></p>
+<p><img alt="Avatars Page 57" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/57.jpg" /></p>
 <figcaption>Page 57</figcaption>
 </figure>
 <h3 id="page-58">Page 58<a class="headerlink" href="#page-58" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/58.jpg" href="#"><img alt="Avatars Page 58" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/58.jpg" /></a></p>
+<p><img alt="Avatars Page 58" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/58.jpg" /></p>
 <figcaption>Page 58</figcaption>
 </figure>
 <h3 id="page-59">Page 59<a class="headerlink" href="#page-59" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/59.jpg" href="#"><img alt="Avatars Page 59" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/59.jpg" /></a></p>
+<p><img alt="Avatars Page 59" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/59.jpg" /></p>
 <figcaption>Page 59</figcaption>
 </figure>
 <h3 id="page-60">Page 60<a class="headerlink" href="#page-60" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/60.jpg" href="#"><img alt="Avatars Page 60" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/60.jpg" /></a></p>
+<p><img alt="Avatars Page 60" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/60.jpg" /></p>
 <figcaption>Page 60</figcaption>
 </figure>
 <h3 id="page-61">Page 61<a class="headerlink" href="#page-61" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/61.jpg" href="#"><img alt="Avatars Page 61" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/61.jpg" /></a></p>
+<p><img alt="Avatars Page 61" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/61.jpg" /></p>
 <figcaption>Page 61</figcaption>
 </figure>
 <h3 id="page-62">Page 62<a class="headerlink" href="#page-62" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/62.jpg" href="#"><img alt="Avatars Page 62" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/62.jpg" /></a></p>
+<p><img alt="Avatars Page 62" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/62.jpg" /></p>
 <figcaption>Page 62</figcaption>
 </figure>
 <h3 id="page-63">Page 63<a class="headerlink" href="#page-63" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/63.jpg" href="#"><img alt="Avatars Page 63" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/63.jpg" /></a></p>
+<p><img alt="Avatars Page 63" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/63.jpg" /></p>
 <figcaption>Page 63</figcaption>
 </figure>
 <h3 id="page-64">Page 64<a class="headerlink" href="#page-64" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/64.jpg" href="#"><img alt="Avatars Page 64" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/64.jpg" /></a></p>
+<p><img alt="Avatars Page 64" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/64.jpg" /></p>
 <figcaption>Page 64</figcaption>
 </figure>
 <h3 id="page-65">Page 65<a class="headerlink" href="#page-65" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/65.jpg" href="#"><img alt="Avatars Page 65" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/65.jpg" /></a></p>
+<p><img alt="Avatars Page 65" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/65.jpg" /></p>
 <figcaption>Page 65</figcaption>
 </figure>
 <h3 id="page-66">Page 66<a class="headerlink" href="#page-66" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/66.jpg" href="#"><img alt="Avatars Page 66" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/66.jpg" /></a></p>
+<p><img alt="Avatars Page 66" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/66.jpg" /></p>
 <figcaption>Page 66</figcaption>
 </figure>
 <h3 id="page-67">Page 67<a class="headerlink" href="#page-67" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/67.jpg" href="#"><img alt="Avatars Page 67" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/67.jpg" /></a></p>
+<p><img alt="Avatars Page 67" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/67.jpg" /></p>
 <figcaption>Page 67</figcaption>
 </figure>
 <h3 id="page-68">Page 68<a class="headerlink" href="#page-68" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/68.jpg" href="#"><img alt="Avatars Page 68" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/68.jpg" /></a></p>
+<p><img alt="Avatars Page 68" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/68.jpg" /></p>
 <figcaption>Page 68</figcaption>
 </figure>
 <h3 id="page-69">Page 69<a class="headerlink" href="#page-69" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/69.jpg" href="#"><img alt="Avatars Page 69" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/69.jpg" /></a></p>
+<p><img alt="Avatars Page 69" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/69.jpg" /></p>
 <figcaption>Page 69</figcaption>
 </figure>
 <h3 id="page-70">Page 70<a class="headerlink" href="#page-70" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/70.jpg" href="#"><img alt="Avatars Page 70" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/70.jpg" /></a></p>
+<p><img alt="Avatars Page 70" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/70.jpg" /></p>
 <figcaption>Page 70</figcaption>
 </figure>
 <h3 id="page-71">Page 71<a class="headerlink" href="#page-71" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/71.jpg" href="#"><img alt="Avatars Page 71" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/71.jpg" /></a></p>
+<p><img alt="Avatars Page 71" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/71.jpg" /></p>
 <figcaption>Page 71</figcaption>
 </figure>
 <h3 id="page-72">Page 72<a class="headerlink" href="#page-72" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/72.jpg" href="#"><img alt="Avatars Page 72" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/72.jpg" /></a></p>
+<p><img alt="Avatars Page 72" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/72.jpg" /></p>
 <figcaption>Page 72</figcaption>
 </figure>
 <h3 id="page-73">Page 73<a class="headerlink" href="#page-73" title="Permanent link">⚑</a></h3>
 <figure>
-<p><a data-featherlight="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/73.jpg" href="#"><img alt="Avatars Page 73" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/73.jpg" /></a></p>
+<p><img alt="Avatars Page 73" loading="lazy" src="https://gmdoug.sfo3.digitaloceanspaces.com/Avatars/73.jpg" /></p>
 <figcaption>Page 73</figcaption>
 </figure>
 
-              
-            </article>
-          </div>
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
         </div>
         
-          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
             Back to top
           </a>
         
       </main>
       
         <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
-      
-        
-        <a href="../play-by-post/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Paizo Play by Post" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Paizo Play by Post
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../../roll20/roll20-basics/" class="md-footer__link md-footer__link--next" aria-label="Next: Free account macros" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Free account macros
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
@@ -1827,10 +1821,13 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.top", "toc.follow", "navigation.sections", "navigation.expand", "content.tabs.link", "navigation.indexes"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../assets/javascripts/workers/search.bd0b6b67.min.js", "version": {"provider": "mike"}}</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.top", "toc.follow", "navigation.sections", "navigation.expand", "content.tabs.link", "navigation.indexes"], "search": "../../../assets/javascripts/workers/search.12658920.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.5413a266.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.5cf534bf.min.js"></script>
+      
+        <script src="../../../js/print-site.js"></script>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
       

@@ -105,14 +105,14 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - featherlight
+  # - featherlight
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true 
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       toc_depth: 2
       permalink: 6
@@ -138,4 +138,6 @@ plugins:
         'advanced-macros.md': 'online-gaming/roll20/advanced-macros.md'
         'foundry-basics.md': 'online-gaming/foundry/foundry-basics.md'
         'play-by-post.md': 'online-gaming/pbp/play-by-post.md'
+        'organized-play/2e-FAQ.md': 'second-edition/2e-FAQ.md'
+  - print-site
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'

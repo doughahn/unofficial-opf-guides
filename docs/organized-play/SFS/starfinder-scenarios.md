@@ -1,4 +1,4 @@
-#### Starfinder Scenarios
+# Starfinder Scenarios
 
 Below is a sortable table of published Starfinder scenarios. Hover over a column heading to sort ascending or descending. 
 

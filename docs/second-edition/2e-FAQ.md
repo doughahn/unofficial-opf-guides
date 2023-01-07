@@ -2,48 +2,48 @@
 
 ## Pathfinder Core Rulebook Errata Part 1
 
-###  Updated Terminology
+### Updated Terminology
 
 Several ability names changed slightly between the Pathfinder Playtest and the final Pathfinder Core Rulebook, and while we tried to catch them all, we missed a few. Make the changes as noted below.
 
 
-### Page 57: Adaptive Adept
+#### Page 57: Adaptive Adept
 **Adaptive Adept**: Change “Adapted Spell” to “Adapted Cantrip”
 
-### Page 62: Field medic background 
+#### Page 62: Field medic background 
 **Field medic background**: Change “Battle Medic” to “Battle Medicine”
 
-### Page 75: Perpetual Infusions
+#### Page 75: Perpetual Infusions
 **Perpetual infusions (bomber option)**: Change “lesser liquid ice” to “lesser frost vial”
 
-### Page 91 Thrash
+#### Page 91 Thrash
 **Thrash**: Change “ferocious specialization” to “weapon specialization”
 
-### Page 115: Instrument of Zeal
+#### Page 115: Instrument of Zeal
 **Instrument of Zeal**: Change “Smite Evil” to “Blade of Justice”
 
-### Page 139: Primal Wellspring
+#### Page 139: Primal Wellspring
 **Primal Wellspring**: Change “Wild Focus” to “Primal Focus”
 
-### Page 156: Mystic Strikes
+#### Page 156: Mystic Strikes
 **Mystic strikes class feature**: Change “handwraps of mighty fists” to “handwraps of mighty blows”
 
-### Page 168: class features
+#### Page 168: class features
 **Class features**: Change “weapon expertise (ranger only)” to “ranger weapon expertise”
 
-### Page 198 (undead bloodline“touch of undeath), Page 405: 
+#### Page 198 (undead bloodline“touch of undeath), Page 405: 
 Change “touch of undeath (sorcerer)” to “undeath’s blessing”
 
-### Page 206 sidebar, Page 349: magic aura
+#### Page 206 sidebar, Page 349: magic aura
 **Magic aura**: Change “study aura” to “read aura”
 
-### Page 212: Clever Counterspell
+#### Page 212: Clever Counterspell
 **Clever Counterspell**: Change “Quick Recognize” to “Quick Recognition”
 
-### Page 397: Splash of art
+#### Page 397: Splash of art
 **Splash of art**: Change “sluggish” to “clumsy”
 
-### Page 594: Greater Staff of Necromancy
+#### Page 594: Greater Staff of Necromancy
 ***Greater staff of necromancy*** (4th level): Change “enervation” to “vampiric touch”
 
 ### Page 35 sidebar: Clan Dagger 
@@ -1095,7 +1095,7 @@ and add the bullet point
 
 Remove "Administer First Aid" as an example of assisted recovery, as it's a separate action. 
 
-## Pathfinder Core Rulebook Errata (Part 2)
+## Pathfinder Core Rulebook Errata Part 2
 
 ### Page 71: Alchemists Armor Proficiency
 Alchemists should have proficiency in medium armor to make things easier for mutagenists who pursue higher Strength and lower Dexterity. Add training in medium armor to their initial proficiencies as well as to their 13th and 19th level armor expertise and mastery class features.
@@ -1417,7 +1417,7 @@ Multiple rules that should work with both plants and fungi currently work with o
 - **Commune with Nature (Page 410)**: They know about fungi too.
 - **Verdant Staff (Page 595)**: It helps you identify fungi too. We’ve also changed it from Nature checks to checks in general, so you can use it with relevant Lore skills, such as Herbalism Lore.
 
-#### Page 72Quick Alchemy
+### Page 72 Quick Alchemy
 
 Change Quick Alchemy’s text to say 
 
@@ -2092,10 +2092,10 @@ A number of backgrounds are granting training in the incorrect skills or inappro
 
 #### Page(s) and location, followed by change
 
-##### Page 22: 
+#### Page 22: 
 Grand Council Bureaucrat: Change "Society" to "Diplomacy" 
 
-##### Page 46: 
+#### Page 46: 
 Nirmathi Guerilla: Change "Survival" to "Stealth" 
 
 ### Page 17: archaic wayfinder
@@ -2244,3 +2244,8 @@ The feats granting spellcasting benefits in the psychic multiclass archetype hav
 - First, Master Psychic Spellcasting should be an 18th-level feat, rather than a 12th-level feat. 
 - Second, Expert Psychic Spellcasting should have a Prerequisite listing of “Basic Psychic Spellcasting, master in Occultism” and Master Psychic Spellcasting should have a Prerequisite listing of “Expert Psychic Spellcasting, legendary in Occultism.”
 
+## PDF & Doc of FaQ/Errata
+
+[PDF of FaQ/Errata](https://gmdoug.sfo3.cdn.digitaloceanspaces.com/2E-FaQErrata.pdf){ .md-button }
+
+[Word doc of FaQ/Errata](https://gmdoug.sfo3.cdn.digitaloceanspaces.com/2E-FaQErrata.docx){ .md-button }
