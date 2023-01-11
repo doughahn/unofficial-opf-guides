@@ -2,7 +2,7 @@
 
 /* Set a off-white for the body bg on default light theme */
 body[data-md-color-scheme="default"] {
-  background: #fcfcfc;
+  
 }
 
 /*move the header flush left against logo div*/
