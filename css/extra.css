@@ -81,11 +81,12 @@ blockquote {
 /*Body text links*/
 
 .md-content__inner a {
-  color: var(--md-accent-fg-color);
+  color: #3700B3;
   transition-duration: 100ms;
 }
 
 .md-content__inner a:hover {
+  color: #3700B3;
   text-decoration: underline;
 }
 
