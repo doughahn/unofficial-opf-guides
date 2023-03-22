@@ -172,6 +172,10 @@ th, td {
     background-color: hsla(var(--md-hue),25%,25%,1)
 }
 
+[data-md-color-scheme="slate"] .md-content__inner a {
+  color:#F0F8FE;
+}
+
 /*sortable tables*/
 
 [dir=ltr] .md-typeset table th[role=columnheader]:after {
