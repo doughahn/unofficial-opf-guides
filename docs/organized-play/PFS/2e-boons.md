@@ -11,7 +11,6 @@ Each ancestry is listed, along with the AcP Cost:
 - [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15): 40 AcP
 - [Hobgoblin](https://2e.aonprd.com/Ancestries.aspx?ID=13): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
 - [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
-- [Orc](https://2e.aonprd.com/Ancestries.aspx?ID=19): 80 AcP
 - [Ratfolk](https://2e.aonprd.com/Ancestries.aspx?ID=20): 80 AcP
 - [Tengu](https://2e.aonprd.com/Ancestries.aspx?ID=21): 80 AcP
 - [Shoony](https://2e.aonprd.com/Ancestries.aspx?ID=16): 160 AcP (Discounted to 80 with a certain AP credit)
@@ -474,6 +473,213 @@ Select an uncommon item from a curated list of Pathfinder Dark Archive options; 
 - [conrasu coin](https://2e.aonprd.com/Equipment.aspx?ID=1639)
 
 **Cost** 20 AcP
+
+### Treasure Vault Boons
+
+Each boon grants one item of your choice from the available list. The boons may be purchased multiple times to unlock access to multiple items.
+
+The items available with these boons are as follows:
+
+#### Armor & Armaments
+
+Select an uncommon item from a curated list of Treasure Vault options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase. **Cost: 20 AcP.**
+
+Armor adjustment:
+
+- [weapon harness](https://2e.aonprd.com/Equipment.aspx?ID=1826)
+
+Armor rune:
+
+- [immovable](https://2e.aonprd.com/Equipment.aspx?ID=1832)
+
+Magic armors:
+
+- [bastion of the Inheritor](https://2e.aonprd.com/Equipment.aspx?ID=1841)
+- [rusting carapace](https://2e.aonprd.com/Equipment.aspx?ID=1853)
+
+Magic shield:
+
+- [starfall shield](https://2e.aonprd.com/Equipment.aspx?ID=1861)
+
+Melee weapons:
+
+- [bladed scarf](https://2e.aonprd.com/Weapons.aspx?ID=91)
+- [breaching pike](https://2e.aonprd.com/Weapons.aspx?ID=274)
+- [combat lure](https://2e.aonprd.com/Weapons.aspx?ID=277)
+- [fighting fan](https://2e.aonprd.com/Weapons.aspx?ID=93)
+- [jiu huan dao](https://2e.aonprd.com/Weapons.aspx?ID=288)
+- [khopesh](https://2e.aonprd.com/Weapons.aspx?ID=94)
+- [kusarigama](https://2e.aonprd.com/Weapons.aspx?ID=165)
+- [leiomano](https://2e.aonprd.com/Weapons.aspx?ID=166)
+- [mambele](https://2e.aonprd.com/Weapons.aspx?ID=96)
+- [naginata](https://2e.aonprd.com/Weapons.aspx?ID=98)
+- [polytool](https://2e.aonprd.com/Weapons.aspx?ID=100)
+- [rope dart](https://2e.aonprd.com/Weapons.aspx?ID=301)
+- [sansetsukon](https://2e.aonprd.com/Weapons.aspx?ID=302)
+- [tekko-kagi](https://2e.aonprd.com/Weapons.aspx?ID=101)
+- [urumi](https://2e.aonprd.com/Weapons.aspx?ID=102)
+- [whipstaff](https://2e.aonprd.com/Weapons.aspx?ID=308)
+- [butterfly sword](https://2e.aonprd.com/Weapons.aspx?ID=162)
+- [chain sword](https://2e.aonprd.com/Weapons.aspx?ID=276)
+- [dwarven dorn-dergar](https://2e.aonprd.com/Weapons.aspx?ID=280)
+- [feng huo lun](https://2e.aonprd.com/Weapons.aspx?ID=283)
+- [hook sword](https://2e.aonprd.com/Weapons.aspx?ID=163)
+- [karambit](https://2e.aonprd.com/Weapons.aspx?ID=164)
+- [three-section naginata](https://2e.aonprd.com/Weapons.aspx?ID=305)
+
+Ranged weapons:
+
+- [boomerang](https://2e.aonprd.com/Weapons.aspx?ID=332)
+- [chakri](https://2e.aonprd.com/Weapons.aspx?ID=270)
+- [spraysling](https://2e.aonprd.com/Weapons.aspx?ID=340)
+- [thunder sling](https://2e.aonprd.com/Weapons.aspx?ID=147)
+- [barricade buster](https://2e.aonprd.com/Weapons.aspx?ID=330)
+- [taw launcher](https://2e.aonprd.com/Weapons.aspx?ID=146)
+
+Coordinating gear:
+
+- [grounding spike](https://2e.aonprd.com/Equipment.aspx?ID=1874)
+- [polarizing mace](https://2e.aonprd.com/Equipment.aspx?ID=1875)
+- [piston gauntlets](https://2e.aonprd.com/Equipment.aspx?ID=1872)
+- [windlass bolas](https://2e.aonprd.com/Equipment.aspx?ID=1873)
+- [rime foil](https://2e.aonprd.com/Equipment.aspx?ID=1876)
+- [shattered plan](https://2e.aonprd.com/Equipment.aspx?ID=1877)
+
+Celestial armory:
+
+- [blessed reformer](https://2e.aonprd.com/Equipment.aspx?ID=1878)
+- [stargazer](https://2e.aonprd.com/Equipment.aspx?ID=1880)
+
+Beast armament:
+
+- [algollthu lash](https://2e.aonprd.com/Equipment.aspx?ID=1881)
+- [alicorn lance](https://2e.aonprd.com/Equipment.aspx?ID=1882)
+
+#### Alchemy Unleashed
+
+Select an uncommon item from a curated list of Treasure Vault options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase. **Cost: 20 AcP.**
+
+Alchemical food:
+
+- [journeybread](https://2e.aonprd.com/Equipment.aspx?ID=1921)
+
+Bottled monstrosities:
+
+- [kraken bottle](https://2e.aonprd.com/Equipment.aspx?ID=1950)
+- [octopus bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952)
+- [worm vial](https://2e.aonprd.com/Equipment.aspx?ID=1955)
+
+Poisons:
+
+- [blue dragonfly poison](https://2e.aonprd.com/Equipment.aspx?ID=484)
+- [breathtaking vapor](https://2e.aonprd.com/Equipment.aspx?ID=1993)
+- [death knell powder](https://2e.aonprd.com/Equipment.aspx?ID=827)
+- [gorgon’s breath](https://2e.aonprd.com/Equipment.aspx?ID=554)
+- [liar’s demise](https://2e.aonprd.com/Equipment.aspx?ID=2006)
+- [looter’s lethargy](https://2e.aonprd.com/Equipment.aspx?ID=2007)
+- [sight-theft grit](https://2e.aonprd.com/Equipment.aspx?ID=833)
+- [stupor poison](https://2e.aonprd.com/Equipment.aspx?ID=939)
+- [violet venom](https://2e.aonprd.com/Equipment.aspx?ID=651)
+
+#### Momentary Magic
+
+Select an uncommon item from a curated list of Treasure Vault options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase. **Cost: 20 AcP.**
+
+Fulus:
+
+- [golden breath fulu](https://2e.aonprd.com/Equipment.aspx?ID=2036)
+- [mourner’s dawnlight fulu](https://2e.aonprd.com/Equipment.aspx?ID=2039)
+- [poracha fulu](https://2e.aonprd.com/Equipment.aspx?ID=2040)
+- [thousand-pains fulu](https://2e.aonprd.com/Equipment.aspx?ID=2044)
+
+Oils :
+
+- [bane oil](https://2e.aonprd.com/Equipment.aspx?ID=2068)
+- [disrupting oil](https://2e.aonprd.com/Equipment.aspx?ID=2069)
+- [fundamental oil](https://2e.aonprd.com/Equipment.aspx?ID=2069)
+- [life-boosting oil](https://2e.aonprd.com/Equipment.aspx?ID=2071)
+- [oil of swiftness](https://2e.aonprd.com/Equipment.aspx?ID=2075)
+- [wounding oil](https://2e.aonprd.com/Equipment.aspx?ID=2078)
+
+Potions:
+
+- [elysian dew](https://2e.aonprd.com/Equipment.aspx?ID=2082)
+- [faerie dragon liqueur](https://2e.aonprd.com/Equipment.aspx?ID=2085)
+
+Talismans:
+
+- [amnemonic charm](https://2e.aonprd.com/Equipment.aspx?ID=2096)
+- [grinning pugwampi](https://2e.aonprd.com/Equipment.aspx?ID=544)
+- [hungering maw](https://2e.aonprd.com/Equipment.aspx?ID=2109)
+- [reflecting shard](https://2e.aonprd.com/Equipment.aspx?ID=2111)
+- [marvelous pigment](https://2e.aonprd.com/Equipment.aspx?ID=2120)
+- [talespinner’s lyre](https://2e.aonprd.com/Equipment.aspx?ID=2127)
+
+Wondrous consumables:
+
+- [marvelous pigment](https://2e.aonprd.com/Equipment.aspx?ID=2120)
+- [talespinner’s lyre](https://2e.aonprd.com/Equipment.aspx?ID=2127)
+
+#### Trappings of Power
+
+Select an uncommon item from a curated list of Treasure Vault options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase. **Cost: 20 AcP.**
+
+Assistive items:
+
+- [empathy charm](https://2e.aonprd.com/Equipment.aspx?ID=2151)
+- [bootstrap respirator](https://2e.aonprd.com/Equipment.aspx?ID=2153)
+- [falconsight eye](https://2e.aonprd.com/Equipment.aspx?ID=2157)
+- [aether appendage](https://2e.aonprd.com/Equipment.aspx?ID=2160)
+- [spring heel](https://2e.aonprd.com/Equipment.aspx?ID=2161)
+- [confabulator](https://2e.aonprd.com/Equipment.aspx?ID=2166)
+- [tremorsensors](https://2e.aonprd.com/Equipment.aspx?ID=2168)
+
+Grimoires:
+
+- [amazing pop-up book](https://2e.aonprd.com/Equipment.aspx?ID=2170)
+- [architect’s pattern book](https://2e.aonprd.com/Equipment.aspx?ID=2171)
+- [harrow spellcards](https://2e.aonprd.com/Equipment.aspx?ID=2178)
+
+Held items:
+
+- [anchor of aquatic exploration](https://2e.aonprd.com/Equipment.aspx?ID=2186)
+- [portable hole](https://2e.aonprd.com/Equipment.aspx?ID=2195)
+- [voice from the grave](https://2e.aonprd.com/Equipment.aspx?ID=2200)
+
+Magical tattoos:
+
+- [bound guardian](https://2e.aonprd.com/Equipment.aspx?ID=2205)
+- [homeward swallow](https://2e.aonprd.com/Equipment.aspx?ID=2209)
+
+Staves:
+
+- [guardian staff](https://2e.aonprd.com/Equipment.aspx?ID=2252)
+- [spy staff](https://2e.aonprd.com/Equipment.aspx?ID=2259)
+
+Coda instruments:
+
+- [pipes of compulsion](https://2e.aonprd.com/Equipment.aspx?ID=2269)
+- [seer’s flute](https://2e.aonprd.com/Equipment.aspx?ID=2270)
+
+Wands:
+
+- [wand of hybrid form](https://2e.aonprd.com/Equipment.aspx?ID=2280)
+- [wand of refracting rays](https://2e.aonprd.com/Equipment.aspx?ID=2288)
+- [wand of teeming ghosts](https://2e.aonprd.com/Equipment.aspx?ID=795)
+- [wand of traitorous thoughts](https://2e.aonprd.com/Equipment.aspx?ID=2297)
+
+Worn items:
+
+- [clockwork cloak](https://2e.aonprd.com/Equipment.aspx?ID=893)
+- [crown of the companion](https://2e.aonprd.com/Equipment.aspx?ID=1086)
+- [headbands of translocation](https://2e.aonprd.com/Equipment.aspx?ID=949)
+- [corpseward pendant](https://2e.aonprd.com/Equipment.aspx?ID=806)
+- [ethersight ring](https://2e.aonprd.com/Equipment.aspx?ID=814)
+- [pactmaster’s grace](https://2e.aonprd.com/Equipment.aspx?ID=548)
+- [spiritsight ring](https://2e.aonprd.com/Equipment.aspx?ID=1526)
+- [herd mask](https://2e.aonprd.com/Equipment.aspx?ID=961)
+- [rhinoceros mask](https://2e.aonprd.com/Equipment.aspx?ID=965)
+- [tlil mask](https://2e.aonprd.com/Equipment.aspx?ID=968)
 
 ## Frequent Shopper Boons 
 

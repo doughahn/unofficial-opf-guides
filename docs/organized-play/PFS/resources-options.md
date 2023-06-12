@@ -842,3 +842,184 @@ Please follow these rulings and clarifications specific to Pathfinder Society pl
 - Characters who have gained access to the Fey Influence feat from a Pathfinder Society scenario gain access to the expanded version of this feat printed on page 126. This does not grant access to any additional feats in this section.
 - The Jalmeri Heavenseeker archetype as printed in this book (page 224) is legal for play. Players may not use the version printed in *Pathfinder #158: Six Feet Under.*
 - Arundhat was previously included in *Pathfinder Lost Omens: Gods and Magic* with ghostly touch as a cleric spell. Players may use either the version from that book or this book, but cannot use both. This choice must be made at the time the character is created.
+
+## Treasure Vault
+
+Many uncommon items can be unlocked by purchasing the Avid Collector - Treasure Vault boons from the Boon Store. Check the Pathfinder Society FAQ page for a list of what is included in each boon.
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+**Beast Armaments**
+
+- [vine whip](https://2e.aonprd.com/Equipment.aspx?ID=1889)
+
+**Alchemical Ammunition**
+
+- [ooze ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1900)
+- [rusting ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1901)
+
+**Alchemical Tool**
+
+- [gearbinder oil](https://2e.aonprd.com/Equipment.aspx?ID=1940)
+
+**Staff**
+
+- spellstrike staff (page 134)
+
+**Worn Item**
+
+- [vaultbreaker’s harness](https://2e.aonprd.com/Equipment.aspx?ID=819)
+- [ring of discretion](https://2e.aonprd.com/Equipment.aspx?ID=804)
+
+##### Restricted
+
+**Armor**
+
+- Reef Heart (page 18)
+
+**Weapon Rune**
+
+- Pacifying (page 33)
+
+**Poison**
+
+- clown monarch (page 68)
+- mustard powder (page 70)
+
+**Magical Ammunition**
+
+- black tendril shot (page 80)
+
+**Potions**
+
+- empath’s cordial (page 89)
+
+**Wondrous Consumable**
+
+- wind ocarina (page 99)
+
+**Grimoire**
+
+- courtier’s pillow book (page 112)
+
+**Magical Tattoo**
+
+- boozy bottle (page 119)
+
+**Staff**
+
+- socialite staff (page 134)
+
+**Wand**
+
+- wand of choking mist (page 138)
+
+**Other Items**
+
+- All Artifacts (pages 178-185)
+- All Blighted Boons (187-189)
+- All Cursed Items (190-193)
+- All Intelligent Items (193-197)
+
+### Alternate Rules
+
+The Complex Crafting, Critical Crafting, Nature Crafting and Story-Based Crafting rules (pages 148-168) are not used in the Pathfinder Society campaign. The Quick Setup feat is also not permitted in Pathfinder Society play.
+
+### Rulings and Clarifications
+
+- Attacks made by armor with the *swallow-spike* rune (page 13) apply the Multiple Attack Penalty as if you had made them with another weapon.
+- Per clarification from the Rules & Lore team, the *grounding spike* and *polarizing mace* (page 34) should both be 10th level items and cost 950 gp each. The dragontooth club (page 36) should be 13th level and cost 3,000 gp.
+- The version of the *alicorn lance* (page 36) which does evil damage may not be purchased or crafted in Pathfinder Society play.
+- The clause of *sight-theft* grit (page 70) which states that “the blinded condition from this poison lasts for an additional 24 hours once the poison has run its course” only applies if the target reaches Stage 3 and is blinded.
+- Items which can be used once per week, such as the architect’s pattern book (page 110) may be used once per scenario or adventure in Pathfinder Society play.
+- Items with effects that have an undetermined duration, such as the *linguist’s dictionary() (page 112), end their effects at the end of a scenario or adventure unless specifically stated otherwise by the campaign rules.
+- The counteract check from a pair of clarity goggles uses the item’s level to determine the degree of success.
+
+## Impossible Lands
+
+Remember that a character’s ethnicity, area of origin (nationality), or membership in certain factions might grant access to options in this book. For more information, consult the Character Origin and Organizational Memberships section of the [Guide to Organized Play: Pathfinder Society](https://www.organizedplayfoundation.org/Lorespire/pfs2guide).
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+None
+
+##### Restricted
+
+**Feats**
+
+[Reimagine](https://2e.aonprd.com/Feats.aspx?ID=3979) (Kashrishi; page 45)
+*Note: the Community Knowledge kashrishi feat was previously restricted; it is now Standard access.*
+
+**Curses**
+
+All curses and div curses (page 176)
+
+**Items**
+
+All Abraxan tattoos (page 305)
+
+**Deities**
+
+Mahathallah (page 316)
+
+### Clarifications
+
+Please follow these rulings and clarifications specific to Pathfinder Society play wherever they conflict with the language printed in the original source.
+
+- The DC of the Dominion Aura feat (page 33) is the higher of your class DC or spell DC.
+- As usual for archetypes, players who take the Shieldmarshal dedication feat (page 108) can't select another dedication feat until they have gained two other feats from the Shieldmarshal archetype.
+- Characters who have gained access to the Fey Influence feat from a Pathfinder Society scenario gain access to the expanded version of this feat printed on page 126. This does not grant access to any additional feats in this section.
+- The Jalmeri Heavenseeker archetype as printed in this book (page 224) is legal for play. Players may not use the version printed in Pathfinder #158: Six Feet Under.
+- Arundhat was previously included in Pathfinder Lost Omens: Gods and Magic with ghostly touch as a cleric spell. Players may use either the version from that book or this book, but cannot use both. This choice must be made at the time the character is created.
+
+## Firebrands
+
+Remember that a character’s membership in an organization might grant access to options in this book. Characters can purchase the Secondary Initiation boon in the Boon store to join an organization such as the Firebrands in addition to the Pathfinder Society. For more information, consult the [Guide to Organized Play: Pathfinder Society](https://www.organizedplayfoundation.org/Lorespire/pfs2guide).
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+All Services (page 95) - if such services are necessary for a scenario, they will be offered by the Pathfinder Society or included in the scenario
+
+##### Restricted
+
+**Feats**
+
+- Ostentatious Reload (page 76) - no downside at higher levels as DC becomes trivial
+- Quick Spring (page 81) - effectively doubles all movement speeds
+
+**Spells**
+
+Spells
+
+- flashy disappearance (page 89) - unclear if enemies can detect target with non-visual senses; one-action level 1 spell that completely avoids enemy reactions
+- illusory shroud (page 89) - level 2 spell that allows characters to hide in plain sight
+- instant parade (page 89) - level 2 spell that grants 10 minutes of invisibility which doesn’t break when taking hostile actions
+- nothing up my sleeve (page 90) - undetectable smuggling spells have potential to break scenarios
+
+**Items**
+
+- pesh paste (page 119) - drugs are not allowed in Organized Play
+
+### Clarifications
+
+- The Thrill-Seeker background (page 75) grants ability boosts to Strength and Constitution.
+- Rolling Landing’s text (page 76) only affects the reaction used after a fall, not any reaction.
+- The Critical Success effect of Devrin’s Cunning Stance (page 78) to deny an enemy’s reaction only applies if an ally’s Strike is successful against a flat-footed enemy.

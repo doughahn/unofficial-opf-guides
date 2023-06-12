@@ -1,4 +1,8 @@
+
+
 # 2E FaQ/Errata
+
+These are copied from the [official Paizo FaQ page](https://paizo.com/pathfinder/faq). The only editorial changes I have made are to add keywords to page numbers headings for context/findability. Otherwise, there are small formatting changes made to better structure the original text (e.g. blockquoting for clarity or adding links to Archives of Nethys).
 
 ## Pathfinder Core Rulebook Errata Part 1
 
@@ -16,7 +20,7 @@ Several ability names changed slightly between the Pathfinder Playtest and the f
 #### Page 75: Perpetual Infusions
 **Perpetual infusions (bomber option)**: Change “lesser liquid ice” to “lesser frost vial”
 
-#### Page 91 Thrash
+#### Page 91: Thrash
 **Thrash**: Change “ferocious specialization” to “weapon specialization”
 
 #### Page 115: Instrument of Zeal

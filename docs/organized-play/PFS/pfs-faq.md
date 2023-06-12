@@ -198,6 +198,26 @@ By default, champions and cavaliers do not have access to animal companions with
 
 A unique animal companion cannot be restored by spending a week of Downtime as other animal companions can. Animal companions and other minions can always be restored to life by spells such as raise dead or the Second Chance Achievement Point boon.
 
+## Core Rulebook Errata 4
+
+These are copied from the [blog post](https://paizo.com/community/blog/v5748dyo6si7p?January-2023-Organized-Play-Monthly-Update) until the FaQ page is updated. 
+
+- All new rule changes in the 4th printing of the Core Rulebook are in effect immediately.
+- [Dust of disappearance](https://2e.aonprd.com/Equipment.aspx?ID=242) has been made uncommon. Any character who previously purchased the item may keep it. It will be added to the Avid Collector - Core Rulebook boon for future purchases and characters.
+- The horse animal companion rules have been updated, and apply immediately. Any character who no longer wants a horse animal companion may freely change their animal companion to a new animal. Retraining out of an animal companion entirely follows the normal rules for retraining.
+- The alchemist class updates provide a number of changes and upgrades. Any alchemists built under the old rules can freely retrain their research field and any feats except those that specifically prohibit doing so (such as lineage feats). Any items purchased with gold can be sold back for the full purchase price. Retraining out of the alchemist class entirely can only be done with the normal retraining rules.
+- The Core Rulebook now allows all characters to take two free ability boosts instead of the printed options for their ancestry. Newly created characters in Pathfinder Society may use this rule; previously built characters may not unless they rebuild the character from scratch with a boon.
+- However, to retain the legality of numerous existing characters, the Pathfinder Society campaign will continue to offer the Voluntary Flaws optional ruleset and retain the text within the Guide to Organized Play. (see Editor Note below)
+
+*Editor Note:*
+
+The OP Coordinator [has confirmed](https://paizo.com/community/blog/v5748dyo6si7p?January-2023-Organized-Play-Monthly-Update#19) the ability boost changes mean 4 options:
+
+1. Vanilla ability boosts as printed 
+1. 2 free boosts and no flaws, any ancestry 
+1. Vanilla ability boosts + Old Optional Flaw System 
+1. 2 free boosts + Old Optional Flaw System, any ancestry
+
 ## Achievement Points
 
 *Docs Author Note: I put the [boons on their own page](2e-boons.md). Here are the general items from the FaQ:

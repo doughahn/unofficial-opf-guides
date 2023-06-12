@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,400;0,700;0,800;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
+
+/* Set a off-white for the body bg on default light theme */
+body[data-md-color-scheme="default"] {
+  
+}
+
+/*move the header flush left against logo div*/
+.md-header__title {
+  margin-left: 0 !important;
+}
+
+/* Constrain the width of the main body area and give the footer some breating room */
+.md-content__inner {
+  max-width: 30rem;
+  margin-bottom: 6rem;
+}
+
+/*===============*/
+/*Typography*/
+/*===============*/
+
+/*set the default fonts*/
+:root {
+    --md-text-font:     "Barlow";
+    --md-code-font:     "Space Mono";
+    --md-header-font:   "Barlow Condensed";
+}
+
+.md-header__topic {
+  font-family: var(--md-code-font);
+  font-weight: 700;
+  font-style: italic;
+}
+
+h1, h2, h3 {
+ font-family: var(--md-header-font);
+}
+
+blockquote {
+  font-size: .75rem;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+}
+
+
+.md-nav__link--active {
+  font-weight:  bold;
+}
+  
+[data-md-color-scheme="default"] .md-typeset h3 {
+  font-weight: 700;
+  color:  black
+}
+
+[data-md-color-scheme="default"] .md-typeset h4 {
+  font-weight: 700;
+  font-size:1em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+  margin: 1em 0 -1em 0 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset h6,
+[data-md-color-scheme="default"] .md-typeset h5 {
+  color:  black
+}
+
+.md-typeset h3:before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: .5rem;
+    width: 3rem;
+    border-top: .08rem solid var(--md-default-fg-color--light);
+}
+
+/*Body text links*/
+
+.md-content__inner a {
+  color: #3700B3;
+  transition-duration: 100ms;
+}
+
+.md-content__inner a:hover {
+  color: #3700B3;
+  text-decoration: underline;
+}
+
+/*lists */
+.md-content__inner ul, 
+.md-content__inner ol {
+  line-height: 1.2;
+  padding-left: 1.5rem;
+}
+
+/*resize tasklist check icons*/
+
+.md-typeset .task-list-indicator:before {
+  width: 1.1em;
+  height: 1.1em;
+  top: .1em;
+}
+
+/*Callouts*/
+
+.admonition-title {
+  font-family:  var(--md-header-font);
+  font-weight: 700;
+}
+
+/*Code blocks*/
+
+.md-typeset pre >code {
+  white-space : pre-wrap;
+}
+
+/*figures*/
+
+.md-typeset figure {
+  box-shadow: var(--md-shadow-z1);
+  max-width: 94%;
+  margin: 2.5rem auto 3rem auto;
+  padding-bottom: .25rem;
+  display: block;
+  border-radius: .25rem;
+  height: auto;
+}
+
+.md-typeset figcaption {
+  font-family: var(--md-code-font);
+  font-style:  normal;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  padding-top: .5rem;
+  font-size:  .6rem;
+}
+
+/*tables*/
+
+th, td {
+    border: 1px solid var(--md-typeset-table-color);
+    border-spacing: 0;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+}
+
+.md-typeset__table {
+    line-height: 1;
+}
+
+.md-typeset__table table:not([class]) {
+    font-size: .74rem;
+    border-right: none;
+}
+
+.md-typeset__table table:not([class]) td,
+.md-typeset__table table:not([class]) th {
+    
+}
+
+/* light mode alternating table bg colors */
+.md-typeset__table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+}
+
+/* dark mode alternating table bg colors */
+[data-md-color-scheme="slate"] .md-typeset__table tr:nth-child(2n) {
+    background-color: hsla(var(--md-hue),25%,25%,1)
+}
+
+[data-md-color-scheme="slate"] .md-content__inner a {
+  color:#F0F8FE;
+}
+
+/*sortable tables*/
+
+[dir=ltr] .md-typeset table th[role=columnheader]:after {
+    margin-left: 0em;
+}
+
+th[role=columnheader]:not(.no-sort) {
+  cursor: pointer;
+}
+
+th[role=columnheader]:not(.no-sort):after {
+  content: '';
+  white-space: pre;
+  margin-top: -3px;
+  border-width: 0 4px 4px;
+  border-style: solid;
+  border-color: #404040 transparent;
+  visibility: hidden;
+  opacity: 0;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+th[aria-sort=ascending]:not(.no-sort):after {
+  border-bottom: none;
+  border-width: 4px 4px 0;
+}
+
+th[aria-sort]:not(.no-sort):after {
+  visibility: visible;
+  opacity: 0.4;
+}
+
+th[role=columnheader]:not(.no-sort):hover:after {
+  visibility: visible;
+  opacity: 1;
+}
+
+.md-typeset table th[role=columnheader]:after {
+  display: block;
+  margin-top: .15rem;
+}
+
+th {
+  background-color: rgba(68,138,255,.1);
+}

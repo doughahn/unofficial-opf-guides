@@ -11,6 +11,8 @@ nav:
         - Boons: organized-play/PFS/2e-boons.md
         - AP Boons: organized-play/PFS/2e-ap-boons.md
         - Scenario List: organized-play/PFS/2e-scenarios.md
+        - Scenario Arcs: organized-play/PFS/scenario-arcs.md
+        - Society Player Hopes & Expectations: organized-play/PFS/hopes-expectations.md
     - Starfinder Society:
         - Scenario List: organized-play/SFS/starfinder-scenarios.md
     - Using Warhorn:
@@ -77,9 +79,9 @@ theme:
     - navigation.top
     - toc.follow
     - navigation.sections
-    - navigation.expand
     - content.tabs.link 
     - navigation.indexes
+    - content.code.copy
   hide:
     - navigation
   logo: 
@@ -90,7 +92,7 @@ extra:
 repo_name: doughahn/unofficial-opf-guides
 repo_url: https://github.com/doughahn/unofficial-opf-guides
 extra_css:
-    - css/extra.css
+    - css/extra-3-23.css
     - https://cdnjs.cloudflare.com/ajax/libs/featherlight/v.1.7.14/featherlight.min.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
@@ -121,23 +123,4 @@ plugins:
   - search
   - table-reader:
       data_path: "docs/assets"
-  - redirects:
-      redirect_maps:
-        'org-play.md': 'organized-play/org-play.md'
-        '2e-FAQ.md': 'second-edition/2e-FAQ.md'
-        'pfs-faq.md': 'organized-play/PFS/pfs-faq.md'
-        '2e-boons.md': 'organized-play/PFS/2e-boons.md'
-        'warhorn.md': 'warhorn/warhorn.md'
-        'warhorn-for-organizers.md': 'warhorn/warhorn-for-organizers.md'
-        'vtts-overview.md': 'online-gaming/vtts-overview.md'
-        'vtt/assets.md': 'online-gaming/assets.md'
-        'assets.md': 'online-gaming/assets.md'
-        'vtt/splitting-chronicles.md': 'online-gaming/splitting-chronicles.md'
-        'splitting-chronicles.md': 'online-gaming/splitting-chronicles.md'
-        'roll20-basics.md': 'online-gaming/roll20/roll20-basics.md'
-        'advanced-macros.md': 'online-gaming/roll20/advanced-macros.md'
-        'foundry-basics.md': 'online-gaming/foundry/foundry-basics.md'
-        'play-by-post.md': 'online-gaming/pbp/play-by-post.md'
-        'organized-play/2e-FAQ.md': 'second-edition/2e-FAQ.md'
-  - print-site
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'
