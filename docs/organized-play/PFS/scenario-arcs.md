@@ -52,6 +52,8 @@ These are PFS scenatios grouped by metaplot, location, or theme. They are organi
 `2-12` [Snakes in the Grass](https://paizo.com/products/btq026nx) (3-6)  
 
 ## Iobaria 
+
+`01-15` [The Blooming Catastrophe](https://paizo.com/products/btq022x2)  
 `2-01` [Citadel of Corruption](https://paizo.com/products/btq024wy) (1-4)   
 `2-03` [Catastrophe Spark](https://paizo.com/products/btq024zi) (1-4)   
 `2-14` [Lost in Flames](https://paizo.com/products/btq026nz) (3-6)  

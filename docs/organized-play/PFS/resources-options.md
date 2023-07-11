@@ -1023,3 +1023,27 @@ Spells
 - The Thrill-Seeker background (page 75) grants ability boosts to Strength and Constitution.
 - Rolling Landing’s text (page 76) only affects the reaction used after a fall, not any reaction.
 - The Critical Success effect of Devrin’s Cunning Stance (page 78) to deny an enemy’s reaction only applies if an ally’s Strike is successful against a flat-footed enemy.
+
+## Lost Omens Highelm
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+- Bloodhammer Reserve (page 86; basic version only) - turning into a shark on land will either remove a PC from an encounter or kill them. The higher-level versions are accessible with the Avid Collector–Highhelm boon.
+
+##### Restricted
+
+everair mask (page 112) - level 2 item which replicates higher-level consumables and spells
+
+### Clarifications 
+
+- The Clan Lore feat (page 108) can only be used to join the clans listed on that page (or any future clans published in official products). You may not change the skills or clan selected during downtime.
+- A Forge-Blessed dwarf (page 109) can use their granted 1st-level spell once per scenario.
+Some deities in this book added alternate domains (such as Bolka’s toil domain). These are permitted for all followers of these deities.
+- Angradd (page 116) is printed with different divine abilities and Folgrit (page 119) is printed with a different divine skill from their initial printings in Gods & Magic. Players may use either the version from that book or this book, but cannot use both. This choice must be made at the time the character is created.
+- Folgrit’s third granted spell is 9th-level resplendent mansion as initially printed; the spell is not granted as a 6th-level spell.

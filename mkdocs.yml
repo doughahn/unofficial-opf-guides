@@ -12,7 +12,7 @@ nav:
         - AP Boons: organized-play/PFS/2e-ap-boons.md
         - Scenario List: organized-play/PFS/2e-scenarios.md
         - Scenario Arcs: organized-play/PFS/scenario-arcs.md
-        - Society Player Hopes & Expectations: organized-play/PFS/hopes-expectations.md
+        - Benchmarks: organized-play/PFS/pfs-benchmarks.md
     - Starfinder Society:
         - Scenario List: organized-play/SFS/starfinder-scenarios.md
     - Using Warhorn:
@@ -121,6 +121,9 @@ markdown_extensions:
       permalink: ⚑
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+          'organized-play/PFS/hopes-expectations.md': 'organized-play/PFS/pfs-benchmarks.md'
   - table-reader:
       data_path: "docs/assets"
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'

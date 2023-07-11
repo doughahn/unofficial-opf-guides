@@ -1,21 +1,21 @@
-# Hopes & Expectations at the PFS Table
+# PFS Benchmarks 
 
 This guide is inspired by Painlord's [treatise on what he expects](url=https://paizo.com/threads/“https://paizo.com/threads/rzs2lf1m?Painlords-What-to-Expect-at-a-PFS-Table#1) of others at the table.
 
-Pathifnder Society has been out for almost five years and with more players moving into mid- and higher-tier play, I want to update his giuide. While Painlord's work rather didactic I hope to convey a tone that better fits the sensibilities of the contemporary TTRPG landscape — one focused on collaboration and teamwork. This is a guide, it is not intended to tell anyone how to play; it's a starting point for thinking about how your PC can be a positive contributor in the Organized Play environment where party compositions are randomized. I am writing it in the first person to position it as my own framework.
+Pathifnder Society has been out for almost five years and with more players moving into mid- and higher-tier play, I want to update his guide. While Painlord's work rather didactic I hope to convey a tone that better fits the sensibilities of the contemporary TTRPG landscape — one focused on collaboration and teamwork. This is a guide, it is not intended to tell anyone how to play; it's a starting point for thinking about how your PC can be a positive contributor in the Organized Play environment where party compositions are randomized. I am writing it in the first person to position it as my own framework.
 
 The baseline question I ask myself is simple: **will the party be stronger or weaker with this character in it?**
 
 ----
 
-Everyone builds characters differently. I plan out every level, and prefer make choices that are informed at least in part based on the common problems scenarios throw at partioes. Even if you don't meticulously plan your PCs, or prefer to focus on roleplay over mechanics, this section might provide considerations or help you hone in on a particular option. 
+Everyone builds characters differently. I plan out every level, and prefer make choices that are informed at least in part based on the common problems scenarios throw at parties. Even if you don't meticulously plan your PCs, or prefer to focus on roleplay over mechanics, this section might provide considerations or help you hone in on a particular option. 
 
 ## Level 1
-Healing is super challenging at low levels, and the party might not have a healer or anyone trained in medicine! If my PC isn't capable of magical or mundane healing, I take a potion from my [school items](https://organizedplayfoundation.org/Lorespire/pfs2guide._.Player-Basics#Table:_4-1_School_Consumables). After the mission briefing my PC takes a moment to mention where it is on their person so allies can feed it to them if they're Dying. I like to do this for two out-of-character reasons: it gives an out-of-charafter signal that I'm willing to communicate and collaborate, and it demonstrates that I am willing to expend my own resources on keeping my character alive. I have also found this to be tactically efficinet: having a potion handy is a habit will that hs saved several of my PCs from death (I've also used my resoures to save PCs who don't bring their own).
+Healing is super challenging at low levels, and the party might not have a healer or anyone trained in medicine! If my PC isn't capable of magical or mundane healing, I take a potion from my [school items](https://organizedplayfoundation.org/Lorespire/pfs2guide._.Player-Basics#Table:_4-1_School_Consumables). After the mission briefing my PC takes a moment to mention where it is on their person so allies can feed it to them if they're Dying. I like to do this for two out-of-character reasons: it gives an out-of-character signal that I'm willing to communicate and collaborate, and it demonstrates that I am willing to expend my own resources on keeping my character alive. I have also found this to be tactically efficient: having a potion handy is a habit will that hs saved several of my PCs from death (I've also used my resources to save PCs who don't bring their own).
 
-I alkso try to build new PCs with the essentials: a spare light weapon (often a dagger), a primary weapon, and a ranged weapon (sometimes also dagger). My martial characters purcahse a couple of damaging types so they can get through Damage Reduction or capitalize on Weakness easily. 
+I also try to build new PCs with the essentials: a spare light weapon (often a dagger), a primary weapon, and a ranged weapon (sometimes also dagger). My martial characters purchase a couple of damaging types so they can get through Damage Reduction or capitalize on Weakness easily. 
 
-If I don’t have darkvision, I try to have a way to create light, even if it’s just a torch or Wayfinder (free at level 2). If I am playing a caster with darkvision, I strongly consider preparing a Light cantrip just to be a good teammate. I liek to cast it on a rock and drop hand it into your human buddy's pocket, or cast it on as word or shioeld for efficiency and a fun rolepley hook. 
+If I don’t have darkvision, I try to have a way to create light, even if it’s just a torch or Wayfinder (free at level 2). If I am playing a caster with darkvision, I strongly consider preparing a Light cantrip just to be a good teammate. I liek to cast it on a rock and drop hand it into your human buddy's pocket, or cast it on as word or shield for efficiency and a fun roleplay hook. 
 
 ## Level 3
 
@@ -27,9 +27,9 @@ What are the basics of the action economy? By now, I hope everyone knows what [S
 
 It's also nice to see fellow players utilize their third actions consistenylu. If I'm not sure what to do with a third action I consider the following: [raise a shield](https://2e.aonprd.com/Actions.aspx?ID=98) or [cast shield](https://2e.aonprd.com/Spells.aspx?ID=280), [stride](https://2e.aonprd.com/Actions.aspx?ID=88) into a safer position or a flank, set up an [Aid](http://2e.aonprd.com/Actions.aspx?ID=75), or [Recall Knowledge](https://2e.aonprd.com/Skills.aspx?ID=5&General=true). In most cases, trying something is better than doing nothing. 
 
-Every +1 counts. My Martial characters have a magic weapon the moment they hit level 3. if proficient, hey have a few [bombs](https://2e.aonprd.com/Weapons.aspx?ID=73) to deal with swarms and Damage Reduction or Regeneration. I liek to buy [Holy Waters](https://2e.aonprd.com/Equipment.aspx?ID=245) on every PC as well — it's super effective against creatures weak to good damage (Society games pit us agians many evil creatures, so it's a good bet you will encounter enemies vilnerable to Good damage).
+Every +1 counts. My Martial characters have a magic weapon the moment they hit level 3. if proficient, hey have a few [bombs](https://2e.aonprd.com/Weapons.aspx?ID=73) to deal with swarms and Damage Reduction or Regeneration. I liek to buy [Holy Waters](https://2e.aonprd.com/Equipment.aspx?ID=245) on every PC as well — it's super effective against creatures weak to good damage (Society games pit us agianst many evil creatures, so it's a good bet you will encounter enemies vilnerable to Good damage).
 
-When I am on the other side of the screen as a GM, I also hope players can noew start speaking Pathfinder in ways that keep the game flowing smoothly. For example, players can include DCs when you cast spells:
+When I am on the other side of the screen as a GM, I also hope players can now start speaking Pathfinder in ways that keep the game flowing smoothly. For example, players can include DCs when you cast spells:
 
 > I cast Fear; DC 21 Basic Will Save for the dire Corgi.
 
@@ -41,7 +41,7 @@ This is a point at which the game becomes a lot more exciting (and challenging).
 
 At this point, my martials have more than one weapon with which to solve problems, or they're prepared to just do big enough damage to fight through higher damage resistance/hardness (e.g. Power Attack or Rage).
 
-unless I hvae access to MAge Armor, my first puchase at level 5 is always an Armor Potency rune… even on my casters. A +1 AC can make a world of difference, beetween a crit that knocks oyu down and a hit. 
+unless I hvae access to MAge Armor, my first purchase at level 5 is always an Armor Potency rune… even on my casters. A +1 AC can make a world of difference, between a crit that knocks oyu down and a hit. 
 
 My casters also start investing in scrolls for utility — options include [resist energy](https://2e.aonprd.com/Spells.aspx?ID=256) (great against persistent damage), [glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136)/[faerie fire](https://2e.aonprd.com/Spells.aspx?ID=107), [spider climb](https://2e.aonprd.com/Spells.aspx?ID=299) (deal with terrain), [Heal](https://2e.aonprd.com/Spells.aspx?ID=148)/[Soothe](http://2e.aonprd.com/Spells.aspx?ID=291), [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258), [Water Walk](http://2e.aonprd.com/Spells.aspx?ID=371), and similar utility scrolls. This is a collection that will someday become a library of party-saving magic. I will often have a wand or two as well (for example, level 2 [Longstrider](https://2e.aonprd.com/Spells.aspx?ID=175) and [False Life](https://2e.aonprd.com/Spells.aspx?ID=108) provide all-day utility).
 
@@ -53,7 +53,7 @@ Speaking of, scenarios now start throwing challenging terrain at you with high f
 
 Another general feat. Defensive-minded players such as myself often want to bump a weak save to Expert with [Canny Acumen](https://2e.aonprd.com/Feats.aspx?ID=764) here. This is also the level wt which [Untrained Improvisation](https://2e.aonprd.com/Feats.aspx?ID=861) becomes amazing. 
 
-As a player I hope to see more flexibility from spellcasters, and a greater willingess to expend non-cantrip slots.
+As a player I hope to see more flexibility from spell casters, and a greater willingness to expend non-cantrip slots.
 
 Enemy tactics are now more robust; scenarios may instruct GMs to target lower-AC PCs, ambush the party, or leverage spells like [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=164) and [Darkness](https://2e.aonprd.com/Spells.aspx?ID=59). To mitigate this a potion of Darkvision can help a lot, as can [Faerie Fire](https://2e.aonprd.com/Spells.aspx?ID=107) or [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136).
 
@@ -71,11 +71,11 @@ When I show up to a level 9+ table I bring my "A game." Here is that that means 
 1. I bring my full sheets, prepared for an audit. 
 1. I can explicate abilities and math if the GM asks.
 
-As for fellow players, I expect them to have built upon all of the above with basic knowledge of their opwn spells and abilities; for example, knowing how [Incapacitation](https://2e.aonprd.com/Traits.aspx?ID=93) works, how [Counteracting](https://2e.aonprd.com/Rules.aspx?ID=371) works, and to remember to use key skill feats like [Foil Senses](https://2e.aonprd.com/Feats.aspx?ID=785) effectively.
+As for fellow players, I expect them to have built upon all of the above with basic knowledge of their own spells and abilities; for example, knowing how [Incapacitation](https://2e.aonprd.com/Traits.aspx?ID=93) works, how [Counteracting](https://2e.aonprd.com/Rules.aspx?ID=371) works, and to remember to use key skill feats like [Foil Senses](https://2e.aonprd.com/Feats.aspx?ID=785) effectively.
 
-At this point I usually have some spare gold to buy some nicer consumables, or items that help shore up weaknesses (for example, most of my PCs without Darkvision end up purchasing [Goggles of Night](https://2e.aonprd.com/Equipment.aspx?ID=438) at some point between level 5 and 9). I invest in a [Moderate Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91) — it's expensive, but lower-level potioins can place you in greater danger than if you just stay down. ]]
+At this point I usually have some spare gold to buy some nicer consumables, or items that help shore up weaknesses (for example, most of my PCs without Darkvision end up purchasing [Goggles of Night](https://2e.aonprd.com/Equipment.aspx?ID=438) at some point between level 5 and 9). I invest in a [Moderate Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91) — it's expensive, but lower-level potions can place you in greater danger than if you just stay down.
 
-Finally, I try to run my turns as efficiently as possible. I rthink ahead about what I'm going to do, I roll my damage dice with my d20's, and I try to perform any math quickly.
+Finally, I try to run my turns as efficiently as possible. I think ahead about what I'm going to do, I roll my damage dice with my d20's, and I try to perform any math quickly.
 
 ## Best Practices for Any Level
 
@@ -110,7 +110,7 @@ A common pitfall I've encountered is the temptation to create a character that o
 ### Spend, Don't Hoard
 Pathfinder Society often provides far more gold per level than what you'd earn in an Adventure Path. The stark contrast between the wealth of a Pathfinder Society character versus that of a traditional adventurer can be surprising. But remember, this is by design. The wealth isn't there so you can acquire flashy items faster; it's there to give you a fighting chance when you're thrown into complex scenarios.
 
-If my character's class and ancestry features don't cover the basics, I invest in items that do. I try to compensate for my character's weaknesses with appropriate gear. For instance, if my character isn't particularly intelligent, I might buy a couple of cognitive mutagens to have on hand for critical moments. If a PC doesn;t have Darkvision I invest in Goggles of night. 
+If my character's class and ancestry features don't cover the basics, I invest in items that do. I try to compensate for my character's weaknesses with appropriate gear. For instance, if my character isn't particularly intelligent, I might buy a couple of cognitive mutagens to have on hand for critical moments. If a PC doesn't have Darkvision I invest in Goggles of night. 
 
 I typically allocate about 10% of my character's wealth towards consumable items.
 
@@ -127,7 +127,7 @@ When building a character, I always consider alternate strategies for a variety 
 These thought exercises help illuminate what items to buy as well, a common problem many Society players face at middle to high levels. 
 
 ### Contribute Both In and Out of Combat
-No matter what I build, I find that I enjoy Pahtfinder more if I can contribute both in and out of combat. PFS scenarios typically have components of social as well as combat encounters, so I prefer to biuld PCs who are good at both. I try to pick one social or intelligence skill that is useful out of combat, in addition to the lore we get with character creation. 
+No matter what I build, I find that I enjoy Pathfinder more if I can contribute both in and out of combat. PFS scenarios typically have components of social as well as combat encounters, so I prefer to build PCs who are good at both. I try to pick one social or intelligence skill that is useful out of combat, in addition to the lore we get with character creation. 
 
 ### Stick Together
 Pathfinder is a team game. It takes everyone pulling their weight to beat some of the Extreme encounters you find in Society games. Always communicate with your team and agree on objectives together. Let specialists do their jobs and don't rush ahead. Try to make decisions as a group and coordinate to ensure everyone is playing at an appropriate level.
@@ -140,3 +140,10 @@ The best way to improve your playing skills is to learn to GM! Running games giv
 
 ## Conclusion
 However you build, remember that Pathfinder Society is a team game and a social experience. Respect your GM and fellow players, and try to be a positive force both on and off the table. Everyone is doing their best and often balancing other life commitments. Show empathy, share knowledge, and create space for everyone to shine. Celebrate failures as well as successes, as they can make the game more interesting. Always express appreciation when a teammate makes a valuable contribution. Saying *thanks* goes a long way.
+
+### Checklist
+
+This resource is a worksheet that prompts you to think about solutions by level, and has a checklist and cost of common solutions—from permanent to consumable items—for problems by level. 
+
+[Checklist](https://docs.google.com/spreadsheets/d/18qljCLjWZnhiH0BVIgIvkYHOT5qQCWi0oA3tFHuHh9M/edit?usp=sharing){ .md-button }
+
