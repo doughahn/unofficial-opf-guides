@@ -178,7 +178,7 @@ Google slides can be used as a bare-bones VTT. Essentially, the GM creates a set
 Google Slides is free to use; the GM should own a Google Account to edit the slides. In addition, the group needs to set up some kind of voice or VTT, so a Discord server may need to be acquired. 
 
 #### Pros, Cons, Audience
-Google Slides can be a fast way to get a VTT off the ground, and it's used by the [play-by-post.md](play by post) community, but it lacks almost al the features modern players tend to expect when it comes to a VTT. Though free, users need to have some kind of voice setup such as a discord server. Finally, users with muscular or vision disabilities may have difficulty interacting with the slides. 
+Google Slides can be a fast way to get a VTT off the ground, and it's used by the [Play by Post](pbp/play-by-post.md) community, but it lacks almost al the features modern players tend to expect when it comes to a VTT. Though free, users need to have some kind of voice setup such as a discord server. Finally, users with muscular or vision disabilities may have difficulty interacting with the slides. 
 
 !!! success "Pros"
     - Quickly set up tables

@@ -3,6 +3,7 @@ site_url: https://doughahn.github.io/unofficial-opf-guides/
 nav:
     - Second Edition:
       - 2E Errata: second-edition/2e-FAQ.md
+      - Core preview: second-edition/core-preview.md
     - Organized Play:
       - Organized Play 101: organized-play/org-play.md
       - Pathfinder Society:
@@ -112,11 +113,11 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true 
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
-      toc_depth: 2
+      toc_depth: 3
       permalink: 6
       permalink: ⚑
 plugins:

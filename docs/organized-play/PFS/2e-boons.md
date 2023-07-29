@@ -681,6 +681,21 @@ Worn items:
 - [rhinoceros mask](https://2e.aonprd.com/Equipment.aspx?ID=965)
 - [tlil mask](https://2e.aonprd.com/Equipment.aspx?ID=968)
 
+### Lost Omens Highelm
+
+Select an uncommon item from a curated list of Highhelm options; this character has access to it. Can be purchased multiple times on the same character; select a different item for each purchase. **Cost: 20 AcP.** 
+
+- furnace of endings or liar’s board (page 58-59)
+- irondust stew (page 73) 
+- Bloodhammer Reserve (Select or Black Label only)
+- bloodknuckles
+- dark pepper powder
+- grub gloves
+- unexceptional rune or words of wisdom (pages 86-87)
+- Highhelm drill or Highhelm war shield (page 112)
+
+*Note* these items are not on AoN yet.
+
 ## Frequent Shopper Boons 
 
 Your PC gains access to a curated list of uncommon items.

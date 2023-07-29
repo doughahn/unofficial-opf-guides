@@ -1038,7 +1038,7 @@ All options are of standard availability unless specifically noted otherwise.
 
 ##### Restricted
 
-everair mask (page 112) - level 2 item which replicates higher-level consumables and spells
+- everair mask (page 112) - level 2 item which replicates higher-level consumables and spells
 
 ### Clarifications 
 

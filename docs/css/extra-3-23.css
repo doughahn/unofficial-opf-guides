@@ -224,3 +224,7 @@ th[role=columnheader]:not(.no-sort):hover:after {
 th {
   background-color: rgba(68,138,255,.1);
 }
+
+[data-md-color-scheme="slate"] .md-content__inner a {
+    text-decoration: underline;
+}
