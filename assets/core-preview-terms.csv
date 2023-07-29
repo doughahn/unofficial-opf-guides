@@ -1,26 +1,26 @@
 Old,New,Explanation
-Ability modifier,Attribute modifier,See Attribute Modifiers
-Ability score,  ,See Attribute Modifiers
+Ability modifier,Attribute modifier,See <a href="#attribute-modifiers">Attribute Modifiers</a>
+Ability score,  ,See <a href="#attribute-modifiers">Attribute Modifiers</a>
 Abyss,The Outer Rifts,Changed to update world lore.
 Aquan,Thalassic,Changed to update world lore.
 Attack of Opportunity,Reactive Strike,More descriptive name and reduces confusion for players coming to the game from a different rules set that uses the term.
 Auran,Susurran,Changed to update world lore.
-Azer,Munsahir,See Munsahir entry
+Azer,Munsahir,See <a href="#munsahir">Munsahir</a>
 City of Brass,Medina Mudii’a,Changed to update world lore.
 Counteract level,Counteract rank,Changed to avoid confusion between “level” and “level.”
 Darkwood,Duskwood,Changed to update world lore.
-Sustain a Spell,Sustain,See Sustain
+Sustain a Spell,Sustain,See <a href="#sustain-and-dismiss">Sustain</a>
 Divine ability,Divine attribute,Updated to new attribute terminology.
-Djinni,Jaathoom,"See Genie,"
-Efreeti,Ifrit,See Genie
+Djinni,Jaathoom,See <a href="#genies">Genie</a>
+Efreeti,Ifrit,See <a href="#genies">Genie</a>
 Flat-footed,Off-guard,Term was awkward and unclear.
 Focus spell component,Locus,Changed to avoid overlap with focus spells.
-Ifrit,Naari,See Ifrit
+Ifrit,Naari,See Ifrit in PDF
 Ignan,Pyric,Changed to update world lore.
-Janni,Jann,See Genie
-Marid,Faydhaan,See Genie
+Janni,Jann,See <a href="#genies">Genie</a>
+Marid,Faydhaan,See <a href="#genies">Genie</a>
 Material Plane,The Universe,Changed to update world lore.
-Mephit,Scamp,See Mephit
+Mephit,Scamp,See Mephit in PDF
 Metamagic,Spellshape,Changed to be more specific.
 Mithral,Dawnsilver,Changed to update world lore.
 Negative,Void,Negative damage and the negative trait are now “void” to reflect their meaning in the game world and avoid confusing wording when doing math.
@@ -28,9 +28,9 @@ Negative Energy Plane,The Void,Changed to update world lore.
 Positive,Vitality,Positive damage and the positive trait are now “vitality” to reflect their meaning in the game world and avoid confusing wording when doing math.
 Positive Energy Plane,Creation’s Forge,Changed to update world lore.
 Shadow Plane,The Netherworld,Changed to update world lore.
-Shaitan,Jabali,"See Genie, page 14."
-Spell level,Spell rank,See page 4.
-Sustain a Spell/Activation,Sustain,See page 4.
+Shaitan,Jabali,See <a href="#genies">Genie</a>
+Spell level,Spell rank,See <a href="#spell-rank">Spell Rank</a>
+Sustain a Spell/Activation,Sustain,See <a href="#sustain-and-dismiss">Sustain and dismiss</a>
 Terran,Petran,Changed to update world lore.
 Tools,Toolkit,"Sets of tools you can wear are called toolkits to make it more clear which items are eligible to be worn.
 "
