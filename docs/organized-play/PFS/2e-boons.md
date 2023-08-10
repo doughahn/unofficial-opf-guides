@@ -11,8 +11,6 @@ Each ancestry is listed, along with the AcP Cost:
 - [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15): 40 AcP
 - [Hobgoblin](https://2e.aonprd.com/Ancestries.aspx?ID=13): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
 - [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17): 120 AcP ([reducing to 80 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
-- [Ratfolk](https://2e.aonprd.com/Ancestries.aspx?ID=20): 80 AcP
-- [Tengu](https://2e.aonprd.com/Ancestries.aspx?ID=21): 80 AcP
 - [Shoony](https://2e.aonprd.com/Ancestries.aspx?ID=16): 160 AcP (Discounted to 80 with a certain AP credit)
 - [Android](https://2e.aonprd.com/Ancestries.aspx?ID=27): 160 AcP
 - [Fetching](https://2e.aonprd.com/Ancestries.aspx?ID=30): 80 AcP ([reducing to 40 on July 29 2022](https://paizo.com/community/blog/v5748dyo6si35?Pathfinder-Society-Year-4-Rule-Updates))
@@ -40,19 +38,22 @@ Each ancestry is listed, along with the AcP Cost:
 Each heritage is listed, along with the AcP Cost:
 
 - [Aphorite](https://2e.aonprd.com/Ancestries.aspx?ID=28): 160 AcP
-- [Changeling](https://2e.aonprd.com/Ancestries.aspx?ID=22): 80 AcP
 - [Dhampir](https://2e.aonprd.com/Ancestries.aspx?ID=23): 80 AcP
-- [Aasimar](https://2e.aonprd.com/Ancestries.aspx?ID=24): 80 AcP
 - [Duskwalker](https://2e.aonprd.com/Ancestries.aspx?ID=25): 80 AcP
-- [Tiefling](https://2e.aonprd.com/Ancestries.aspx?ID=26): 80 AcP
 - [Beastkin](https://2e.aonprd.com/Ancestries.aspx?ID=29): 160 AcP
 - [Ganzi](https://2e.aonprd.com/Ancestries.aspx?ID=32): 80 AcP
-- Genekin: 80 AcP
+- Genekin: 40 AcP
     - [Ifrit](https://2e.aonprd.com/Ancestries.aspx?ID=33)
     - [Oread](https://2e.aonprd.com/Ancestries.aspx?ID=34)
     - [Sylph](https://2e.aonprd.com/Ancestries.aspx?ID=36)
     - [Suli](https://2e.aonprd.com/Ancestries.aspx?ID=35)
     - [Undine](https://2e.aonprd.com/Ancestries.aspx?ID=37)
+    - Talos
+    - Ardande
+
+### Notable changes
+
+The Changeling, Tengu, Ratfolk, Tiefline, and Aasimar were [made free in year 5](https://paizo.com/community/blog/v5748dyo6sid7?Pathfinder-Society-Year-5-Rule-Updates#discuss). In addition the genekin heritage was reduced to 40 AcP along with the talos and ardande heritages. Players who previously purchased those boons will have them updated to grant a free use of the resurrection ritual to those characters, as we have done for past ancestries.
 
 ----
 ## System Traveler Boons

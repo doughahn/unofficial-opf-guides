@@ -125,6 +125,14 @@ plugins:
   - redirects:
       redirect_maps:
           'organized-play/PFS/hopes-expectations.md': 'organized-play/PFS/pfs-benchmarks.md'
+          'org-play.md': 'organized-play/org-play.md'
+          'warhorn.md': 'warhorn/warhorn.md'
+          'warhorn-for-organizers.md': 'warhorn/warhorn-for-organizers.md'
+          'play-by-post.md': 'online-gaming/pbp/play-by-post.md'
+          'vtts-overview.md': 'online-gaming/vtts-overview.md'
+          'roll20-basics.md': 'online-gaming/roll20/roll20-basics.md'
+          'foundry-basics.md': 'online-gaming/foundry/foundry-basics.md'
+          'splitting-chronicles.md': 'online-gaming/splitting-chronicles.md'
   - table-reader:
       data_path: "docs/assets"
 copyright: 'Copyright Statement: This website uses trademarks and/or copyrights owned by <a href="https://paizo.com/">Paizo Inc</a>., which are used under Paizo’s Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo’s Community Use Policy, please visit <a href="https://paizo.com/community/communityuse">paizo.com/communityuse</a>. For more information about Paizo Inc. and Paizo Organized Play Programs, please visit paizo.com.'

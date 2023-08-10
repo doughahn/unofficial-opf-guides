@@ -1047,3 +1047,74 @@ All options are of standard availability unless specifically noted otherwise.
 Some deities in this book added alternate domains (such as Bolka’s toil domain). These are permitted for all followers of these deities.
 - Angradd (page 116) is printed with different divine abilities and Folgrit (page 119) is printed with a different divine skill from their initial printings in Gods & Magic. Players may use either the version from that book or this book, but cannot use both. This choice must be made at the time the character is created.
 - Folgrit’s third granted spell is 9th-level resplendent mansion as initially printed; the spell is not granted as a 6th-level spell.
+
+## Rage of Elements
+
+### Core Preview
+Options from the Pathfinder Remaster Core Preview document are only available for use if an option in Rage of Elements specifically permits it. Players and GMs are encouraged to use the Core Preview to begin familiarizing themselves with the new and updated game terms coming with the full release in November.
+
+### Option Availability
+
+##### Standard
+
+All options are of standard availability unless specifically noted otherwise.
+
+##### Limited
+
+###### Spells
+
+- *fire’s pathway* (page 119) - teleport spell.
+- *heatvision* (page 120) - too subject to GM discretion.
+
+###### Items
+
+- *submersible anglerfish lantern* (page 176) - can create a vehicle, which are not used in Pathfinder Society. The basic anglerfish lantern is permitted as normal.
+- *planar skiff* (page 225) - vehicles are not used in Pathfinder Society.
+
+##### Restricted
+
+###### Deities
+
+- Ayrzul (page 92) - edicts to poison everyone and always lie are disruptive at the table.
+- Ferrumnestra (page 140) - anathema to preserving knowledge is directly opposed to the Pathfinder Society’s goals.
+- Hshurha (page 68) - edict of “humiliate terrestrial creatures” is disruptive at the table.
+
+###### Rituals
+
+- All rituals (pages 73, 175, 223) - rituals are not used in Organized Play.
+
+###### Spells
+- *mantle of the melting heart* (page 143) - spell can grant immunity to poison and automatic item damage that bypasses hardness, which are both extremely potent
+
+###### Other Rules
+
+- Relic gifts (page 148) - Relics are not used in Organized Play.
+
+### Rulings & Clarifications
+
+#### Feats
+
+- The elemental summoned by the Fearsome Familiar feat (page 22) should be given the Summoned trait in addition to its other traits.
+
+#### Impulses
+
+- Movement caused by the Flinging Updraft impulse (page 24) is forced movement.
+- Add the following text to the Ghosts in the Storm impulse (page 25) for Pathfinder Society play:   
+  > “If the Strike is magical and already has the maximum number of property runes, the wielder can choose one to suppress to gain shock.”
+- Each 5-foot cube of stone created by the Igneogenesis impulse (page 26) has the same statistics as stone (7 Hardness, 28 HP, BT 14).
+- When a kineticist and their Crawling Fire (page 28) are both caught in the area of an effect, only one save must be made and damage is only applied once.
+- A Tree of Duality (page 37) creates both the Cleansing Pollen and Hallucinogenic Spore effects, not just one.
+- For Pathfinder Society play, any druid with an animal companion may take a metal elemental as their companion (pages 39-42). Druids of the specifically listed orders may also take the other elementals (e.g. a wave order druid may take a water elemental companion).
+
+#### Items
+
+- The Fortitude save for Jaathoom’s Rebuke (jaathoom’s scarf, page 75) is 28, not 18.
+- The cymophane cabochon aeon stone (page 98) only provides its item bonus to Perception checks and DCs against Hide, Sneak and Steal actions, not a universal bonus to Perception checks and DCs. Similarly, the polished pebble aeon stone (page 98) only grants its item bonus to Fortitude saves and DCs against attempts to grapple or swallow the holder; it does not provide a universal bonus to Fortitude saves.
+- When using a broadleaf shield (page 200), the season is the current season where the player is located.
+
+#### Spells
+
+- Any spells which require metal to function (such as needle darts [page 144]) require the PC to be holding at least one chunk of that metal or an item made of that metal.
+- For the purposes of the fold metal spell (page 143) in Pathfinder Society play, objects which are part of a structure (such as a door, or a lock on a window) are not considered “unattended.”
+- Movement caused by the magnetic dominion spell (page 143) is forced movement.
+- Remove the range from the elemental breath spell (page 222). The cone is created from the user’s square.
