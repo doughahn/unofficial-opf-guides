@@ -1,0 +1,7 @@
+Tables,Tiers
+Less than 15,None*
+15-24,Tier 5
+25-39,Tier 4
+40-59,Tier 3
+60-74,Tier 2
+75 or more-,Tier 1
