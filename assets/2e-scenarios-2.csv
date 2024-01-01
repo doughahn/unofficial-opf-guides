@@ -15,7 +15,7 @@ Name,Tier,Repeatable,Glyph /Exclusive,Other Tags
 01-13 Devil at the Crossroads,3–6,No,  ,Faction (Vigilant Seal)
 01-14 Lions of Katapesh,1–4,Yes,  ,  
 01-15 The Blooming Catastrophe,1–4,No,  ,Faction (Verdant Wheel)
-"01-16 The Perennial Crown Part 1, Opal of Bhopan",3–6,No,  ,Metaplot
+01-16 The Perennial Crown Part 1: Opal of Bhopan,3–6,No,  ,Metaplot
 01-17 The Perennial Crown Part 2: The Thorned Monarch,3–6,No,  ,Metaplot
 01-18 Lodge of the Living God,1–4,No,  ,Faction (Envoy's Alliance)
 01-19 Iolite Squad Alpha,3–6,No,  ,  
@@ -88,5 +88,9 @@ Intro 2 United in Purpose,1-2,Yes,  ,
 4-13 Within the Praries,1-4,No, ,"Metaplot (Boundless Wonder), Envoy's Alliance, Verdant Wheel"
 4-14 Shattering Golden Chains,3-6,No,   ,Envoy's Alliance
 4-15 In Glorious Battle,9-12,No,Glyph,  
-4-16 Dacilane Academy's First Great Prank War,9-12,No, ,  
-4-17 Trapping the Hag’s Claw,7-10,No,Metaplot (Boundless Wonder),  
+4-16 Dacilane Academy's First Great Prank War,9-12,No, ,
+4-17 Trapping the Hag’s Claw,7-10,No, , Metaplot (Boundless Wonder)
+5-01 Intro: Year of Unfettered Exploration, 1-4, Yes, ,"Metaplot (Unfettered Exploration), Envoy's Alliance"
+5-02 The Blackwood Lost, 3-6, No, ,"Envoy's Alliance, Verdant Wheel"
+5-03 Heidmarch Heist, 5-8, No, , 
+5-04 Equal Exchanges – Necessary Introductions, 1-4, No, ,Metaplot (Equal Exchanges)
